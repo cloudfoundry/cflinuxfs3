@@ -3,7 +3,7 @@ Cloud Foundry cflinuxfs3 (EXPERIMENTAL)
 
 This repo contains scripts for creating warden root filesystems.
 
-* cflinuxfs3 derived from Ubuntu 14.04 (Trusty Tahr)
+* cflinuxfs3 derived from Ubuntu 18.04 (Bionic Beaver)
 
 # Dependencies
 

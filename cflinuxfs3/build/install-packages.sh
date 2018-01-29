@@ -6,18 +6,6 @@ function apt_get() {
   apt-get -y --force-yes --no-install-recommends "$@"
 }
 
-function install_mysql_so_files() {
-    mysqlpath="/usr/lib/x86_64-linux-gnu"
-    if [ "`uname -m`" == "ppc64le" ]; then
-        mysqlpath="/usr/lib/powerpc64le-linux-gnu"
-    fi
-    apt_get install libmysqlclient-dev
-    tmp=`mktemp -d`
-    mv $mysqlpath/libmysqlclient* $tmp
-    apt_get remove libmysqlclient-dev libmysqlclient18
-    mv $tmp/* $mysqlpath/
-}
-
 packages="
 autoconf
 build-essential
@@ -64,8 +52,6 @@ EOS
 
 apt_get update
 apt_get dist-upgrade
-# TODO: deprecate libmysqlclient
-install_mysql_so_files
 apt_get install $packages ubuntu-minimal
 
 apt-get clean
