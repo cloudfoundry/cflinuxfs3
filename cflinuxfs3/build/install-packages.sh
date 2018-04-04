@@ -8,7 +8,7 @@ function apt_get() {
 
 packages="
 aptitude
-argon-dev
+libargon2-0-dev
 autoconf
 bison
 build-essential
@@ -23,7 +23,7 @@ flex
 fuse-emulator-utils
 gdb
 git-core
-gnupg-curl
+gnupg1-curl
 gsfonts
 imagemagick
 iputils-arping
@@ -32,17 +32,17 @@ krb5-user
 laptop-detect
 libaio1
 libatm1
-libavcodec54
-libboost-iostreams1.54.0:amd64
+libavcodec57
+libboost-iostreams1.62.0:amd64
 libcurl4-openssl-dev
-libcwidget3
-libdirectfb-1.2-9
+libcwidget3v5
+libdirectfb-1.7-7
 libdrm-intel1
 libdrm-nouveau2
 libdrm-radeon1
-libept1.4.12:amd64
+libept1.5.0:amd64
 libfuse-dev
-libgd2-noxpm-dev
+libgd-dev
 libgmp-dev
 libgpm2
 libgtk-3-0
@@ -59,11 +59,11 @@ libreadline6-dev
 libsasl2-dev
 libsasl2-modules
 libselinux1-dev
-libsigc++-2.0-0c2a:amd64
+libsigc++-2.0-0v5:amd64
 libsqlite0-dev
 libsqlite3-dev
 libsysfs2
-libxapian22
+libxapian30
 libxcb-render-util0
 libxslt1-dev
 libyaml-dev
