@@ -3,7 +3,7 @@ set -e -x
 source /etc/lsb-release
 
 function apt_get() {
-  apt-get -y --force-yes --no-install-recommends "$@"
+  apt-get -y --allow-downgrades --allow-remove-essential --allow-change-held-packages --no-install-recommends "$@"
 }
 
 packages="
