@@ -3,7 +3,7 @@ set -e -x
 source /etc/lsb-release
 
 function apt_get() {
-  apt-get -y --allow-downgrades --allow-remove-essential --allow-change-held-packages --no-install-recommends "$@"
+  DEBIAN_FRONTEND=noninteractive apt-get -y --allow-downgrades --allow-remove-essential --allow-change-held-packages --no-install-recommends "$@"
 }
 
 packages="
