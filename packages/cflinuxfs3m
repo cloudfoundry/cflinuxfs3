@@ -1,6 +1,7 @@
 autoconf
 build-essential
 bzr
+ca-certificates
 cmake
 cron
 curl
@@ -8,6 +9,7 @@ git-core
 imagemagick
 jq
 less
+libargon2-0-dev
 libcap2-bin
 libcurl3-dev
 libfreetype6
@@ -19,11 +21,13 @@ libsasl2-dev
 libsqlite3-dev
 libxml2-dev
 libxslt1-dev
+locales
 mercurial
 pkg-config
 python
 rsync
 ruby
 subversion
+tzdata
 unzip
 wget
