@@ -1,20 +1,22 @@
-BASE = ubuntu:bionic
-ARCH = x86_64
-NAME = cflinuxfs3
+ARCH := x86_64
+NAME := cflinuxfs3
+BASE := ubuntu:bionic
+BUILD := $(NAME).$(ARCH)
 
-all: $(NAME).tgz
+all: $(BUILD).tgz
 
-$(NAME).iid:
+$(BUILD).iid:
 	docker build \
-	--build-arg "base=${BASE}" \
-	--build-arg "arch=${ARCH}" \
-	--build-arg packages="`cat "packages/${NAME}" "arch/${ARCH}/packages/${NAME}" 2>/dev/null`" \
+	--build-arg "base=$(BASE)" \
+	--build-arg "arch=$(ARCH)" \
+	--build-arg packages="`cat "packages/$(NAME)" "arch/$(ARCH)/packages/$(NAME)" 2>/dev/null`" \
 	--build-arg locales="`cat locales`" \
-	--no-cache "--iidfile=${NAME}.iid" .
+	--no-cache "--iidfile=$(NAME).iid" .
 
-# TODO: use make option in pipeline to ensure $(NAME).iid is always rebuilt
-$(NAME).tgz: $(NAME).iid
-	docker run "--cidfile=${NAME}.cid" "`cat "${NAME}.iid"`" dpkg -l | tee "receipt.${NAME}.${ARCH}"
-	docker export "`cat "${NAME}.cid"`" | gzip > "${NAME}.tgz"
-	docker rm -f "`cat "${NAME}.cid"`"
-	rm -f "${NAME}.cid"
+# TODO: use make option in pipeline to ensure $(BUILD).iid is always rebuilt
+$(BUILD).tgz: $(BUILD).iid
+	docker run "--cidfile=$(BUILD).cid" `cat "$(BUILD).iid"` dpkg -l | tee "receipt.$(BUILD)"
+	docker export `cat "$(BUILD).cid"` | gzip > "$(BUILD).tgz"
+	shasum -a 256 "$(BUILD).tgz" >> "receipt.$(BUILD)"
+	docker rm -f `cat "$(BUILD).cid"`
+	rm -f "$(BUILD).cid"
