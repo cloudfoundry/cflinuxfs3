@@ -11,7 +11,7 @@ $(BUILD).iid:
 	--build-arg "arch=$(ARCH)" \
 	--build-arg packages="`cat "packages/$(NAME)" "arch/$(ARCH)/packages/$(NAME)" 2>/dev/null`" \
 	--build-arg locales="`cat locales`" \
-	--no-cache "--iidfile=$(NAME).iid" .
+	--no-cache "--iidfile=$(BUILD).iid" .
 
 # TODO: use make option in pipeline to ensure $(BUILD).iid is always rebuilt
 $(BUILD).tgz: $(BUILD).iid
