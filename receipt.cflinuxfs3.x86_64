@@ -1,5 +1,3 @@
-Rootfs SHASUM: 4096159077d395829d95afd7142525203a08e3e5
-
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
 |/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
@@ -34,7 +32,7 @@ ii  coreutils                          8.28-1ubuntu1                     amd64  
 ii  cpio                               2.12+dfsg-6                       amd64        GNU cpio -- a program to manage archives of files
 ii  cpp                                4:7.3.0-3ubuntu2                  amd64        GNU C preprocessor (cpp)
 ii  cpp-7                              7.3.0-16ubuntu3                   amd64        GNU C preprocessor
-ii  curl                               7.58.0-2ubuntu3                   amd64        command line tool for transferring data with URL syntax
+ii  curl                               7.58.0-2ubuntu3.1                 amd64        command line tool for transferring data with URL syntax
 ii  dash                               0.5.8-2.10                        amd64        POSIX-compliant shell
 ii  dconf-gsettings-backend:amd64      0.26.0-2ubuntu3                   amd64        simple configuration storage system - GSettings back-end
 ii  dconf-service                      0.26.0-2ubuntu3                   amd64        simple configuration storage system - D-Bus service
@@ -165,9 +163,9 @@ ii  libcroco3:amd64                    0.6.12-2                          amd64  
 ii  libcryptsetup12:amd64              2:2.0.2-1ubuntu1                  amd64        disk encryption support - shared library
 ii  libcrystalhd3:amd64                1:0.0~git20110715.fdd2f19-12      amd64        Crystal HD Video Decoder (shared library)
 ii  libcups2:amd64                     2.2.7-1ubuntu2                    amd64        Common UNIX Printing System(tm) - Core library
-ii  libcurl3-gnutls:amd64              7.58.0-2ubuntu3                   amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii  libcurl4:amd64                     7.58.0-2ubuntu3                   amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
-ii  libcurl4-openssl-dev:amd64         7.58.0-2ubuntu3                   amd64        development files and documentation for libcurl (OpenSSL flavour)
+ii  libcurl3-gnutls:amd64              7.58.0-2ubuntu3.1                 amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii  libcurl4:amd64                     7.58.0-2ubuntu3.1                 amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii  libcurl4-openssl-dev:amd64         7.58.0-2ubuntu3.1                 amd64        development files and documentation for libcurl (OpenSSL flavour)
 ii  libcwidget3v5:amd64                0.5.17-7                          amd64        high-level terminal interface library for C++ (runtime files)
 ii  libdatrie1:amd64                   0.2.10-7                          amd64        Double-array trie library
 ii  libdb5.3:amd64                     5.3.28-13.1ubuntu1                amd64        Berkeley v5.3 Database Libraries [runtime]

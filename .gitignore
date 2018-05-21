@@ -1,3 +1,4 @@
 *.tgz
+*.cid
 *.iid
 .idea
