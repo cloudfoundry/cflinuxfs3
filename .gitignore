@@ -1,7 +1,4 @@
-/cookbooks
-/tmp
-.vagrant
 *.tgz
-*.tar.gz
-cflinuxfs3/cflinuxfs3_dpkg_l.out
+*.cid
+*.iid
 .idea

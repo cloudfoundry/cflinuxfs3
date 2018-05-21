@@ -1,24 +1,22 @@
-all: cflinuxfs3.tar.gz
+ARCH := x86_64
+NAME := cflinuxfs3
+BASE := ubuntu:bionic
+BUILD := $(NAME).$(ARCH)
 
-arch:=$(shell uname -m)
-ifeq ("$(arch)","ppc64le")
-        docker_image := "ppc64le/ubuntu:bionic"
-        docker_file := cflinuxfs3/Dockerfile.$(arch)
-        $(shell cp cflinuxfs3/Dockerfile $(docker_file))
-        $(shell sed -i 's/FROM ubuntu:bionic/FROM ppc64le\/ubuntu:bionic/g' $(docker_file))
-else
-        docker_image := "ubuntu:bionic"
-        docker_file := cflinuxfs3/Dockerfile
-endif
+all: $(BUILD).tgz
 
-cflinuxfs3.cid:
-	docker build --no-cache -f $(docker_file) -t cloudfoundry/cflinuxfs3 cflinuxfs3
-	docker run --cidfile=cflinuxfs3.cid cloudfoundry/cflinuxfs3 dpkg -l | tee cflinuxfs3/cflinuxfs3_dpkg_l.out
+$(BUILD).iid:
+	docker build \
+	--build-arg "base=$(BASE)" \
+	--build-arg "arch=$(ARCH)" \
+	--build-arg packages="`cat "packages/$(NAME)" "arch/$(ARCH)/packages/$(NAME)" 2>/dev/null`" \
+	--build-arg locales="`cat locales`" \
+	--no-cache "--iidfile=$(BUILD).iid" .
 
-cflinuxfs3.tar: cflinuxfs3.cid
-	docker export `cat cflinuxfs3.cid` > cflinuxfs3.tar
-	# Always remove the cid file in order to grab updated package versions.
-	rm cflinuxfs3.cid
-
-cflinuxfs3.tar.gz: cflinuxfs3.tar
-	docker run -w /cflinuxfs3 -v `pwd`:/cflinuxfs3 $(docker_image) bash -c "gzip -f cflinuxfs3.tar"
+# TODO: use make option in pipeline to ensure $(BUILD).iid is always rebuilt
+$(BUILD).tgz: $(BUILD).iid
+	docker run "--cidfile=$(BUILD).cid" `cat "$(BUILD).iid"` dpkg -l | tee "receipt.$(BUILD)"
+	docker export `cat "$(BUILD).cid"` | gzip > "$(BUILD).tgz"
+	shasum -a 256 "$(BUILD).tgz" >> "receipt.$(BUILD)"
+	docker rm -f `cat "$(BUILD).cid"`
+	rm -f "$(BUILD).cid"
