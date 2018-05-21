@@ -21,7 +21,6 @@ jq
 krb5-user
 laptop-detect
 libaio1
-libargon2-0-dev
 libatm1
 libavcodec57
 libcurl4-openssl-dev
