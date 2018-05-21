@@ -21,10 +21,6 @@ RUN echo 'LANG="en_US.UTF-8"' > /etc/default/locale && \
   echo "$locales" | grep -f - /usr/share/i18n/SUPPORTED | cut -d " " -f 1 | xargs locale-gen && \
   dpkg-reconfigure -fnoninteractive -pcritical locales tzdata libc6
 
-# TODO: determine if we need this, ask Julz
-RUN mkdir -p /var/vcap/sys/cores && \
-  chmod ugo+rwx /var/vcap/sys/cores
-
 RUN useradd -u 2000 -mU -s /bin/bash vcap && \
   mkdir /home/vcap/app && \
   chown vcap:vcap /home/vcap/app && \
