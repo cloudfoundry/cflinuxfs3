@@ -14,7 +14,10 @@ RUN echo "debconf debconf/frontend select noninteractive" | debconf-set-selectio
   apt-get -y $package_args dist-upgrade && \
   apt-get -y $package_args install $packages && \
   apt-get clean && \
-  rm -rf /usr/share/doc/* /usr/share/man/* /usr/share/groff/* /usr/share/info/* /usr/share/lintian/* /usr/share/linda/* /tmp/*
+  rm -rf \
+    /usr/share/doc/* /usr/share/man/* /usr/share/info/* \
+    /usr/share/groff/* /usr/share/lintian/* /usr/share/linda/* \
+    /var/lib/apt/lists/* /tmp/*
 
 # TODO: determine if tzdata and libc6 regen is necessary
 RUN echo 'LANG="en_US.UTF-8"' > /etc/default/locale && \
