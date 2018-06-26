@@ -23,8 +23,8 @@ This will create the `cflinuxfs3.tar.gz` file, which is the artifact used as the
 To start, clone the [repository](https://github.com/cloudfoundry/cflinuxfs3-release) containing the cflinuxfs3-rootfs BOSH release:
 
 ```shell
-git clone git@github.com:cloudfoundry/cflinuxfs3-release.git`
-cd cflinuxfs3-release`
+git clone git@github.com:cloudfoundry/cflinuxfs3-release.git
+cd cflinuxfs3-release
 ```
 
 Replace the old cflinuxfs3 tarball with the new tarball created above:
