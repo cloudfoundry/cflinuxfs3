@@ -21,7 +21,7 @@ RUN echo "debconf debconf/frontend select noninteractive" | debconf-set-selectio
 
 RUN echo 'LANG="en_US.UTF-8"' > /etc/default/locale && \
   echo "$locales" | grep -f - /usr/share/i18n/SUPPORTED | cut -d " " -f 1 | xargs locale-gen && \
-  dpkg-reconfigure -fnoninteractive -pcritical locales
+  dpkg-reconfigure -fnoninteractive -pcritical locales tzdata libc6
 
 RUN useradd -u 2000 -mU -s /bin/bash vcap && \
   mkdir /home/vcap/app && \
