@@ -13,7 +13,6 @@ $(BUILD).iid:
 	--build-arg locales="`cat locales`" \
 	--no-cache "--iidfile=$(BUILD).iid" .
 
-# TODO: use make option in pipeline to ensure $(BUILD).iid is always rebuilt
 $(BUILD).tar.gz: $(BUILD).iid
 	docker run "--cidfile=$(BUILD).cid" `cat "$(BUILD).iid"` dpkg -l | tee "receipt.$(BUILD)"
 	docker export `cat "$(BUILD).cid"` | gzip > "$(BUILD).tar.gz"
