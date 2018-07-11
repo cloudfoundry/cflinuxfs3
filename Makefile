@@ -3,7 +3,7 @@ NAME := cflinuxfs3
 BASE := ubuntu:bionic
 BUILD := $(NAME).$(ARCH)
 
-all: $(BUILD).tgz
+all: $(BUILD).tar.gz
 
 $(BUILD).iid:
 	docker build \
@@ -14,9 +14,9 @@ $(BUILD).iid:
 	--no-cache "--iidfile=$(BUILD).iid" .
 
 # TODO: use make option in pipeline to ensure $(BUILD).iid is always rebuilt
-$(BUILD).tgz: $(BUILD).iid
+$(BUILD).tar.gz: $(BUILD).iid
 	docker run "--cidfile=$(BUILD).cid" `cat "$(BUILD).iid"` dpkg -l | tee "receipt.$(BUILD)"
-	docker export `cat "$(BUILD).cid"` | gzip > "$(BUILD).tgz"
-	shasum -a 256 "$(BUILD).tgz" >> "receipt.$(BUILD)"
+	docker export `cat "$(BUILD).cid"` | gzip > "$(BUILD).tar.gz"
+	shasum -a 256 "$(BUILD).tar.gz" >> "receipt.$(BUILD)"
 	docker rm -f `cat "$(BUILD).cid"`
 	rm -f "$(BUILD).cid"
