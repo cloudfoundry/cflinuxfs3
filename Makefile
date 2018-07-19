@@ -14,8 +14,10 @@ $(BUILD).iid:
 	--no-cache "--iidfile=$(BUILD).iid" .
 
 $(BUILD).tar.gz: $(BUILD).iid
-	docker run "--cidfile=$(BUILD).cid" `cat "$(BUILD).iid"` dpkg -l | tee "receipt.$(BUILD)"
+	docker run "--cidfile=$(BUILD).cid" `cat "$(BUILD).iid"` dpkg -l | tee "packages-list"
 	docker export `cat "$(BUILD).cid"` | gzip > "$(BUILD).tar.gz"
-	shasum -a 256 "$(BUILD).tar.gz" >> "receipt.$(BUILD)"
+	echo "Rootfs SHASUM: `shasum -a 256 "$(BUILD).tar.gz" | cut -d' ' -f1`" > "receipt.$(BUILD)"
+	echo "" >> "receipt.$(BUILD)"
+	cat "packages-list" >> "receipt.$(BUILD)"
 	docker rm -f `cat "$(BUILD).cid"`
-	rm -f "$(BUILD).cid"
+	rm -f "$(BUILD).cid" "packages-list"
