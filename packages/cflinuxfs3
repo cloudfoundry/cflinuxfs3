@@ -22,6 +22,7 @@ libatm1
 libaudiofile1
 libavcodec57
 libcurl4-openssl-dev
+libdrm-intel1
 libgd-dev
 libgmp-dev
 libicu-dev
