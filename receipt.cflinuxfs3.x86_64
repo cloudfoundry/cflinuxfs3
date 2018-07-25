@@ -1,4 +1,4 @@
-Rootfs SHASUM: 67cd5084afa5afa30ef46b6da80ff77c7f4154768f8c4a522573b0a183a67c8a
+Rootfs SHASUM: c8f6e00de73dbdd7e10ffbf5640755e8954117e8c217fe63a2be790348375974
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -11,7 +11,7 @@ ii  apt-utils                          1.6.3                             amd64  
 ii  aptitude                           0.8.10-6ubuntu1                   amd64        terminal-based package manager
 ii  aptitude-common                    0.8.10-6ubuntu1                   all          architecture independent files for the aptitude package manager
 ii  autoconf                           2.69-11                           all          automatic configure script builder
-ii  base-files                         10.1ubuntu2                       amd64        Debian base system miscellaneous files
+ii  base-files                         10.1ubuntu2.1                     amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.5.44                            amd64        Debian base system master password and group files
 ii  bash                               4.4.18-2ubuntu1                   amd64        GNU Bourne Again SHell
 ii  bind9-host                         1:9.11.3+dfsg-1ubuntu1.1          amd64        DNS lookup utility (deprecated)
@@ -27,8 +27,8 @@ ii  bzr                                2.7.0+bzr6622-10                  all    
 ii  ca-certificates                    20180409                          all          Common CA certificates
 ii  cmake                              3.10.2-1ubuntu2                   amd64        cross-platform, open-source make system
 ii  cmake-data                         3.10.2-1ubuntu2                   all          CMake data files (modules, templates and documentation)
-ii  console-setup                      1.178ubuntu2                      all          console font and keymap setup program
-ii  console-setup-linux                1.178ubuntu2                      all          Linux specific part of console-setup
+ii  console-setup                      1.178ubuntu2.3                    all          console font and keymap setup program
+ii  console-setup-linux                1.178ubuntu2.3                    all          Linux specific part of console-setup
 ii  coreutils                          8.28-1ubuntu1                     amd64        GNU core utilities
 ii  cpio                               2.12+dfsg-6                       amd64        GNU cpio -- a program to manage archives of files
 ii  cpp                                4:7.3.0-3ubuntu2                  amd64        GNU C preprocessor (cpp)
@@ -47,6 +47,7 @@ ii  e2fsprogs                          1.44.1-1                          amd64  
 ii  eject                              2.1.5+deb1+cvs20081104-13.2       amd64        ejects CDs and operates CD-Changers under Linux
 ii  fakeroot                           1.22-2ubuntu1                     amd64        tool for simulating superuser privileges
 ii  fdisk                              2.31.1-0.4ubuntu3.1               amd64        collection of partitioning utilities
+ii  file                               1:5.32-2ubuntu0.1                 amd64        Recognize the type of data in a file using "magic" numbers
 ii  findutils                          4.6.0+git+20170828-2              amd64        utilities for finding files--find, xargs
 ii  flex                               2.6.4-6                           amd64        fast lexical analyzer generator
 ii  fontconfig                         2.12.6-0ubuntu2                   amd64        generic font configuration library - support binaries
@@ -89,7 +90,7 @@ ii  iputils-ping                       3:20161105-1ubuntu2               amd64  
 ii  isc-dhcp-client                    4.3.5-3ubuntu7                    amd64        DHCP client for automatically obtaining an IP address
 ii  jq                                 1.5+dfsg-2                        amd64        lightweight and flexible command-line JSON processor
 ii  kbd                                2.0.4-2ubuntu1                    amd64        Linux console font and keytable utilities
-ii  keyboard-configuration             1.178ubuntu2                      all          system-wide keyboard preferences
+ii  keyboard-configuration             1.178ubuntu2.3                    all          system-wide keyboard preferences
 ii  klibc-utils                        2.0.4-9ubuntu2                    amd64        small utilities built with klibc for early boot
 ii  kmod                               24-1ubuntu3                       amd64        tools for managing Linux kernel modules
 ii  krb5-config                        2.6                               all          Configuration files for Kerberos Version 5
@@ -283,6 +284,8 @@ ii  liblz4-1:amd64                     0.0~r131-2ubuntu3                 amd64  
 ii  liblzma-dev:amd64                  5.2.2-1.3                         amd64        XZ-format compression library - development files
 ii  liblzma5:amd64                     5.2.2-1.3                         amd64        XZ-format compression library
 ii  liblzo2-2:amd64                    2.08-1.2                          amd64        data compression library
+ii  libmagic-mgc                       1:5.32-2ubuntu0.1                 amd64        File type determination library using "magic" numbers (compiled magic file)
+ii  libmagic1:amd64                    1:5.32-2ubuntu0.1                 amd64        Recognize the type of data in a file using "magic" numbers - library
 ii  libmagickcore-6-arch-config:amd64  8:6.9.7.4+dfsg-16ubuntu6.3        amd64        low-level image manipulation library - architecture header files
 ii  libmagickcore-6-headers            8:6.9.7.4+dfsg-16ubuntu6.3        all          low-level image manipulation library - header files
 ii  libmagickcore-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.3        amd64        low-level image manipulation library -- quantum depth Q16
@@ -337,7 +340,7 @@ ii  libpcre3:amd64                     2:8.39-9                          amd64  
 ii  libpcre3-dev:amd64                 2:8.39-9                          amd64        Old Perl 5 Compatible Regular Expression Library - development files
 ii  libpcre32-3:amd64                  2:8.39-9                          amd64        Old Perl 5 Compatible Regular Expression Library - 32 bit runtime files
 ii  libpcrecpp0v5:amd64                2:8.39-9                          amd64        Old Perl 5 Compatible Regular Expression Library - C++ runtime files
-ii  libperl5.26:amd64                  5.26.1-6ubuntu0.1                 amd64        shared Perl library
+ii  libperl5.26:amd64                  5.26.1-6ubuntu0.2                 amd64        shared Perl library
 ii  libpixman-1-0:amd64                0.34.0-2                          amd64        pixel-manipulation library for X and cairo
 ii  libpixman-1-dev:amd64              0.34.0-2                          amd64        pixel-manipulation library for X and cairo (development files)
 ii  libpng-dev:amd64                   1.6.34-1ubuntu0.18.04.1           amd64        PNG library - development (version 1.6)
@@ -394,6 +397,7 @@ ii  libsqlite0-dev                     2.8.17-14fakesync1                amd64  
 ii  libsqlite3-0:amd64                 3.22.0-1                          amd64        SQLite 3 shared library
 ii  libsqlite3-dev:amd64               3.22.0-1                          amd64        SQLite 3 development files
 ii  libss2:amd64                       1.44.1-1                          amd64        command-line interface parsing library
+ii  libssl-dev:amd64                   1.1.0g-2ubuntu4.1                 amd64        Secure Sockets Layer toolkit - development files
 ii  libssl1.0.0:amd64                  1.0.2n-1ubuntu5.1                 amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libssl1.1:amd64                    1.1.0g-2ubuntu4.1                 amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libstdc++-7-dev:amd64              7.3.0-16ubuntu3                   amd64        GNU Standard C++ Library v3 (development files)
@@ -402,7 +406,7 @@ ii  libsub-name-perl                   0.21-1build1                      amd64  
 ii  libsvn1:amd64                      1.9.7-4ubuntu1                    amd64        Shared libraries used by Apache Subversion
 ii  libswresample2:amd64               7:3.4.2-2                         amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                    2.1.0+repack-4build1              amd64        interface library to sysfs
-ii  libsystemd0:amd64                  237-3ubuntu10.2                   amd64        systemd utility library
+ii  libsystemd0:amd64                  237-3ubuntu10.3                   amd64        systemd utility library
 ii  libtasn1-6:amd64                   4.13-2                            amd64        Manage ASN.1 structures (runtime)
 ii  libtext-charwidth-perl             0.04-7.1                          amd64        get display widths of characters on the terminal
 ii  libtext-iconv-perl                 1.7-5build6                       amd64        converts between character sets in Perl
@@ -421,7 +425,7 @@ ii  libtirpc1:amd64                    0.2.5-1.2                         amd64  
 ii  libtsan0:amd64                     8-20180414-1ubuntu2               amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                  0.3.13-3                          amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan0:amd64                    7.3.0-16ubuntu3                   amd64        UBSan -- undefined behaviour sanitizer (runtime)
-ii  libudev1:amd64                     237-3ubuntu10.2                   amd64        libudev shared library
+ii  libudev1:amd64                     237-3ubuntu10.3                   amd64        libudev shared library
 ii  libunistring2:amd64                0.9.9-0ubuntu1                    amd64        Unicode string library for C
 ii  libunwind8:amd64                   1.2.1-8                           amd64        library to determine the call-chain of a program - runtime
 ii  liburi-perl                        1.73-1                            all          module to manipulate and access URI strings
@@ -480,7 +484,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1               amd64  
 ii  libzvbi-common                     0.2.35-13                         all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                         amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-24.26                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-29.31                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1                     all          GNU C Library: National Language (locale) data [support]
 ii  login                              1:4.5-1ubuntu1                    amd64        system login tools
 ii  lsb-base                           9.20170808ubuntu1                 all          Linux Standard Base init script functionality
@@ -511,9 +515,9 @@ ii  openssh-sftp-server                1:7.6p1-4                         amd64  
 ii  openssl                            1.1.0g-2ubuntu4.1                 amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  passwd                             1:4.5-1ubuntu1                    amd64        change and administer password and group data
 ii  patch                              2.7.6-2ubuntu1                    amd64        Apply a diff file to an original
-ii  perl                               5.26.1-6ubuntu0.1                 amd64        Larry Wall's Practical Extraction and Report Language
-ii  perl-base                          5.26.1-6ubuntu0.1                 amd64        minimal Perl system
-ii  perl-modules-5.26                  5.26.1-6ubuntu0.1                 all          Core Perl modules
+ii  perl                               5.26.1-6ubuntu0.2                 amd64        Larry Wall's Practical Extraction and Report Language
+ii  perl-base                          5.26.1-6ubuntu0.2                 amd64        minimal Perl system
+ii  perl-modules-5.26                  5.26.1-6ubuntu0.2                 all          Core Perl modules
 ii  pkg-config                         0.29.1-0ubuntu2                   amd64        manage compile and link flags for libraries
 ii  procps                             2:3.3.12-3ubuntu1.1               amd64        /proc file system utilities
 ii  psmisc                             23.1-1                            amd64        utilities that use the proc file system
@@ -551,8 +555,8 @@ ii  strace                             4.21-1ubuntu1                     amd64  
 ii  subversion                         1.9.7-4ubuntu1                    amd64        Advanced version control system
 ii  sudo                               1.8.21p2-3ubuntu1                 amd64        Provide limited super user privileges to specific users
 ii  sysstat                            11.6.1-1                          amd64        system performance tools for Linux
-ii  systemd                            237-3ubuntu10.2                   amd64        system and service manager
-ii  systemd-sysv                       237-3ubuntu10.2                   amd64        system and service manager - SysV links
+ii  systemd                            237-3ubuntu10.3                   amd64        system and service manager
+ii  systemd-sysv                       237-3ubuntu10.3                   amd64        system and service manager - SysV links
 ii  sysvinit-utils                     2.88dsf-59.10ubuntu1              amd64        System-V-like utilities
 ii  tar                                1.29b-2                           amd64        GNU version of the tar archiving utility
 ii  tasksel                            3.34ubuntu11                      all          tool for selecting tasks for installation on Debian systems
@@ -565,7 +569,7 @@ ii  ubuntu-advantage-tools             17                                all    
 ii  ubuntu-keyring                     2018.02.28                        all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                            all          Update Configuration File(s): preserve user changes to config files
-ii  udev                               237-3ubuntu10.2                   amd64        /dev/ and hotplug management daemon
+ii  udev                               237-3ubuntu10.3                   amd64        /dev/ and hotplug management daemon
 ii  unzip                              6.0-21ubuntu1                     amd64        De-archiver for .zip files
 ii  util-linux                         2.31.1-0.4ubuntu3.1               amd64        miscellaneous system utilities
 ii  uuid-dev:amd64                     2.31.1-0.4ubuntu3.1               amd64        Universally Unique ID library - headers and static libraries
