@@ -1,5 +1,4 @@
 libboost-iostreams1.62.0:amd64
-libdrm-intel1
 libept1.5.0:amd64
 libopenblas-dev
 libsigc++-2.0-0v5:amd64

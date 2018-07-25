@@ -11,9 +11,12 @@ imagemagick
 jq
 less
 libcap2-bin
+libcdt5
+libcgraph6
 libcurl3-dev
 libfreetype6
 libicu-dev
+libkrb5-dev
 liblzma-dev
 libmariadb-client-lgpl-dev
 libpq-dev
@@ -22,7 +25,9 @@ libsqlite3-dev
 libssl-dev
 libxml2-dev
 libxslt1-dev
+lockfile-progs
 mercurial
+net-tools
 pkg-config
 python
 rsync
