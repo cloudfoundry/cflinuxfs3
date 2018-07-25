@@ -8,6 +8,7 @@ cmake
 curl
 dnsutils
 fakeroot
+file
 flex
 gdb
 git-core
@@ -42,6 +43,7 @@ libsasl2-modules
 libselinux1-dev
 libsqlite0-dev
 libsqlite3-dev
+libssl-dev
 libsysfs2
 libxcb-render-util0
 libxslt1-dev
