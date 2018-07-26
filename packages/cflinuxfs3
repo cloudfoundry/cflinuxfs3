@@ -14,7 +14,7 @@ fakeroot
 file
 flex
 gdb
-git-core
+git
 gnupg1-curl
 gsfonts
 ifupdown
@@ -78,6 +78,7 @@ libselinux1-dev
 libsqlite0-dev
 libsqlite3-dev
 libssl-dev
+libssl1.0-dev
 libsysfs2
 libtasn1-6-dev
 libterm-ui-perl
@@ -94,6 +95,7 @@ mercurial
 net-tools
 ocaml-base-nox
 openssh-server
+openssl1.0
 psmisc
 quota
 rsync
