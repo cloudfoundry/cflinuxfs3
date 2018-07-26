@@ -17,6 +17,7 @@ gdb
 git
 gnupg1-curl
 gsfonts
+gss-ntlmssp-dev
 ifupdown
 imagemagick
 iputils-arping
@@ -81,7 +82,6 @@ libssl-dev
 libsysfs2
 libtasn1-6-dev
 libterm-ui-perl
-liblttng-ust0
 libustr-1.0-1
 libxdot4
 libxslt1-dev
