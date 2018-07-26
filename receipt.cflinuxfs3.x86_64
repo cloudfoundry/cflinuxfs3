@@ -1,4 +1,4 @@
-Rootfs SHASUM: e611697999734f95cb9e533ccdc54054d3f0cd123a873e9e88f3333eb55b9661
+Rootfs SHASUM: 7897dbdd9f303a85ef9bf66df992c60f0eab78b5c9f42ccbe84929cefa8d5281
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -75,6 +75,8 @@ ii  gnupg1                             1.4.22-3ubuntu2                   amd64  
 ii  gpgv                               2.2.4-1ubuntu1.1                  amd64        GNU privacy guard - signature verification tool
 ii  grep                               3.1-2                             amd64        GNU grep, egrep and fgrep
 ii  gsfonts                            1:8.11+urwcyr1.0.7~pre44-4.4      all          Fonts for the Ghostscript interpreter(s)
+ii  gss-ntlmssp                        0.7.0-4build3                     amd64        GSSAPI NTLMSSP Mechanism -- MIT GSSAPI plugin
+ii  gss-ntlmssp-dev                    0.7.0-4build3                     amd64        GSSAPI NTLMSSP Mechanism -- development headers
 ii  gzip                               1.6-5ubuntu1                      amd64        GNU compression utilities
 ii  hicolor-icon-theme                 0.17-2                            all          default fallback theme for FreeDesktop.org icon themes
 ii  hostname                           3.20                              amd64        utility to set/show the host name or domain name
@@ -485,6 +487,7 @@ ii  libvorbisenc2:amd64                1.3.5-4.2                         amd64  
 ii  libvpx-dev:amd64                   1.7.0-3                           amd64        VP8 and VP9 video codec (development files)
 ii  libvpx5:amd64                      1.7.0-3                           amd64        VP8 and VP9 video codec (shared library)
 ii  libwavpack1:amd64                  5.1.0-2ubuntu1.1                  amd64        audio codec (lossy and lossless) - library
+ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2      amd64        Samba winbind client library
 ii  libwebp6:amd64                     0.6.1-2                           amd64        Lossy compression of digital photographic images.
 ii  libwebpmux3:amd64                  0.6.1-2                           amd64        Lossy compression of digital photographic images.
 ii  libwind0-heimdal:amd64             7.5.0+dfsg-1                      amd64        Heimdal Kerberos - stringprep implementation
