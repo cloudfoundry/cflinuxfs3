@@ -60,7 +60,6 @@ libmagic1
 libmagickwand-dev
 libmariadbclient-dev
 libmodule-pluggable-perl
-libmysqlclient20
 libncurses5-dev
 libnih-dbus1
 liborc-0.4-0
