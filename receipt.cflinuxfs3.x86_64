@@ -1,4 +1,4 @@
-Rootfs SHASUM: 7897dbdd9f303a85ef9bf66df992c60f0eab78b5c9f42ccbe84929cefa8d5281
+Rootfs SHASUM: 414a4cf185e8a72dec017cb0a46af95622bf994ae7da147de3b83afb0d72a944
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -330,8 +330,8 @@ ii  libmagickwand-6-headers            8:6.9.7.4+dfsg-16ubuntu6.3        all    
 ii  libmagickwand-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.3        amd64        image manipulation library -- quantum depth Q16
 ii  libmagickwand-6.q16-dev:amd64      8:6.9.7.4+dfsg-16ubuntu6.3        amd64        image manipulation library - development files (Q16)
 ii  libmagickwand-dev                  8:6.9.7.4+dfsg-16ubuntu6.3        all          image manipulation library -- dummy package
-ii  libmariadbclient-dev               1:10.1.29-6                       amd64        MariaDB database development files
-ii  libmariadbclient18:amd64           1:10.1.29-6                       amd64        MariaDB database client library
+ii  libmariadbclient-dev               1:10.1.34-0ubuntu0.18.04.1        amd64        MariaDB database development files
+ii  libmariadbclient18:amd64           1:10.1.34-0ubuntu0.18.04.1        amd64        MariaDB database client library
 ii  libmnl0:amd64                      1.0.4-2                           amd64        minimalistic Netlink communication library
 ii  libmodule-pluggable-perl           5.2-1                             all          module for giving  modules the ability to have plugins
 ii  libmount1:amd64                    2.31.1-0.4ubuntu3.1               amd64        device mounting library
@@ -340,7 +340,6 @@ ii  libmpc3:amd64                      1.1.0-1                           amd64  
 ii  libmpdec2:amd64                    2.4.2-1ubuntu1                    amd64        library for decimal floating point arithmetic (runtime library)
 ii  libmpfr6:amd64                     4.0.1-1                           amd64        multiple precision floating-point computation
 ii  libmpx2:amd64                      8-20180414-1ubuntu2               amd64        Intel memory protection extensions (runtime)
-ii  libmysqlclient20:amd64             5.7.22-0ubuntu18.04.1             amd64        MySQL database client library
 ii  libncurses5:amd64                  6.1-1ubuntu1.18.04                amd64        shared libraries for terminal handling
 ii  libncurses5-dev:amd64              6.1-1ubuntu1.18.04                amd64        developer's libraries for ncurses
 ii  libncursesw5:amd64                 6.1-1ubuntu1.18.04                amd64        shared libraries for terminal handling (wide character support)
@@ -532,7 +531,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1               amd64  
 ii  libzvbi-common                     0.2.35-13                         all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                         amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-29.31                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-30.32                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                      amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu1                    amd64        system login tools
@@ -631,7 +630,7 @@ ii  vim-common                         2:8.0.1453-1ubuntu1               all    
 ii  vim-tiny                           2:8.0.1453-1ubuntu1               amd64        Vi IMproved - enhanced vi editor - compact version
 ii  wget                               1.19.4-1ubuntu2.1                 amd64        retrieves files from the web
 ii  whiptail                           0.52.20-1ubuntu1                  amd64        Displays user-friendly dialog boxes from shell scripts
-ii  x11-common                         1:7.7+19ubuntu7                   all          X Window System (X.Org) infrastructure
+ii  x11-common                         1:7.7+19ubuntu7.1                 all          X Window System (X.Org) infrastructure
 ii  x11proto-core-dev                  2018.4-4                          all          transitional dummy package
 ii  x11proto-dev                       2018.4-4                          all          X11 extension protocols and auxiliary headers
 ii  x11proto-xext-dev                  2018.4-4                          all          transitional dummy package
