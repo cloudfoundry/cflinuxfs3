@@ -1,4 +1,4 @@
-Rootfs SHASUM: 336afd97715a8fbc1d1eb1d7c6a44cde1e91621b19bafa8868e8bc376d7bf956
+Rootfs SHASUM: af8fdc61391be6b1338103ad758b02a71f5d53a9769f52e21648989ca280a630
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -28,8 +28,8 @@ ii  ca-certificates                    20180409                          all    
 ii  cmake                              3.10.2-1ubuntu2                   amd64        cross-platform, open-source make system
 ii  cmake-data                         3.10.2-1ubuntu2                   all          CMake data files (modules, templates and documentation)
 ii  comerr-dev:amd64                   2.1-1.44.1-1                      amd64        common error description library - headers and static libraries
-ii  console-setup                      1.178ubuntu2.3                    all          console font and keymap setup program
-ii  console-setup-linux                1.178ubuntu2.3                    all          Linux specific part of console-setup
+ii  console-setup                      1.178ubuntu2.6                    all          console font and keymap setup program
+ii  console-setup-linux                1.178ubuntu2.6                    all          Linux specific part of console-setup
 ii  coreutils                          8.28-1ubuntu1                     amd64        GNU core utilities
 ii  cpio                               2.12+dfsg-6                       amd64        GNU cpio -- a program to manage archives of files
 ii  cpp                                4:7.3.0-3ubuntu2                  amd64        GNU C preprocessor (cpp)
@@ -96,7 +96,7 @@ ii  iputils-ping                       3:20161105-1ubuntu2               amd64  
 ii  isc-dhcp-client                    4.3.5-3ubuntu7                    amd64        DHCP client for automatically obtaining an IP address
 ii  jq                                 1.5+dfsg-2                        amd64        lightweight and flexible command-line JSON processor
 ii  kbd                                2.0.4-2ubuntu1                    amd64        Linux console font and keytable utilities
-ii  keyboard-configuration             1.178ubuntu2.3                    all          system-wide keyboard preferences
+ii  keyboard-configuration             1.178ubuntu2.6                    all          system-wide keyboard preferences
 ii  klibc-utils                        2.0.4-9ubuntu2                    amd64        small utilities built with klibc for early boot
 ii  kmod                               24-1ubuntu3                       amd64        tools for managing Linux kernel modules
 ii  krb5-config                        2.6                               all          Configuration files for Kerberos Version 5
@@ -190,6 +190,7 @@ ii  libexpat1-dev:amd64                2.2.5-3                           amd64  
 ii  libext2fs2:amd64                   1.44.1-1                          amd64        ext2/ext3/ext4 file system libraries
 ii  libfakeroot:amd64                  1.22-2ubuntu1                     amd64        tool for simulating superuser privileges - shared libraries
 ii  libfdisk1:amd64                    2.31.1-0.4ubuntu3.1               amd64        fdisk partitioning library
+ii  libffi-dev:amd64                   3.2.1-8                           amd64        Foreign Function Interface library (development files)
 ii  libffi6:amd64                      3.2.1-8                           amd64        Foreign Function Interface library runtime
 ii  libfftw3-double3:amd64             3.3.7-1                           amd64        Library for computing Fast Fourier Transforms - Double precision
 ii  libfl-dev:amd64                    2.6.4-6                           amd64        static library for flex (a fast lexical analyzer generator)
@@ -387,8 +388,8 @@ ii  libpixman-1-dev:amd64              0.34.0-2                          amd64  
 ii  libpng-dev:amd64                   1.6.34-1ubuntu0.18.04.1           amd64        PNG library - development (version 1.6)
 ii  libpng16-16:amd64                  1.6.34-1ubuntu0.18.04.1           amd64        PNG library - runtime (version 1.6)
 ii  libpopt0:amd64                     1.16-11                           amd64        lib for parsing cmdline parameters
-ii  libpq-dev                          10.4-0ubuntu0.18.04               amd64        header files for libpq5 (PostgreSQL library)
-ii  libpq5:amd64                       10.4-0ubuntu0.18.04               amd64        PostgreSQL C client library
+ii  libpq-dev                          10.5-0ubuntu0.18.04               amd64        header files for libpq5 (PostgreSQL library)
+ii  libpq5:amd64                       10.5-0ubuntu0.18.04               amd64        PostgreSQL C client library
 ii  libprocps6:amd64                   2:3.3.12-3ubuntu1.1               amd64        library for accessing process information from /proc
 ii  libproxy1v5:amd64                  0.4.15-1                          amd64        automatic proxy configuration management library (shared)
 ii  libpsl5:amd64                      0.19.1-5build1                    amd64        Library for Public Suffix List (shared libraries)
