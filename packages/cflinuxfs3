@@ -36,6 +36,7 @@ libcgraph6
 libcloog-isl4
 libcurl4-openssl-dev
 libestr0
+libffi-dev
 libfl-dev
 libfribidi0
 libgcrypt20-dev
