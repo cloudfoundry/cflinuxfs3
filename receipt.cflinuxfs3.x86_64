@@ -1,4 +1,4 @@
-Rootfs SHASUM: 01ecbae568a856d234ed44b8f1b1480b3c78b1edf2ac68ec7129facffb0617c7
+Rootfs SHASUM: df1dbb3b60eeb8572a6fb2513154a83bdaddffc6b16d4c389b1448b24f4856c4
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -368,12 +368,12 @@ ii  libpam-modules:amd64               1.1.8-3.6ubuntu2                  amd64  
 ii  libpam-modules-bin                 1.1.8-3.6ubuntu2                  amd64        Pluggable Authentication Modules for PAM - helper binaries
 ii  libpam-runtime                     1.1.8-3.6ubuntu2                  all          Runtime support for the PAM library
 ii  libpam0g:amd64                     1.1.8-3.6ubuntu2                  amd64        Pluggable Authentication Modules library
-ii  libpango-1.0-0:amd64               1.40.14-1                         amd64        Layout and rendering of internationalized text
-ii  libpango1.0-0:amd64                1.40.14-1                         amd64        Layout and rendering of internationalized text (transitional package)
-ii  libpangocairo-1.0-0:amd64          1.40.14-1                         amd64        Layout and rendering of internationalized text
-ii  libpangoft2-1.0-0:amd64            1.40.14-1                         amd64        Layout and rendering of internationalized text
+ii  libpango-1.0-0:amd64               1.40.14-1ubuntu0.1                amd64        Layout and rendering of internationalized text
+ii  libpango1.0-0:amd64                1.40.14-1ubuntu0.1                amd64        Layout and rendering of internationalized text (transitional package)
+ii  libpangocairo-1.0-0:amd64          1.40.14-1ubuntu0.1                amd64        Layout and rendering of internationalized text
+ii  libpangoft2-1.0-0:amd64            1.40.14-1ubuntu0.1                amd64        Layout and rendering of internationalized text
 ii  libpangox-1.0-0:amd64              0.0.2-5                           amd64        pango library X backend
-ii  libpangoxft-1.0-0:amd64            1.40.14-1                         amd64        Layout and rendering of internationalized text
+ii  libpangoxft-1.0-0:amd64            1.40.14-1ubuntu0.1                amd64        Layout and rendering of internationalized text
 ii  libparse-debianchangelog-perl      1.2.0-12                          all          parse Debian changelogs and output them in other formats
 ii  libpathplan4                       2.40.1-2                          amd64        rich set of graph drawing tools - pathplan library
 ii  libpcap0.8:amd64                   1.8.1-6ubuntu1                    amd64        system interface for user-level packet capture
