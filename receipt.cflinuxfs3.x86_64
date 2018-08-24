@@ -1,4 +1,4 @@
-Rootfs SHASUM: 836f8ca2b5c957e8a3f81763590bebd5b8270b7db7ab48e64ef13cc975d142e5
+Rootfs SHASUM: a3d209cc02940ed81c202bb3f578d51127b21711ff75c821b023b37b99657be8
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -331,8 +331,9 @@ ii  libmagickwand-6-headers            8:6.9.7.4+dfsg-16ubuntu6.3        all    
 ii  libmagickwand-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.3        amd64        image manipulation library -- quantum depth Q16
 ii  libmagickwand-6.q16-dev:amd64      8:6.9.7.4+dfsg-16ubuntu6.3        amd64        image manipulation library - development files (Q16)
 ii  libmagickwand-dev                  8:6.9.7.4+dfsg-16ubuntu6.3        all          image manipulation library -- dummy package
-ii  libmariadbclient-dev               1:10.1.34-0ubuntu0.18.04.1        amd64        MariaDB database development files
-ii  libmariadbclient18:amd64           1:10.1.34-0ubuntu0.18.04.1        amd64        MariaDB database client library
+ii  libmariadb-dev                     3.0.3-1build1                     amd64        MariaDB Connector/C, development files
+ii  libmariadb-dev-compat:amd64        3.0.3-1build1                     amd64        MariaDB Connector/C, compatibility symlinks
+ii  libmariadb3:amd64                  3.0.3-1build1                     amd64        MariaDB Connector/C
 ii  libmnl0:amd64                      1.0.4-2                           amd64        minimalistic Netlink communication library
 ii  libmodule-pluggable-perl           5.2-1                             all          module for giving  modules the ability to have plugins
 ii  libmount1:amd64                    2.31.1-0.4ubuntu3.1               amd64        device mounting library
@@ -551,7 +552,6 @@ ii  mercurial-common                   4.5.3-1ubuntu2                    all    
 ii  mime-support                       3.60ubuntu1                       all          MIME files 'mime.types' & 'mailcap', and support programs
 ii  mount                              2.31.1-0.4ubuntu3.1               amd64        tools for mounting and manipulating filesystems
 ii  multiarch-support                  2.27-3ubuntu1                     amd64        Transitional package to ensure multiarch compatibility
-ii  mysql-common                       5.8+1.0.4                         all          MySQL database common files, e.g. /etc/mysql/my.cnf
 ii  ncurses-base                       6.1-1ubuntu1.18.04                all          basic terminal type definitions
 ii  ncurses-bin                        6.1-1ubuntu1.18.04                amd64        terminal-related programs and man pages
 ii  net-tools                          1.60+git20161116.90da8a0-1ubuntu1 amd64        NET-3 networking toolkit
