@@ -59,7 +59,7 @@ liblockfile1
 liblog-message-simple-perl
 libmagic1
 libmagickwand-dev
-libmariadbclient-dev
+libmariadbclient-dev-compat
 libmodule-pluggable-perl
 libncurses5-dev
 libnih-dbus1
