@@ -1,4 +1,4 @@
-Rootfs SHASUM: a3d209cc02940ed81c202bb3f578d51127b21711ff75c821b023b37b99657be8
+Rootfs SHASUM: 8492e3f525b96fcd145eebdda6fe8ec22c64f4ff4ddf626b17e910ecb7af9601
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -206,8 +206,8 @@ ii  libgcc-7-dev:amd64                 7.3.0-16ubuntu3                   amd64  
 ii  libgcc1:amd64                      1:8-20180414-1ubuntu2             amd64        GCC support library
 ii  libgcrypt20:amd64                  1.8.1-4ubuntu1.1                  amd64        LGPL Crypto library - runtime library
 ii  libgcrypt20-dev                    1.8.1-4ubuntu1.1                  amd64        LGPL Crypto library - development files
-ii  libgd-dev:amd64                    2.2.5-4                           amd64        GD Graphics Library (development version)
-ii  libgd3:amd64                       2.2.5-4                           amd64        GD Graphics Library
+ii  libgd-dev:amd64                    2.2.5-4ubuntu0.2                  amd64        GD Graphics Library (development version)
+ii  libgd3:amd64                       2.2.5-4ubuntu0.2                  amd64        GD Graphics Library
 ii  libgdbm-compat4:amd64              1.14.1-6                          amd64        GNU dbm database routines (legacy support runtime version) 
 ii  libgdbm5:amd64                     1.14.1-6                          amd64        GNU dbm database routines (runtime version) 
 ii  libgdk-pixbuf2.0-0:amd64           2.36.11-2                         amd64        GDK Pixbuf library
