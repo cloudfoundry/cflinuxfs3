@@ -1,4 +1,4 @@
-Rootfs SHASUM: 18dd6d1cbb7288fc8a34e3708aff5ee08e907d8d842e56b4b89ebaac9bd4a56b
+Rootfs SHASUM: 88890e9ab9d29f57c561c01c3331a09b8b67e16255480102ecfb2db2020a603f
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -28,8 +28,8 @@ ii  ca-certificates                    20180409                          all    
 ii  cmake                              3.10.2-1ubuntu2                   amd64        cross-platform, open-source make system
 ii  cmake-data                         3.10.2-1ubuntu2                   all          CMake data files (modules, templates and documentation)
 ii  comerr-dev:amd64                   2.1-1.44.1-1                      amd64        common error description library - headers and static libraries
-ii  console-setup                      1.178ubuntu2.6                    all          console font and keymap setup program
-ii  console-setup-linux                1.178ubuntu2.6                    all          Linux specific part of console-setup
+ii  console-setup                      1.178ubuntu2.7                    all          console font and keymap setup program
+ii  console-setup-linux                1.178ubuntu2.7                    all          Linux specific part of console-setup
 ii  coreutils                          8.28-1ubuntu1                     amd64        GNU core utilities
 ii  cpio                               2.12+dfsg-6                       amd64        GNU cpio -- a program to manage archives of files
 ii  cpp                                4:7.3.0-3ubuntu2                  amd64        GNU C preprocessor (cpp)
@@ -96,7 +96,7 @@ ii  iputils-ping                       3:20161105-1ubuntu2               amd64  
 ii  isc-dhcp-client                    4.3.5-3ubuntu7                    amd64        DHCP client for automatically obtaining an IP address
 ii  jq                                 1.5+dfsg-2                        amd64        lightweight and flexible command-line JSON processor
 ii  kbd                                2.0.4-2ubuntu1                    amd64        Linux console font and keytable utilities
-ii  keyboard-configuration             1.178ubuntu2.6                    all          system-wide keyboard preferences
+ii  keyboard-configuration             1.178ubuntu2.7                    all          system-wide keyboard preferences
 ii  klibc-utils                        2.0.4-9ubuntu2                    amd64        small utilities built with klibc for early boot
 ii  kmod                               24-1ubuntu3                       amd64        tools for managing Linux kernel modules
 ii  krb5-config                        2.6                               all          Configuration files for Kerberos Version 5
