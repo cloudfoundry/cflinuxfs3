@@ -1,4 +1,4 @@
-Rootfs SHASUM: 88890e9ab9d29f57c561c01c3331a09b8b67e16255480102ecfb2db2020a603f
+Rootfs SHASUM: e9ac4c848f24b4e118c8204a90563e377f0fb11a95e0fb07543474028930aad4
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -467,7 +467,7 @@ ii  libtiffxx5:amd64                   4.0.9-5                           amd64  
 ii  libtimedate-perl                   2.3000-2                          all          collection of modules to manipulate date/time information
 ii  libtinfo-dev:amd64                 6.1-1ubuntu1.18.04                amd64        developer's library for the low-level terminfo library
 ii  libtinfo5:amd64                    6.1-1ubuntu1.18.04                amd64        shared low-level terminfo library for terminal handling
-ii  libtirpc1:amd64                    0.2.5-1.2                         amd64        transport-independent RPC library
+ii  libtirpc1:amd64                    0.2.5-1.2ubuntu0.1                amd64        transport-independent RPC library
 ii  libtsan0:amd64                     8-20180414-1ubuntu2               amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                  0.3.13-3                          amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan0:amd64                    7.3.0-16ubuntu3                   amd64        UBSan -- undefined behaviour sanitizer (runtime)
