@@ -1,4 +1,4 @@
-Rootfs SHASUM: b747f5155708af11cbf46fa25a8395261c8a7cd1dbc433b7063d9364480fe47d
+Rootfs SHASUM: fed46b8a765a608715ff39794c3c2c0e3ac646e4f7ca19bcc185f829414a1ae3
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -35,7 +35,7 @@ ii  cpio                               2.12+dfsg-6                       amd64  
 ii  cpp                                4:7.3.0-3ubuntu2                  amd64        GNU C preprocessor (cpp)
 ii  cpp-7                              7.3.0-16ubuntu3                   amd64        GNU C preprocessor
 ii  cron                               3.0pl1-128.1ubuntu1               amd64        process scheduling daemon
-ii  curl                               7.58.0-2ubuntu3.2                 amd64        command line tool for transferring data with URL syntax
+ii  curl                               7.58.0-2ubuntu3.3                 amd64        command line tool for transferring data with URL syntax
 ii  dash                               0.5.8-2.10                        amd64        POSIX-compliant shell
 ii  debconf                            1.5.66                            all          Debian configuration management system
 ii  debconf-i18n                       1.5.66                            all          full internationalization support for debconf
@@ -87,9 +87,9 @@ ii  imagemagick-6-common               8:6.9.7.4+dfsg-16ubuntu6.3        all    
 ii  imagemagick-6.q16                  8:6.9.7.4+dfsg-16ubuntu6.3        amd64        image manipulation programs -- quantum depth Q16
 ii  init                               1.51                              amd64        metapackage ensuring an init system is installed
 ii  init-system-helpers                1.51                              all          helper tools for all init systems
-ii  initramfs-tools                    0.130ubuntu3.1                    all          generic modular initramfs generator (automation)
-ii  initramfs-tools-bin                0.130ubuntu3.1                    amd64        binaries used by initramfs-tools
-ii  initramfs-tools-core               0.130ubuntu3.1                    all          generic modular initramfs generator (core tools)
+ii  initramfs-tools                    0.130ubuntu3.3                    all          generic modular initramfs generator (automation)
+ii  initramfs-tools-bin                0.130ubuntu3.3                    amd64        binaries used by initramfs-tools
+ii  initramfs-tools-core               0.130ubuntu3.3                    all          generic modular initramfs generator (core tools)
 ii  iproute2                           4.15.0-2ubuntu1                   amd64        networking and traffic control tools
 ii  iputils-arping                     3:20161105-1ubuntu2               amd64        Tool to send ICMP echo requests to an ARP address
 ii  iputils-ping                       3:20161105-1ubuntu2               amd64        Tools to test the reachability of network hosts
@@ -157,11 +157,11 @@ ii  libclass-accessor-perl             0.51-1                            all    
 ii  libcloog-isl4:amd64                0.18.4-2                          amd64        Chunky Loop Generator (runtime library)
 ii  libcom-err2:amd64                  1.44.1-1                          amd64        common error description library
 ii  libcroco3:amd64                    0.6.12-2                          amd64        Cascading Style Sheet (CSS) parsing and manipulation toolkit
-ii  libcryptsetup12:amd64              2:2.0.2-1ubuntu1                  amd64        disk encryption support - shared library
+ii  libcryptsetup12:amd64              2:2.0.2-1ubuntu1.1                amd64        disk encryption support - shared library
 ii  libcrystalhd3:amd64                1:0.0~git20110715.fdd2f19-12      amd64        Crystal HD Video Decoder (shared library)
-ii  libcurl3-gnutls:amd64              7.58.0-2ubuntu3.2                 amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii  libcurl4:amd64                     7.58.0-2ubuntu3.2                 amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
-ii  libcurl4-openssl-dev:amd64         7.58.0-2ubuntu3.2                 amd64        development files and documentation for libcurl (OpenSSL flavour)
+ii  libcurl3-gnutls:amd64              7.58.0-2ubuntu3.3                 amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii  libcurl4:amd64                     7.58.0-2ubuntu3.3                 amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii  libcurl4-openssl-dev:amd64         7.58.0-2ubuntu3.3                 amd64        development files and documentation for libcurl (OpenSSL flavour)
 ii  libcwidget3v5:amd64                0.5.17-7                          amd64        high-level terminal interface library for C++ (runtime files)
 ii  libdatrie1:amd64                   0.2.10-7                          amd64        Double-array trie library
 ii  libdb5.3:amd64                     5.3.28-13.1ubuntu1                amd64        Berkeley v5.3 Database Libraries [runtime]
