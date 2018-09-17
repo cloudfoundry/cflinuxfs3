@@ -1,4 +1,4 @@
-FROM bpv3:base
+FROM cfbuildpacks/cflinuxfs3-cnb-experimental:base
 
 ENV PACK_STACK_ID org.cloudfoundry.stacks.cflinuxfs3
 ENV PACK_BUILDPACKS_DIR /buildpacks

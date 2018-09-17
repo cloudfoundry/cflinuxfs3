@@ -1,4 +1,4 @@
-FROM bpv3:base
+FROM cfbuildpacks/cflinuxfs3-cnb-experimental:base
 
 EXPOSE 8080
 
