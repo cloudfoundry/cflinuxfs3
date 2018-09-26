@@ -1,4 +1,4 @@
-Cloud Foundry stack: cflinuxfs3 (EXPERIMENTAL)
+Cloud Foundry stack: cflinuxfs3
 ====================
 
 This stack is derived from Ubuntu 18.04 (Bionic Beaver)
