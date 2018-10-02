@@ -12,13 +12,5 @@ COPY --from=builder /go/bin /lifecycle
 RUN mkdir -p /workspace/app /workspace/config /cache /platform/env
 RUN chown -R vcap:vcap /workspace /cache
 
-USER vcap
-
-ENV PACK_STACK_ID org.cloudfoundry.stacks.cflinuxfs3
-ENV PACK_BUILDPACKS_DIR /buildpacks
-ENV PACK_ORDER_PATH /buildpacks/order.toml
-ENV PACK_GROUP_PATH ./group.toml
-ENV PACK_PLAN_PATH ./plan.toml
-
 WORKDIR /workspace
 
