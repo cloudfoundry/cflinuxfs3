@@ -1,4 +1,4 @@
-Rootfs SHASUM: 17dfe3c7f4d70d3a496b6b2418218c9a614aadbab1863d11239e742acbdcf95c
+Rootfs SHASUM: b3f5c9b9c8aae9c419fcb363a2b94cabfd84f7a82f765019715cbe34a18ffa8b
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -87,9 +87,9 @@ ii  imagemagick-6-common               8:6.9.7.4+dfsg-16ubuntu6.3        all    
 ii  imagemagick-6.q16                  8:6.9.7.4+dfsg-16ubuntu6.3        amd64        image manipulation programs -- quantum depth Q16
 ii  init                               1.51                              amd64        metapackage ensuring an init system is installed
 ii  init-system-helpers                1.51                              all          helper tools for all init systems
-ii  initramfs-tools                    0.130ubuntu3.3                    all          generic modular initramfs generator (automation)
-ii  initramfs-tools-bin                0.130ubuntu3.3                    amd64        binaries used by initramfs-tools
-ii  initramfs-tools-core               0.130ubuntu3.3                    all          generic modular initramfs generator (core tools)
+ii  initramfs-tools                    0.130ubuntu3.5                    all          generic modular initramfs generator (automation)
+ii  initramfs-tools-bin                0.130ubuntu3.5                    amd64        binaries used by initramfs-tools
+ii  initramfs-tools-core               0.130ubuntu3.5                    all          generic modular initramfs generator (core tools)
 ii  iproute2                           4.15.0-2ubuntu1                   amd64        networking and traffic control tools
 ii  iputils-arping                     3:20161105-1ubuntu2               amd64        Tool to send ICMP echo requests to an ARP address
 ii  iputils-ping                       3:20161105-1ubuntu2               amd64        Tools to test the reachability of network hosts
@@ -105,7 +105,7 @@ ii  krb5-user                          1.16-2build1                      amd64  
 ii  less                               487-0.1                           amd64        pager program similar to more
 ii  libacl1:amd64                      2.2.52-3build1                    amd64        Access control list shared library
 ii  libaio1:amd64                      0.3.110-5                         amd64        Linux kernel AIO access library - shared library
-ii  libapparmor1:amd64                 2.12-4ubuntu5                     amd64        changehat AppArmor library
+ii  libapparmor1:amd64                 2.12-4ubuntu5.1                   amd64        changehat AppArmor library
 ii  libapr1:amd64                      1.6.3-2                           amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                  1.6.1-2                           amd64        Apache Portable Runtime Utility Library
 ii  libapt-inst2.0:amd64               1.6.3ubuntu0.1                    amd64        deb package format runtime library
