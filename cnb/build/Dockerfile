@@ -9,3 +9,4 @@ ENV PACK_ORDER_PATH /buildpacks/order.toml
 ENV PACK_GROUP_PATH ./group.toml
 ENV PACK_PLAN_PATH ./plan.toml
 
+USER vcap
