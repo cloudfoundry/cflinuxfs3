@@ -8,7 +8,7 @@ FROM cloudfoundry/cflinuxfs3:latest
 LABEL io.buildpacks.stack.id="org.cloudfoundry.stacks.cflinuxfs3"
 
 ENV PACK_USER_ID 2000
-ENV PACK_USER_GID 2000
+ENV PACK_GROUP_ID 2000
 
 COPY --from=builder /go/bin /lifecycle
 
