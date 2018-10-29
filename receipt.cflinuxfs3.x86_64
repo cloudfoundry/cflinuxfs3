@@ -1,4 +1,4 @@
-Rootfs SHASUM: fa8650bf725292af14c58a4ede1b953c05eee8a60b5d361e58496de02a8afd86
+Rootfs SHASUM: 5ba0b77593463d0ac2ca96fcac11581b855ccbc2496e719e5257a0e4fe436242
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -44,8 +44,8 @@ ii  dh-python                          3.20180325ubuntu2                 all    
 ii  diffutils                          1:3.6-1                           amd64        File comparison utilities
 ii  distro-info-data                   0.37ubuntu0.1                     all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.2          amd64        Clients provided with BIND
-ii  dpkg                               1.19.0.5ubuntu2                   amd64        Debian package management system
-ii  dpkg-dev                           1.19.0.5ubuntu2                   all          Debian package development tools
+ii  dpkg                               1.19.0.5ubuntu2.1                 amd64        Debian package management system
+ii  dpkg-dev                           1.19.0.5ubuntu2.1                 all          Debian package development tools
 ii  e2fsprogs                          1.44.1-1                          amd64        ext2/ext3/ext4 file system utilities
 ii  eject                              2.1.5+deb1+cvs20081104-13.2       amd64        ejects CDs and operates CD-Changers under Linux
 ii  fakeroot                           1.22-2ubuntu1                     amd64        tool for simulating superuser privileges
@@ -173,7 +173,7 @@ ii  libdjvulibre-text                  3.5.27.1-8                        all    
 ii  libdjvulibre21:amd64               3.5.27.1-8                        amd64        Runtime support for the DjVu image format
 ii  libdns-export1100                  1:9.11.3+dfsg-1ubuntu1.2          amd64        Exported DNS Shared Library
 ii  libdns1100:amd64                   1:9.11.3+dfsg-1ubuntu1.2          amd64        DNS Shared Library used by BIND
-ii  libdpkg-perl                       1.19.0.5ubuntu2                   all          Dpkg perl modules
+ii  libdpkg-perl                       1.19.0.5ubuntu2.1                 all          Dpkg perl modules
 ii  libdrm-common                      2.4.91-2                          all          Userspace interface to kernel DRM services -- common files
 ii  libdrm2:amd64                      2.4.91-2                          amd64        Userspace interface to kernel DRM services -- runtime
 ii  libdw1:amd64                       0.170-0.4                         amd64        library that provides access to the DWARF debug information
