@@ -1,4 +1,4 @@
-Rootfs SHASUM: 5ba0b77593463d0ac2ca96fcac11581b855ccbc2496e719e5257a0e4fe436242
+Rootfs SHASUM: 5bb97adc14fbe904084969d3067c06c8fbb48b46a0f5e6b3aea9247a44f837a2
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -35,14 +35,14 @@ ii  cpio                               2.12+dfsg-6                       amd64  
 ii  cpp                                4:7.3.0-3ubuntu2.1                amd64        GNU C preprocessor (cpp)
 ii  cpp-7                              7.3.0-27ubuntu1~18.04             amd64        GNU C preprocessor
 ii  cron                               3.0pl1-128.1ubuntu1               amd64        process scheduling daemon
-ii  curl                               7.58.0-2ubuntu3.3                 amd64        command line tool for transferring data with URL syntax
+ii  curl                               7.58.0-2ubuntu3.5                 amd64        command line tool for transferring data with URL syntax
 ii  dash                               0.5.8-2.10                        amd64        POSIX-compliant shell
 ii  debconf                            1.5.66                            all          Debian configuration management system
 ii  debconf-i18n                       1.5.66                            all          full internationalization support for debconf
 ii  debianutils                        4.8.4                             amd64        Miscellaneous utilities specific to Debian
 ii  dh-python                          3.20180325ubuntu2                 all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                           amd64        File comparison utilities
-ii  distro-info-data                   0.37ubuntu0.1                     all          information about the distributions' releases (data files)
+ii  distro-info-data                   0.37ubuntu0.2                     all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.2          amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.1                 amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.1                 all          Debian package development tools
@@ -159,9 +159,9 @@ ii  libcom-err2:amd64                  1.44.1-1                          amd64  
 ii  libcroco3:amd64                    0.6.12-2                          amd64        Cascading Style Sheet (CSS) parsing and manipulation toolkit
 ii  libcryptsetup12:amd64              2:2.0.2-1ubuntu1.1                amd64        disk encryption support - shared library
 ii  libcrystalhd3:amd64                1:0.0~git20110715.fdd2f19-12      amd64        Crystal HD Video Decoder (shared library)
-ii  libcurl3-gnutls:amd64              7.58.0-2ubuntu3.3                 amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii  libcurl4:amd64                     7.58.0-2ubuntu3.3                 amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
-ii  libcurl4-openssl-dev:amd64         7.58.0-2ubuntu3.3                 amd64        development files and documentation for libcurl (OpenSSL flavour)
+ii  libcurl3-gnutls:amd64              7.58.0-2ubuntu3.5                 amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii  libcurl4:amd64                     7.58.0-2ubuntu3.5                 amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii  libcurl4-openssl-dev:amd64         7.58.0-2ubuntu3.5                 amd64        development files and documentation for libcurl (OpenSSL flavour)
 ii  libcwidget3v5:amd64                0.5.17-7                          amd64        high-level terminal interface library for C++ (runtime files)
 ii  libdatrie1:amd64                   0.2.10-7                          amd64        Double-array trie library
 ii  libdb5.3:amd64                     5.3.28-13.1ubuntu1                amd64        Berkeley v5.3 Database Libraries [runtime]
