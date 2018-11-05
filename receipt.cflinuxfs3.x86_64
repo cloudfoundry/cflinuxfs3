@@ -1,4 +1,4 @@
-Rootfs SHASUM: 5bb97adc14fbe904084969d3067c06c8fbb48b46a0f5e6b3aea9247a44f837a2
+Rootfs SHASUM: 294fcf8c234bf24215df0dd72ea93cd0b0df12fc9037dc897ac931ff75d37ed8
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -450,7 +450,7 @@ ii  libsub-name-perl                   0.21-1build1                      amd64  
 ii  libsvn1:amd64                      1.9.7-4ubuntu1                    amd64        Shared libraries used by Apache Subversion
 ii  libswresample2:amd64               7:3.4.4-0ubuntu0.18.04.1          amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                    2.1.0+repack-4build1              amd64        interface library to sysfs
-ii  libsystemd0:amd64                  237-3ubuntu10.3                   amd64        systemd utility library
+ii  libsystemd0:amd64                  237-3ubuntu10.4                   amd64        systemd utility library
 ii  libtasn1-6:amd64                   4.13-2                            amd64        Manage ASN.1 structures (runtime)
 ii  libtasn1-6-dev:amd64               4.13-2                            amd64        Manage ASN.1 structures (development)
 ii  libterm-ui-perl                    0.46-1                            all          Term::ReadLine UI made easy
@@ -471,7 +471,7 @@ ii  libtirpc1:amd64                    0.2.5-1.2ubuntu0.1                amd64  
 ii  libtsan0:amd64                     8.2.0-1ubuntu2~18.04              amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                  0.3.13-3                          amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan0:amd64                    7.3.0-27ubuntu1~18.04             amd64        UBSan -- undefined behaviour sanitizer (runtime)
-ii  libudev1:amd64                     237-3ubuntu10.3                   amd64        libudev shared library
+ii  libudev1:amd64                     237-3ubuntu10.4                   amd64        libudev shared library
 ii  libunbound2:amd64                  1.6.7-1ubuntu2.2                  amd64        library implementing DNS resolution and validation
 ii  libunistring2:amd64                0.9.9-0ubuntu1                    amd64        Unicode string library for C
 ii  libunwind8:amd64                   1.2.1-8                           amd64        library to determine the call-chain of a program - runtime
@@ -608,8 +608,8 @@ ii  strace                             4.21-1ubuntu1                     amd64  
 ii  subversion                         1.9.7-4ubuntu1                    amd64        Advanced version control system
 ii  sudo                               1.8.21p2-3ubuntu1                 amd64        Provide limited super user privileges to specific users
 ii  sysstat                            11.6.1-1                          amd64        system performance tools for Linux
-ii  systemd                            237-3ubuntu10.3                   amd64        system and service manager
-ii  systemd-sysv                       237-3ubuntu10.3                   amd64        system and service manager - SysV links
+ii  systemd                            237-3ubuntu10.4                   amd64        system and service manager
+ii  systemd-sysv                       237-3ubuntu10.4                   amd64        system and service manager - SysV links
 ii  sysvinit-utils                     2.88dsf-59.10ubuntu1              amd64        System-V-like utilities
 ii  tar                                1.29b-2                           amd64        GNU version of the tar archiving utility
 ii  tasksel                            3.34ubuntu11                      all          tool for selecting tasks for installation on Debian systems
@@ -622,7 +622,7 @@ ii  ubuntu-advantage-tools             17                                all    
 ii  ubuntu-keyring                     2018.02.28                        all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                            all          Update Configuration File(s): preserve user changes to config files
-ii  udev                               237-3ubuntu10.3                   amd64        /dev/ and hotplug management daemon
+ii  udev                               237-3ubuntu10.4                   amd64        /dev/ and hotplug management daemon
 ii  unzip                              6.0-21ubuntu1                     amd64        De-archiver for .zip files
 ii  ureadahead                         0.100.0-20                        amd64        Read required files in advance
 ii  util-linux                         2.31.1-0.4ubuntu3.2               amd64        miscellaneous system utilities
