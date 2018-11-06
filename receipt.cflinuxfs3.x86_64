@@ -1,4 +1,4 @@
-Rootfs SHASUM: 294fcf8c234bf24215df0dd72ea93cd0b0df12fc9037dc897ac931ff75d37ed8
+Rootfs SHASUM: 5d05b56eb63af9a853c6080aff01498a6b91c210da6cddd99088928d44b5fe40
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -98,7 +98,7 @@ ii  jq                                 1.5+dfsg-2                        amd64  
 ii  kbd                                2.0.4-2ubuntu1                    amd64        Linux console font and keytable utilities
 ii  keyboard-configuration             1.178ubuntu2.7                    all          system-wide keyboard preferences
 ii  klibc-utils                        2.0.4-9ubuntu2                    amd64        small utilities built with klibc for early boot
-ii  kmod                               24-1ubuntu3                       amd64        tools for managing Linux kernel modules
+ii  kmod                               24-1ubuntu3.1                     amd64        tools for managing Linux kernel modules
 ii  krb5-config                        2.6                               all          Configuration files for Kerberos Version 5
 ii  krb5-multidev:amd64                1.16-2build1                      amd64        development files for MIT Kerberos without Heimdal conflict
 ii  krb5-user                          1.16-2build1                      amd64        basic programs to authenticate using MIT Kerberos
@@ -292,7 +292,7 @@ ii  libkadm5srv-mit11:amd64            1.16-2build1                      amd64  
 ii  libkdb5-9:amd64                    1.16-2build1                      amd64        MIT Kerberos runtime libraries - Kerberos database
 ii  libkeyutils1:amd64                 1.5.9-9.2ubuntu2                  amd64        Linux Key Management Utilities (library)
 ii  libklibc                           2.0.4-9ubuntu2                    amd64        minimal libc subset for use with initramfs
-ii  libkmod2:amd64                     24-1ubuntu3                       amd64        libkmod shared library
+ii  libkmod2:amd64                     24-1ubuntu3.1                     amd64        libkmod shared library
 ii  libkrb5-26-heimdal:amd64           7.5.0+dfsg-1                      amd64        Heimdal Kerberos - libraries
 ii  libkrb5-3:amd64                    1.16-2build1                      amd64        MIT Kerberos runtime libraries
 ii  libkrb5-dev:amd64                  1.16-2build1                      amd64        headers and development libraries for MIT Kerberos
@@ -412,7 +412,7 @@ ii  librsvg2-common:amd64              2.40.20-2                         amd64  
 ii  librsvg2-dev:amd64                 2.40.20-2                         amd64        SAX-based renderer library for SVG files (development)
 ii  librtmp-dev:amd64                  2.4+20151223.gitfa8646d.1-1       amd64        toolkit for RTMP streams (development files)
 ii  librtmp1:amd64                     2.4+20151223.gitfa8646d.1-1       amd64        toolkit for RTMP streams (shared library)
-ii  libruby2.5:amd64                   2.5.1-1ubuntu1                    amd64        Libraries necessary to run Ruby 2.5
+ii  libruby2.5:amd64                   2.5.1-1ubuntu1.1                  amd64        Libraries necessary to run Ruby 2.5
 ii  libsasl2-2:amd64                   2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - authentication abstraction library
 ii  libsasl2-dev                       2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - development files for authentication abstraction library
 ii  libsasl2-modules:amd64             2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - pluggable authentication modules
@@ -561,9 +561,9 @@ ii  netplan.io                         0.36.3                            amd64  
 ii  nettle-dev:amd64                   3.4-1                             amd64        low level cryptographic library (development files)
 ii  nplan                              0.36.3                            all          YAML network configuration abstraction - transitional package
 ii  ocaml-base-nox                     4.05.0-10ubuntu1                  amd64        Runtime system for OCaml bytecode executables (no X)
-ii  openssh-client                     1:7.6p1-4                         amd64        secure shell (SSH) client, for secure access to remote machines
-ii  openssh-server                     1:7.6p1-4                         amd64        secure shell (SSH) server, for secure access from remote machines
-ii  openssh-sftp-server                1:7.6p1-4                         amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii  openssh-client                     1:7.6p1-4ubuntu0.1                amd64        secure shell (SSH) client, for secure access to remote machines
+ii  openssh-server                     1:7.6p1-4ubuntu0.1                amd64        secure shell (SSH) server, for secure access from remote machines
+ii  openssh-sftp-server                1:7.6p1-4ubuntu0.1                amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii  openssl                            1.1.0g-2ubuntu4.1                 amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  openssl1.0                         1.0.2n-1ubuntu5.1                 amd64        Secure Sockets Layer toolkit 1.0 - cryptographic utility
 ii  passwd                             1:4.5-1ubuntu1                    amd64        change and administer password and group data
@@ -598,7 +598,7 @@ ii  ruby-minitest                      5.10.3-1                          all    
 ii  ruby-net-telnet                    0.1.1-2                           all          telnet client library
 ii  ruby-power-assert                  0.3.0-1                           all          library showing values of variables and method calls in an expression
 ii  ruby-test-unit                     3.2.5-1                           all          unit testing framework for Ruby
-ii  ruby2.5                            2.5.1-1ubuntu1                    amd64        Interpreter of object-oriented scripting language Ruby
+ii  ruby2.5                            2.5.1-1ubuntu1.1                  amd64        Interpreter of object-oriented scripting language Ruby
 ii  rubygems-integration               1.11                              all          integration of Debian Ruby packages with Rubygems
 ii  sed                                4.4-2                             amd64        GNU stream editor for filtering/transforming text
 ii  sensible-utils                     0.0.12                            all          Utilities for sensible alternative selection
