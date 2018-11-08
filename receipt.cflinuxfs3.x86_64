@@ -1,4 +1,4 @@
-Rootfs SHASUM: 5d05b56eb63af9a853c6080aff01498a6b91c210da6cddd99088928d44b5fe40
+Rootfs SHASUM: 1591ab02a565ac841c1ed26e7780be7c3ebd1407855ea6355b5303d9781dc606
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -417,6 +417,7 @@ ii  libsasl2-2:amd64                   2.1.27~101-g0780600+dfsg-3ubuntu2 amd64  
 ii  libsasl2-dev                       2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - development files for authentication abstraction library
 ii  libsasl2-modules:amd64             2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - pluggable authentication modules
 ii  libsasl2-modules-db:amd64          2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - pluggable authentication modules (DB)
+ii  libsasl2-modules-gssapi-mit:amd64  2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - pluggable authentication modules (GSSAPI)
 ii  libseccomp2:amd64                  2.3.1-2.1ubuntu4                  amd64        high level interface to Linux seccomp filter
 ii  libselinux1:amd64                  2.7-2build2                       amd64        SELinux runtime shared libraries
 ii  libselinux1-dev:amd64              2.7-2build2                       amd64        SELinux development headers
@@ -557,9 +558,9 @@ ii  ncurses-bin                        6.1-1ubuntu1.18.04                amd64  
 ii  net-tools                          1.60+git20161116.90da8a0-1ubuntu1 amd64        NET-3 networking toolkit
 ii  netbase                            5.4                               all          Basic TCP/IP networking system
 ii  netcat-openbsd                     1.187-1ubuntu0.1                  amd64        TCP/IP swiss army knife
-ii  netplan.io                         0.36.3                            amd64        YAML network configuration abstraction for various backends
+ii  netplan.io                         0.40.1~18.04.2                    amd64        YAML network configuration abstraction for various backends
 ii  nettle-dev:amd64                   3.4-1                             amd64        low level cryptographic library (development files)
-ii  nplan                              0.36.3                            all          YAML network configuration abstraction - transitional package
+ii  nplan                              0.40.1~18.04.2                    all          YAML network configuration abstraction - transitional package
 ii  ocaml-base-nox                     4.05.0-10ubuntu1                  amd64        Runtime system for OCaml bytecode executables (no X)
 ii  openssh-client                     1:7.6p1-4ubuntu0.1                amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                     1:7.6p1-4ubuntu0.1                amd64        secure shell (SSH) server, for secure access from remote machines
@@ -585,6 +586,7 @@ ii  python3                            3.6.5-3ubuntu1                    amd64  
 ii  python3-distutils                  3.6.5-3                           all          distutils package for Python 3.x
 ii  python3-lib2to3                    3.6.5-3                           all          Interactive high-level object-oriented language (2to3, version 3.6)
 ii  python3-minimal                    3.6.5-3ubuntu1                    amd64        minimal subset of the Python language (default python3 version)
+ii  python3-netifaces                  0.10.4-0.1build4                  amd64        portable network interface information - Python 3.x
 ii  python3-yaml                       3.12-1build2                      amd64        YAML parser and emitter for Python3
 ii  python3.6                          3.6.6-1~18.04                     amd64        Interactive high-level object-oriented language (version 3.6)
 ii  python3.6-minimal                  3.6.6-1~18.04                     amd64        Minimal subset of the Python language (version 3.6)
