@@ -1,4 +1,4 @@
-Rootfs SHASUM: 1591ab02a565ac841c1ed26e7780be7c3ebd1407855ea6355b5303d9781dc606
+Rootfs SHASUM: 1a30d0702d04e4326e06374a4b8ce2ed633e7d3c448a303f2528f891bf6fe1bf
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -216,11 +216,11 @@ ii  libgdk-pixbuf2.0-dev               2.36.11-2                         amd64  
 ii  libgeoip1:amd64                    1.6.12-1                          amd64        non-DNS IP-to-country resolver library
 ii  libgfortran4:amd64                 7.3.0-27ubuntu1~18.04             amd64        Runtime library for GNU Fortran applications
 ii  libgirepository-1.0-1:amd64        1.56.1-1                          amd64        Library for handling GObject introspection data (runtime library)
-ii  libglib2.0-0:amd64                 2.56.2-0ubuntu0.18.04.2           amd64        GLib library of C routines
-ii  libglib2.0-bin                     2.56.2-0ubuntu0.18.04.2           amd64        Programs for the GLib library
-ii  libglib2.0-data                    2.56.2-0ubuntu0.18.04.2           all          Common files for GLib library
-ii  libglib2.0-dev:amd64               2.56.2-0ubuntu0.18.04.2           amd64        Development files for the GLib library
-ii  libglib2.0-dev-bin                 2.56.2-0ubuntu0.18.04.2           amd64        Development utilities for the GLib library
+ii  libglib2.0-0:amd64                 2.56.3-0ubuntu0.18.04.1           amd64        GLib library of C routines
+ii  libglib2.0-bin                     2.56.3-0ubuntu0.18.04.1           amd64        Programs for the GLib library
+ii  libglib2.0-data                    2.56.3-0ubuntu0.18.04.1           all          Common files for GLib library
+ii  libglib2.0-dev:amd64               2.56.3-0ubuntu0.18.04.1           amd64        Development files for the GLib library
+ii  libglib2.0-dev-bin                 2.56.3-0ubuntu0.18.04.1           amd64        Development utilities for the GLib library
 ii  libgmp-dev:amd64                   2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                     2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64                2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library (C++ bindings)
@@ -396,8 +396,8 @@ ii  libproxy1v5:amd64                  0.4.15-1                          amd64  
 ii  libpsl5:amd64                      0.19.1-5build1                    amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64        0.3-4                             amd64        pthread stubs not provided by native libc, development files
 ii  libpython-stdlib:amd64             2.7.15~rc1-1                      amd64        interactive high-level object-oriented language (default python version)
-ii  libpython2.7-minimal:amd64         2.7.15~rc1-1                      amd64        Minimal subset of the Python language (version 2.7)
-ii  libpython2.7-stdlib:amd64          2.7.15~rc1-1                      amd64        Interactive high-level object-oriented language (standard library, version 2.7)
+ii  libpython2.7-minimal:amd64         2.7.15~rc1-1ubuntu0.1             amd64        Minimal subset of the Python language (version 2.7)
+ii  libpython2.7-stdlib:amd64          2.7.15~rc1-1ubuntu0.1             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
 ii  libpython3-stdlib:amd64            3.6.5-3ubuntu1                    amd64        interactive high-level object-oriented language (default python3 version)
 ii  libpython3.6:amd64                 3.6.6-1~18.04                     amd64        Shared Python runtime library (version 3.6)
 ii  libpython3.6-minimal:amd64         3.6.6-1~18.04                     amd64        Minimal subset of the Python language (version 3.6)
@@ -451,7 +451,7 @@ ii  libsub-name-perl                   0.21-1build1                      amd64  
 ii  libsvn1:amd64                      1.9.7-4ubuntu1                    amd64        Shared libraries used by Apache Subversion
 ii  libswresample2:amd64               7:3.4.4-0ubuntu0.18.04.1          amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                    2.1.0+repack-4build1              amd64        interface library to sysfs
-ii  libsystemd0:amd64                  237-3ubuntu10.4                   amd64        systemd utility library
+ii  libsystemd0:amd64                  237-3ubuntu10.6                   amd64        systemd utility library
 ii  libtasn1-6:amd64                   4.13-2                            amd64        Manage ASN.1 structures (runtime)
 ii  libtasn1-6-dev:amd64               4.13-2                            amd64        Manage ASN.1 structures (development)
 ii  libterm-ui-perl                    0.46-1                            all          Term::ReadLine UI made easy
@@ -472,7 +472,7 @@ ii  libtirpc1:amd64                    0.2.5-1.2ubuntu0.1                amd64  
 ii  libtsan0:amd64                     8.2.0-1ubuntu2~18.04              amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                  0.3.13-3                          amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan0:amd64                    7.3.0-27ubuntu1~18.04             amd64        UBSan -- undefined behaviour sanitizer (runtime)
-ii  libudev1:amd64                     237-3ubuntu10.4                   amd64        libudev shared library
+ii  libudev1:amd64                     237-3ubuntu10.6                   amd64        libudev shared library
 ii  libunbound2:amd64                  1.6.7-1ubuntu2.2                  amd64        library implementing DNS resolution and validation
 ii  libunistring2:amd64                0.9.9-0ubuntu1                    amd64        Unicode string library for C
 ii  libunwind8:amd64                   1.2.1-8                           amd64        library to determine the call-chain of a program - runtime
@@ -558,9 +558,9 @@ ii  ncurses-bin                        6.1-1ubuntu1.18.04                amd64  
 ii  net-tools                          1.60+git20161116.90da8a0-1ubuntu1 amd64        NET-3 networking toolkit
 ii  netbase                            5.4                               all          Basic TCP/IP networking system
 ii  netcat-openbsd                     1.187-1ubuntu0.1                  amd64        TCP/IP swiss army knife
-ii  netplan.io                         0.40.1~18.04.2                    amd64        YAML network configuration abstraction for various backends
+ii  netplan.io                         0.36.3                            amd64        YAML network configuration abstraction for various backends
 ii  nettle-dev:amd64                   3.4-1                             amd64        low level cryptographic library (development files)
-ii  nplan                              0.40.1~18.04.2                    all          YAML network configuration abstraction - transitional package
+ii  nplan                              0.36.3                            all          YAML network configuration abstraction - transitional package
 ii  ocaml-base-nox                     4.05.0-10ubuntu1                  amd64        Runtime system for OCaml bytecode executables (no X)
 ii  openssh-client                     1:7.6p1-4ubuntu0.1                amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                     1:7.6p1-4ubuntu0.1                amd64        secure shell (SSH) server, for secure access from remote machines
@@ -580,13 +580,12 @@ ii  python-bzrlib                      2.7.0+bzr6622-10                  amd64  
 ii  python-configobj                   5.0.6-2                           all          simple but powerful config file reader and writer for Python 2
 ii  python-minimal                     2.7.15~rc1-1                      amd64        minimal subset of the Python language (default version)
 ii  python-six                         1.11.0-2                          all          Python 2 and 3 compatibility library (Python 2 interface)
-ii  python2.7                          2.7.15~rc1-1                      amd64        Interactive high-level object-oriented language (version 2.7)
-ii  python2.7-minimal                  2.7.15~rc1-1                      amd64        Minimal subset of the Python language (version 2.7)
+ii  python2.7                          2.7.15~rc1-1ubuntu0.1             amd64        Interactive high-level object-oriented language (version 2.7)
+ii  python2.7-minimal                  2.7.15~rc1-1ubuntu0.1             amd64        Minimal subset of the Python language (version 2.7)
 ii  python3                            3.6.5-3ubuntu1                    amd64        interactive high-level object-oriented language (default python3 version)
 ii  python3-distutils                  3.6.5-3                           all          distutils package for Python 3.x
 ii  python3-lib2to3                    3.6.5-3                           all          Interactive high-level object-oriented language (2to3, version 3.6)
 ii  python3-minimal                    3.6.5-3ubuntu1                    amd64        minimal subset of the Python language (default python3 version)
-ii  python3-netifaces                  0.10.4-0.1build4                  amd64        portable network interface information - Python 3.x
 ii  python3-yaml                       3.12-1build2                      amd64        YAML parser and emitter for Python3
 ii  python3.6                          3.6.6-1~18.04                     amd64        Interactive high-level object-oriented language (version 3.6)
 ii  python3.6-minimal                  3.6.6-1~18.04                     amd64        Minimal subset of the Python language (version 3.6)
@@ -610,8 +609,8 @@ ii  strace                             4.21-1ubuntu1                     amd64  
 ii  subversion                         1.9.7-4ubuntu1                    amd64        Advanced version control system
 ii  sudo                               1.8.21p2-3ubuntu1                 amd64        Provide limited super user privileges to specific users
 ii  sysstat                            11.6.1-1                          amd64        system performance tools for Linux
-ii  systemd                            237-3ubuntu10.4                   amd64        system and service manager
-ii  systemd-sysv                       237-3ubuntu10.4                   amd64        system and service manager - SysV links
+ii  systemd                            237-3ubuntu10.6                   amd64        system and service manager
+ii  systemd-sysv                       237-3ubuntu10.6                   amd64        system and service manager - SysV links
 ii  sysvinit-utils                     2.88dsf-59.10ubuntu1              amd64        System-V-like utilities
 ii  tar                                1.29b-2                           amd64        GNU version of the tar archiving utility
 ii  tasksel                            3.34ubuntu11                      all          tool for selecting tasks for installation on Debian systems
@@ -624,7 +623,7 @@ ii  ubuntu-advantage-tools             17                                all    
 ii  ubuntu-keyring                     2018.02.28                        all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                            all          Update Configuration File(s): preserve user changes to config files
-ii  udev                               237-3ubuntu10.4                   amd64        /dev/ and hotplug management daemon
+ii  udev                               237-3ubuntu10.6                   amd64        /dev/ and hotplug management daemon
 ii  unzip                              6.0-21ubuntu1                     amd64        De-archiver for .zip files
 ii  ureadahead                         0.100.0-20                        amd64        Read required files in advance
 ii  util-linux                         2.31.1-0.4ubuntu3.2               amd64        miscellaneous system utilities
