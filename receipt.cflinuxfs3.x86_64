@@ -1,4 +1,4 @@
-Rootfs SHASUM: 9ae1f130917023d7fc2231fedaa5af5652cd535dcdf23f86a87b3a0f90ce74ca
+Rootfs SHASUM: 57592cf0b9e1ac09b6c8c9074ab23d1ee908703c99c6aeaa039d1b3007de6937
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -301,9 +301,9 @@ ii  liblapack-dev:amd64                3.7.1-4ubuntu1                    amd64  
 ii  liblapack3:amd64                   3.7.1-4ubuntu1                    amd64        Library of linear algebra routines 3 - shared version
 ii  liblcms2-2:amd64                   2.9-1ubuntu0.1                    amd64        Little CMS 2 color management library
 ii  liblcms2-dev:amd64                 2.9-1ubuntu0.1                    amd64        Little CMS 2 color management library development headers
-ii  libldap-2.4-2:amd64                2.4.45+dfsg-1ubuntu1              amd64        OpenLDAP libraries
-ii  libldap-common                     2.4.45+dfsg-1ubuntu1              all          OpenLDAP common files for libraries
-ii  libldap2-dev:amd64                 2.4.45+dfsg-1ubuntu1              amd64        OpenLDAP development libraries
+ii  libldap-2.4-2:amd64                2.4.45+dfsg-1ubuntu1.1            amd64        OpenLDAP libraries
+ii  libldap-common                     2.4.45+dfsg-1ubuntu1.1            all          OpenLDAP common files for libraries
+ii  libldap2-dev:amd64                 2.4.45+dfsg-1ubuntu1.1            amd64        OpenLDAP development libraries
 ii  libllvm6.0:amd64                   1:6.0-1ubuntu2                    amd64        Modular compiler and toolchain technologies, runtime library
 ii  liblocale-gettext-perl             1.07-3build2                      amd64        module using libc functions for internationalization in Perl
 ii  liblockfile-bin                    1.14-1.1                          amd64        support binaries for and cli utilities based on liblockfile
@@ -489,7 +489,7 @@ ii  libvorbisenc2:amd64                1.3.5-4.2                         amd64  
 ii  libvpx-dev:amd64                   1.7.0-3                           amd64        VP8 and VP9 video codec (development files)
 ii  libvpx5:amd64                      1.7.0-3                           amd64        VP8 and VP9 video codec (shared library)
 ii  libwavpack1:amd64                  5.1.0-2ubuntu1.1                  amd64        audio codec (lossy and lossless) - library
-ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.2    amd64        Samba winbind client library
+ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.4    amd64        Samba winbind client library
 ii  libwebp6:amd64                     0.6.1-2                           amd64        Lossy compression of digital photographic images.
 ii  libwebpmux3:amd64                  0.6.1-2                           amd64        Lossy compression of digital photographic images.
 ii  libwind0-heimdal:amd64             7.5.0+dfsg-1                      amd64        Heimdal Kerberos - stringprep implementation
