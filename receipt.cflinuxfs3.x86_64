@@ -1,4 +1,4 @@
-Rootfs SHASUM: 57592cf0b9e1ac09b6c8c9074ab23d1ee908703c99c6aeaa039d1b3007de6937
+Rootfs SHASUM: 1d489cacefb695a9e7ab106b341ad42283c65dc4b042816c8de1168e460a1bdf
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -69,8 +69,8 @@ ii  gir1.2-gdkpixbuf-2.0:amd64         2.36.11-2                         amd64  
 ii  gir1.2-glib-2.0:amd64              1.56.1-1                          amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-harfbuzz-0.0:amd64          1.7.2-1ubuntu1                    amd64        OpenType text shaping engine (GObject introspection data)
 ii  gir1.2-rsvg-2.0:amd64              2.40.20-2                         amd64        gir files for renderer library for SVG files
-ii  git                                1:2.17.1-1ubuntu0.3               amd64        fast, scalable, distributed revision control system
-ii  git-man                            1:2.17.1-1ubuntu0.3               all          fast, scalable, distributed revision control system (manual pages)
+ii  git                                1:2.17.1-1ubuntu0.4               amd64        fast, scalable, distributed revision control system
+ii  git-man                            1:2.17.1-1ubuntu0.4               all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                             1.4.22-3ubuntu2                   amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                               2.2.4-1ubuntu1.1                  amd64        GNU privacy guard - signature verification tool
 ii  grep                               3.1-2                             amd64        GNU grep, egrep and fgrep
@@ -489,7 +489,7 @@ ii  libvorbisenc2:amd64                1.3.5-4.2                         amd64  
 ii  libvpx-dev:amd64                   1.7.0-3                           amd64        VP8 and VP9 video codec (development files)
 ii  libvpx5:amd64                      1.7.0-3                           amd64        VP8 and VP9 video codec (shared library)
 ii  libwavpack1:amd64                  5.1.0-2ubuntu1.1                  amd64        audio codec (lossy and lossless) - library
-ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.4    amd64        Samba winbind client library
+ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.5    amd64        Samba winbind client library
 ii  libwebp6:amd64                     0.6.1-2                           amd64        Lossy compression of digital photographic images.
 ii  libwebpmux3:amd64                  0.6.1-2                           amd64        Lossy compression of digital photographic images.
 ii  libwind0-heimdal:amd64             7.5.0+dfsg-1                      amd64        Heimdal Kerberos - stringprep implementation
@@ -548,8 +548,8 @@ ii  make                               4.1-9.1ubuntu1                    amd64  
 ii  manpages                           4.15-1                            all          Manual pages about using a GNU/Linux system
 ii  manpages-dev                       4.15-1                            all          Manual pages about using GNU/Linux for development
 ii  mawk                               1.3.3-17ubuntu3                   amd64        a pattern scanning and text processing language
-ii  mercurial                          4.5.3-1ubuntu2                    amd64        easy-to-use, scalable distributed version control system
-ii  mercurial-common                   4.5.3-1ubuntu2                    all          easy-to-use, scalable distributed version control system (common files)
+ii  mercurial                          4.5.3-1ubuntu2.1                  amd64        easy-to-use, scalable distributed version control system
+ii  mercurial-common                   4.5.3-1ubuntu2.1                  all          easy-to-use, scalable distributed version control system (common files)
 ii  mime-support                       3.60ubuntu1                       all          MIME files 'mime.types' & 'mailcap', and support programs
 ii  mount                              2.31.1-0.4ubuntu3.2               amd64        tools for mounting and manipulating filesystems
 ii  multiarch-support                  2.27-3ubuntu1                     amd64        Transitional package to ensure multiarch compatibility
