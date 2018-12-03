@@ -1,4 +1,4 @@
-Rootfs SHASUM: 38a846f0b2515ad018eedf4cce3d8a1641a79a59a8e40983f9e2f34758253fa0
+Rootfs SHASUM: 0ddabceeb0446f80dec94e98b832942041dfcd95bc3ffb63b800ca3afb885b3c
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -383,7 +383,7 @@ ii  libpcre3:amd64                     2:8.39-9                          amd64  
 ii  libpcre3-dev:amd64                 2:8.39-9                          amd64        Old Perl 5 Compatible Regular Expression Library - development files
 ii  libpcre32-3:amd64                  2:8.39-9                          amd64        Old Perl 5 Compatible Regular Expression Library - 32 bit runtime files
 ii  libpcrecpp0v5:amd64                2:8.39-9                          amd64        Old Perl 5 Compatible Regular Expression Library - C++ runtime files
-ii  libperl5.26:amd64                  5.26.1-6ubuntu0.2                 amd64        shared Perl library
+ii  libperl5.26:amd64                  5.26.1-6ubuntu0.3                 amd64        shared Perl library
 ii  libpixman-1-0:amd64                0.34.0-2                          amd64        pixel-manipulation library for X and cairo
 ii  libpixman-1-dev:amd64              0.34.0-2                          amd64        pixel-manipulation library for X and cairo (development files)
 ii  libpng-dev:amd64                   1.6.34-1ubuntu0.18.04.1           amd64        PNG library - development (version 1.6)
@@ -534,7 +534,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1               amd64  
 ii  libzvbi-common                     0.2.35-13                         all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                         amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-39.42                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-42.45                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                      amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu1                    amd64        system login tools
@@ -569,9 +569,9 @@ ii  openssl                            1.1.0g-2ubuntu4.1                 amd64  
 ii  openssl1.0                         1.0.2n-1ubuntu5.1                 amd64        Secure Sockets Layer toolkit 1.0 - cryptographic utility
 ii  passwd                             1:4.5-1ubuntu1                    amd64        change and administer password and group data
 ii  patch                              2.7.6-2ubuntu1                    amd64        Apply a diff file to an original
-ii  perl                               5.26.1-6ubuntu0.2                 amd64        Larry Wall's Practical Extraction and Report Language
-ii  perl-base                          5.26.1-6ubuntu0.2                 amd64        minimal Perl system
-ii  perl-modules-5.26                  5.26.1-6ubuntu0.2                 all          Core Perl modules
+ii  perl                               5.26.1-6ubuntu0.3                 amd64        Larry Wall's Practical Extraction and Report Language
+ii  perl-base                          5.26.1-6ubuntu0.3                 amd64        minimal Perl system
+ii  perl-modules-5.26                  5.26.1-6ubuntu0.3                 all          Core Perl modules
 ii  pkg-config                         0.29.1-0ubuntu2                   amd64        manage compile and link flags for libraries
 ii  procps                             2:3.3.12-3ubuntu1.1               amd64        /proc file system utilities
 ii  psmisc                             23.1-1                            amd64        utilities that use the proc file system
