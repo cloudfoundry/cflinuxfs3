@@ -1,4 +1,4 @@
-Rootfs SHASUM: 1d489cacefb695a9e7ab106b341ad42283c65dc4b042816c8de1168e460a1bdf
+Rootfs SHASUM: 38a846f0b2515ad018eedf4cce3d8a1641a79a59a8e40983f9e2f34758253fa0
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -620,7 +620,7 @@ ii  traceroute                         1:2.1.0-2                         amd64  
 ii  ttf-dejavu-core                    2.37-1                            all          transitional dummy package
 ii  tzdata                             2018g-0ubuntu0.18.04              all          time zone and daylight-saving time data
 ii  ubuntu-advantage-tools             17                                all          management tools for Ubuntu Advantage
-ii  ubuntu-keyring                     2018.02.28                        all          GnuPG keys of the Ubuntu archive
+ii  ubuntu-keyring                     2018.09.18.1~18.04.0              all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                            all          Update Configuration File(s): preserve user changes to config files
 ii  udev                               237-3ubuntu10.9                   amd64        /dev/ and hotplug management daemon
