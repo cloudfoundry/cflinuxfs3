@@ -13,5 +13,6 @@ ENV PACK_GROUP_ID 2000
 COPY --from=builder /go/bin /lifecycle
 
 WORKDIR /workspace
+RUN chown -R vcap:vcap /workspace
 
 USER root
