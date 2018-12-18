@@ -1,4 +1,4 @@
-FROM golang:1.11.0 as builder
+FROM golang:1.11.4 as builder
 
 RUN go get github.com/buildpack/lifecycle
 WORKDIR src/github.com/buildpack/lifecycle
