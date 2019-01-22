@@ -1,4 +1,4 @@
-Rootfs SHASUM: d024dcfd4c8bc95819d6ebe038c6709e3d850fc79d8c6da6808eaf25f0309df9
+Rootfs SHASUM: d766a3f9049db56b70aad514724dcc35f60f7160addb4c533464ee082b7d19a6
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -6,8 +6,8 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name                               Version                           Architecture Description
 +++-==================================-=================================-============-===============================================================================
 ii  adduser                            3.116ubuntu1                      all          add and remove users and groups
-ii  apt                                1.6.6                             amd64        commandline package manager
-ii  apt-utils                          1.6.6                             amd64        package management related utility programs
+ii  apt                                1.6.6ubuntu0.1                    amd64        commandline package manager
+ii  apt-utils                          1.6.6ubuntu0.1                    amd64        package management related utility programs
 ii  aptitude                           0.8.10-6ubuntu1                   amd64        terminal-based package manager
 ii  aptitude-common                    0.8.10-6ubuntu1                   all          architecture independent files for the aptitude package manager
 ii  autoconf                           2.69-11                           all          automatic configure script builder
@@ -19,7 +19,7 @@ ii  binutils                           2.30-21ubuntu1~18.04              amd64  
 ii  binutils-common:amd64              2.30-21ubuntu1~18.04              amd64        Common files for the GNU assembler, linker and binary utilities
 ii  binutils-x86-64-linux-gnu          2.30-21ubuntu1~18.04              amd64        GNU binary utilities, for x86-64-linux-gnu target
 ii  bison                              2:3.0.4.dfsg-1build1              amd64        YACC-compatible parser generator
-ii  bsdutils                           1:2.31.1-0.4ubuntu3.2             amd64        basic utilities from 4.4BSD-Lite
+ii  bsdutils                           1:2.31.1-0.4ubuntu3.3             amd64        basic utilities from 4.4BSD-Lite
 ii  build-essential                    12.4ubuntu1                       amd64        Informational list of build-essential packages
 ii  busybox-initramfs                  1:1.27.2-2ubuntu3                 amd64        Standalone shell setup for initramfs
 ii  bzip2                              1.0.6-8.1                         amd64        high-quality block-sorting file compressor - utilities
@@ -49,7 +49,7 @@ ii  dpkg-dev                           1.19.0.5ubuntu2.1                 all    
 ii  e2fsprogs                          1.44.1-1ubuntu1                   amd64        ext2/ext3/ext4 file system utilities
 ii  eject                              2.1.5+deb1+cvs20081104-13.2       amd64        ejects CDs and operates CD-Changers under Linux
 ii  fakeroot                           1.22-2ubuntu1                     amd64        tool for simulating superuser privileges
-ii  fdisk                              2.31.1-0.4ubuntu3.2               amd64        collection of partitioning utilities
+ii  fdisk                              2.31.1-0.4ubuntu3.3               amd64        collection of partitioning utilities
 ii  file                               1:5.32-2ubuntu0.1                 amd64        Recognize the type of data in a file using "magic" numbers
 ii  findutils                          4.6.0+git+20170828-2              amd64        utilities for finding files--find, xargs
 ii  flex                               2.6.4-6                           amd64        fast lexical analyzer generator
@@ -108,8 +108,8 @@ ii  libaio1:amd64                      0.3.110-5                         amd64  
 ii  libapparmor1:amd64                 2.12-4ubuntu5.1                   amd64        changehat AppArmor library
 ii  libapr1:amd64                      1.6.3-2                           amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                  1.6.1-2                           amd64        Apache Portable Runtime Utility Library
-ii  libapt-inst2.0:amd64               1.6.6                             amd64        deb package format runtime library
-ii  libapt-pkg5.0:amd64                1.6.6                             amd64        package management runtime library
+ii  libapt-inst2.0:amd64               1.6.6ubuntu0.1                    amd64        deb package format runtime library
+ii  libapt-pkg5.0:amd64                1.6.6ubuntu0.1                    amd64        package management runtime library
 ii  libarchive-extract-perl            0.80-1                            all          generic archive extracting module
 ii  libarchive13:amd64                 3.2.2-3.1ubuntu0.2                amd64        Multi-format archive and compression library (shared library)
 ii  libargon2-0:amd64                  0~20161029-1.1                    amd64        memory-hard hashing function - runtime library
@@ -130,7 +130,7 @@ ii  libbinutils:amd64                  2.30-21ubuntu1~18.04              amd64  
 ii  libbison-dev:amd64                 2:3.0.4.dfsg-1build1              amd64        YACC-compatible parser generator - development library
 ii  libblas-dev:amd64                  3.7.1-4ubuntu1                    amd64        Basic Linear Algebra Subroutines 3, static library
 ii  libblas3:amd64                     3.7.1-4ubuntu1                    amd64        Basic Linear Algebra Reference implementations, shared library
-ii  libblkid1:amd64                    2.31.1-0.4ubuntu3.2               amd64        block device ID library
+ii  libblkid1:amd64                    2.31.1-0.4ubuntu3.3               amd64        block device ID library
 ii  libboost-filesystem1.65.1:amd64    1.65.1+dfsg-0ubuntu5              amd64        filesystem operations (portable paths, iteration over directories, etc) in C++
 ii  libboost-iostreams1.62.0:amd64     1.62.0+dfsg-5                     amd64        Boost.Iostreams Library
 ii  libboost-iostreams1.65.1:amd64     1.65.1+dfsg-0ubuntu5              amd64        Boost.Iostreams Library
@@ -189,7 +189,7 @@ ii  libexpat1:amd64                    2.2.5-3                           amd64  
 ii  libexpat1-dev:amd64                2.2.5-3                           amd64        XML parsing C library - development kit
 ii  libext2fs2:amd64                   1.44.1-1ubuntu1                   amd64        ext2/ext3/ext4 file system libraries
 ii  libfakeroot:amd64                  1.22-2ubuntu1                     amd64        tool for simulating superuser privileges - shared libraries
-ii  libfdisk1:amd64                    2.31.1-0.4ubuntu3.2               amd64        fdisk partitioning library
+ii  libfdisk1:amd64                    2.31.1-0.4ubuntu3.3               amd64        fdisk partitioning library
 ii  libffi-dev:amd64                   3.2.1-8                           amd64        Foreign Function Interface library (development files)
 ii  libffi6:amd64                      3.2.1-8                           amd64        Foreign Function Interface library runtime
 ii  libfftw3-double3:amd64             3.3.7-1                           amd64        Library for computing Fast Fourier Transforms - Double precision
@@ -336,7 +336,7 @@ ii  libmariadb-dev-compat:amd64        3.0.3-1build1                     amd64  
 ii  libmariadb3:amd64                  3.0.3-1build1                     amd64        MariaDB Connector/C
 ii  libmnl0:amd64                      1.0.4-2                           amd64        minimalistic Netlink communication library
 ii  libmodule-pluggable-perl           5.2-1                             all          module for giving  modules the ability to have plugins
-ii  libmount1:amd64                    2.31.1-0.4ubuntu3.2               amd64        device mounting library
+ii  libmount1:amd64                    2.31.1-0.4ubuntu3.3               amd64        device mounting library
 ii  libmp3lame0:amd64                  3.100-2                           amd64        MP3 encoding library
 ii  libmpc3:amd64                      1.1.0-1                           amd64        multiple precision complex floating-point library
 ii  libmpdec2:amd64                    2.4.2-1ubuntu1                    amd64        library for decimal floating point arithmetic (runtime library)
@@ -433,7 +433,7 @@ ii  libsigsegv2:amd64                  2.12-1                            amd64  
 ii  libslang2:amd64                    2.3.1a-3ubuntu1                   amd64        S-Lang programming library - runtime version
 ii  libsm-dev:amd64                    2:1.2.2-1                         amd64        X11 Session Management library (development headers)
 ii  libsm6:amd64                       2:1.2.2-1                         amd64        X11 Session Management library
-ii  libsmartcols1:amd64                2.31.1-0.4ubuntu3.2               amd64        smart column output alignment library
+ii  libsmartcols1:amd64                2.31.1-0.4ubuntu3.3               amd64        smart column output alignment library
 ii  libsnappy1v5:amd64                 1.1.7-1                           amd64        fast compression/decompression library
 ii  libsoxr0:amd64                     0.1.2-3                           amd64        High quality 1D sample-rate conversion library
 ii  libspeex1:amd64                    1.2~rc1.2-1ubuntu2                amd64        The Speex codec runtime library
@@ -461,10 +461,10 @@ ii  libtext-wrapi18n-perl              0.06-7.1                          all    
 ii  libthai-data                       0.1.27-2                          all          Data files for Thai language support library
 ii  libthai0:amd64                     0.1.27-2                          amd64        Thai language support library
 ii  libtheora0:amd64                   1.1.1+dfsg.1-14                   amd64        Theora Video Compression Codec
-ii  libtiff-dev                        4.0.9-5                           amd64        Tag Image File Format library (TIFF), development files, current version
-ii  libtiff5:amd64                     4.0.9-5                           amd64        Tag Image File Format (TIFF) library
-ii  libtiff5-dev:amd64                 4.0.9-5                           amd64        Tag Image File Format library (TIFF), development files
-ii  libtiffxx5:amd64                   4.0.9-5                           amd64        Tag Image File Format (TIFF) library -- C++ interface
+ii  libtiff-dev                        4.0.9-5ubuntu0.1                  amd64        Tag Image File Format library (TIFF), development files, current version
+ii  libtiff5:amd64                     4.0.9-5ubuntu0.1                  amd64        Tag Image File Format (TIFF) library
+ii  libtiff5-dev:amd64                 4.0.9-5ubuntu0.1                  amd64        Tag Image File Format library (TIFF), development files
+ii  libtiffxx5:amd64                   4.0.9-5ubuntu0.1                  amd64        Tag Image File Format (TIFF) library -- C++ interface
 ii  libtimedate-perl                   2.3000-2                          all          collection of modules to manipulate date/time information
 ii  libtinfo-dev:amd64                 6.1-1ubuntu1.18.04                amd64        developer's library for the low-level terminfo library
 ii  libtinfo5:amd64                    6.1-1ubuntu1.18.04                amd64        shared low-level terminfo library for terminal handling
@@ -478,7 +478,7 @@ ii  libunistring2:amd64                0.9.9-0ubuntu1                    amd64  
 ii  libunwind8:amd64                   1.2.1-8                           amd64        library to determine the call-chain of a program - runtime
 ii  liburi-perl                        1.73-1                            all          module to manipulate and access URI strings
 ii  libustr-1.0-1:amd64                1.0.4-6                           amd64        Micro string library: shared library
-ii  libuuid1:amd64                     2.31.1-0.4ubuntu3.2               amd64        Universally Unique ID library
+ii  libuuid1:amd64                     2.31.1-0.4ubuntu3.3               amd64        Universally Unique ID library
 ii  libuv1:amd64                       1.18.0-3                          amd64        asynchronous event notification library - runtime library
 ii  libva-drm2:amd64                   2.1.0-3                           amd64        Video Acceleration (VA) API for Linux -- DRM runtime
 ii  libva-x11-2:amd64                  2.1.0-3                           amd64        Video Acceleration (VA) API for Linux -- X11 runtime
@@ -551,7 +551,7 @@ ii  mawk                               1.3.3-17ubuntu3                   amd64  
 ii  mercurial                          4.5.3-1ubuntu2.1                  amd64        easy-to-use, scalable distributed version control system
 ii  mercurial-common                   4.5.3-1ubuntu2.1                  all          easy-to-use, scalable distributed version control system (common files)
 ii  mime-support                       3.60ubuntu1                       all          MIME files 'mime.types' & 'mailcap', and support programs
-ii  mount                              2.31.1-0.4ubuntu3.2               amd64        tools for mounting and manipulating filesystems
+ii  mount                              2.31.1-0.4ubuntu3.3               amd64        tools for mounting and manipulating filesystems
 ii  multiarch-support                  2.27-3ubuntu1                     amd64        Transitional package to ensure multiarch compatibility
 ii  ncurses-base                       6.1-1ubuntu1.18.04                all          basic terminal type definitions
 ii  ncurses-bin                        6.1-1ubuntu1.18.04                amd64        terminal-related programs and man pages
@@ -627,8 +627,8 @@ ii  ucf                                3.0038                            all    
 ii  udev                               237-3ubuntu10.11                  amd64        /dev/ and hotplug management daemon
 ii  unzip                              6.0-21ubuntu1                     amd64        De-archiver for .zip files
 ii  ureadahead                         0.100.0-20                        amd64        Read required files in advance
-ii  util-linux                         2.31.1-0.4ubuntu3.2               amd64        miscellaneous system utilities
-ii  uuid-dev:amd64                     2.31.1-0.4ubuntu3.2               amd64        Universally Unique ID library - headers and static libraries
+ii  util-linux                         2.31.1-0.4ubuntu3.3               amd64        miscellaneous system utilities
+ii  uuid-dev:amd64                     2.31.1-0.4ubuntu3.3               amd64        Universally Unique ID library - headers and static libraries
 ii  vim-common                         2:8.0.1453-1ubuntu1               all          Vi IMproved - Common files
 ii  vim-tiny                           2:8.0.1453-1ubuntu1               amd64        Vi IMproved - enhanced vi editor - compact version
 ii  wget                               1.19.4-1ubuntu2.1                 amd64        retrieves files from the web
