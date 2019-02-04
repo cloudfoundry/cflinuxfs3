@@ -1,4 +1,4 @@
-Rootfs SHASUM: 2d45e77eca91dc57e5f8fe8340526ecdf090c6b03a5689629b14d93f5f83f0b1
+Rootfs SHASUM: 824fe574664bcfe3b0a5d0c1f4b88d2e0ea47c94ae47660c37c2b2b408cddf13
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -27,7 +27,7 @@ ii  bzr                                2.7.0+bzr6622-10                  all    
 ii  ca-certificates                    20180409                          all          Common CA certificates
 ii  cmake                              3.10.2-1ubuntu2                   amd64        cross-platform, open-source make system
 ii  cmake-data                         3.10.2-1ubuntu2                   all          CMake data files (modules, templates and documentation)
-ii  comerr-dev:amd64                   2.1-1.44.1-1ubuntu1               amd64        common error description library - headers and static libraries
+ii  comerr-dev:amd64                   2.1-1.44.1-1ubuntu1.1             amd64        common error description library - headers and static libraries
 ii  console-setup                      1.178ubuntu2.7                    all          console font and keymap setup program
 ii  console-setup-linux                1.178ubuntu2.7                    all          Linux specific part of console-setup
 ii  coreutils                          8.28-1ubuntu1                     amd64        GNU core utilities
@@ -46,7 +46,7 @@ ii  distro-info-data                   0.37ubuntu0.2                     all    
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.3          amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.1                 amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.1                 all          Debian package development tools
-ii  e2fsprogs                          1.44.1-1ubuntu1                   amd64        ext2/ext3/ext4 file system utilities
+ii  e2fsprogs                          1.44.1-1ubuntu1.1                 amd64        ext2/ext3/ext4 file system utilities
 ii  eject                              2.1.5+deb1+cvs20081104-13.2       amd64        ejects CDs and operates CD-Changers under Linux
 ii  fakeroot                           1.22-2ubuntu1                     amd64        tool for simulating superuser privileges
 ii  fdisk                              2.31.1-0.4ubuntu3.3               amd64        collection of partitioning utilities
@@ -155,7 +155,7 @@ ii  libcgraph6                         2.40.1-2                          amd64  
 ii  libcilkrts5:amd64                  7.3.0-27ubuntu1~18.04             amd64        Intel Cilk Plus language extensions (runtime)
 ii  libclass-accessor-perl             0.51-1                            all          Perl module that automatically generates accessors
 ii  libcloog-isl4:amd64                0.18.4-2                          amd64        Chunky Loop Generator (runtime library)
-ii  libcom-err2:amd64                  1.44.1-1ubuntu1                   amd64        common error description library
+ii  libcom-err2:amd64                  1.44.1-1ubuntu1.1                 amd64        common error description library
 ii  libcroco3:amd64                    0.6.12-2                          amd64        Cascading Style Sheet (CSS) parsing and manipulation toolkit
 ii  libcryptsetup12:amd64              2:2.0.2-1ubuntu1.1                amd64        disk encryption support - shared library
 ii  libcrystalhd3:amd64                1:0.0~git20110715.fdd2f19-12      amd64        Crystal HD Video Decoder (shared library)
@@ -187,7 +187,7 @@ ii  libexif-dev:amd64                  0.6.21-4                          amd64  
 ii  libexif12:amd64                    0.6.21-4                          amd64        library to parse EXIF files
 ii  libexpat1:amd64                    2.2.5-3                           amd64        XML parsing C library - runtime library
 ii  libexpat1-dev:amd64                2.2.5-3                           amd64        XML parsing C library - development kit
-ii  libext2fs2:amd64                   1.44.1-1ubuntu1                   amd64        ext2/ext3/ext4 file system libraries
+ii  libext2fs2:amd64                   1.44.1-1ubuntu1.1                 amd64        ext2/ext3/ext4 file system libraries
 ii  libfakeroot:amd64                  1.22-2ubuntu1                     amd64        tool for simulating superuser privileges - shared libraries
 ii  libfdisk1:amd64                    2.31.1-0.4ubuntu3.3               amd64        fdisk partitioning library
 ii  libffi-dev:amd64                   3.2.1-8                           amd64        Foreign Function Interface library (development files)
@@ -441,7 +441,7 @@ ii  libsqlite0                         2.8.17-14fakesync1                amd64  
 ii  libsqlite0-dev                     2.8.17-14fakesync1                amd64        SQLite 2 development files
 ii  libsqlite3-0:amd64                 3.22.0-1                          amd64        SQLite 3 shared library
 ii  libsqlite3-dev:amd64               3.22.0-1                          amd64        SQLite 3 development files
-ii  libss2:amd64                       1.44.1-1ubuntu1                   amd64        command-line interface parsing library
+ii  libss2:amd64                       1.44.1-1ubuntu1.1                 amd64        command-line interface parsing library
 ii  libssl-dev:amd64                   1.1.0g-2ubuntu4.3                 amd64        Secure Sockets Layer toolkit - development files
 ii  libssl1.0.0:amd64                  1.0.2n-1ubuntu5.2                 amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libssl1.1:amd64                    1.1.0g-2ubuntu4.3                 amd64        Secure Sockets Layer toolkit - shared libraries
