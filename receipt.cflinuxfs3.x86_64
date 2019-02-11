@@ -1,4 +1,4 @@
-Rootfs SHASUM: b61ef5bbc6d9155ecd723f36e98396c1086a4c191d936aa0e2cba74eee237e18
+Rootfs SHASUM: 95e42f3706815574d2ce9c60fa935c06b046a0d588eea8f6b3cd0d68cf1bfa45
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -11,7 +11,7 @@ ii  apt-utils                          1.6.8                             amd64  
 ii  aptitude                           0.8.10-6ubuntu1                   amd64        terminal-based package manager
 ii  aptitude-common                    0.8.10-6ubuntu1                   all          architecture independent files for the aptitude package manager
 ii  autoconf                           2.69-11                           all          automatic configure script builder
-ii  base-files                         10.1ubuntu2.3                     amd64        Debian base system miscellaneous files
+ii  base-files                         10.1ubuntu2.4                     amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.5.44                            amd64        Debian base system master password and group files
 ii  bash                               4.4.18-2ubuntu1                   amd64        GNU Bourne Again SHell
 ii  bind9-host                         1:9.11.3+dfsg-1ubuntu1.3          amd64        DNS lookup utility (deprecated)
