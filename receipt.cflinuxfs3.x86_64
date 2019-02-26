@@ -1,4 +1,4 @@
-Rootfs SHASUM: b9cbf58746f55799fc502baadfce803dafa7f63c2a7d435f02896e5decd2348a
+Rootfs SHASUM: 23fd98a453ce64e3a3667a7ab57ef787b1f2b3c8ff339ed8dd8280f05c025ab4
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -496,9 +496,9 @@ ii  libwind0-heimdal:amd64             7.5.0+dfsg-1                      amd64  
 ii  libwmf-dev                         0.2.8.4-12                        amd64        Windows metafile conversion development
 ii  libwmf0.2-7:amd64                  0.2.8.4-12                        amd64        Windows metafile conversion library
 ii  libwrap0:amd64                     7.6.q-27                          amd64        Wietse Venema's TCP wrappers library
-ii  libx11-6:amd64                     2:1.6.4-3ubuntu0.1                amd64        X11 client-side library
-ii  libx11-data                        2:1.6.4-3ubuntu0.1                all          X11 client-side library
-ii  libx11-dev:amd64                   2:1.6.4-3ubuntu0.1                amd64        X11 client-side library (development headers)
+ii  libx11-6:amd64                     2:1.6.4-3ubuntu0.2                amd64        X11 client-side library
+ii  libx11-data                        2:1.6.4-3ubuntu0.2                all          X11 client-side library
+ii  libx11-dev:amd64                   2:1.6.4-3ubuntu0.2                amd64        X11 client-side library (development headers)
 ii  libx264-152:amd64                  2:0.152.2854+gite9a5903-2         amd64        x264 video coding library
 ii  libx265-146:amd64                  2.6-3                             amd64        H.265/HEVC video stream encoder (shared library)
 ii  libxapian30:amd64                  1.4.5-1ubuntu0.1                  amd64        Search engine library
