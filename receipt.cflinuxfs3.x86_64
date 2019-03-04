@@ -1,4 +1,4 @@
-Rootfs SHASUM: 122ad4a99f0982097cfbbe8b22e2ceff2c6471f71556eb14a017bc55b1ae2351
+Rootfs SHASUM: aa24f85891a4b197b8ecd289f126bd9fd21b96f2eb6726553524a5cf73ea38b1
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -87,9 +87,9 @@ ii  imagemagick-6-common               8:6.9.7.4+dfsg-16ubuntu6.4        all    
 ii  imagemagick-6.q16                  8:6.9.7.4+dfsg-16ubuntu6.4        amd64        image manipulation programs -- quantum depth Q16
 ii  init                               1.51                              amd64        metapackage ensuring an init system is installed
 ii  init-system-helpers                1.51                              all          helper tools for all init systems
-ii  initramfs-tools                    0.130ubuntu3.6                    all          generic modular initramfs generator (automation)
-ii  initramfs-tools-bin                0.130ubuntu3.6                    amd64        binaries used by initramfs-tools
-ii  initramfs-tools-core               0.130ubuntu3.6                    all          generic modular initramfs generator (core tools)
+ii  initramfs-tools                    0.130ubuntu3.7                    all          generic modular initramfs generator (automation)
+ii  initramfs-tools-bin                0.130ubuntu3.7                    amd64        binaries used by initramfs-tools
+ii  initramfs-tools-core               0.130ubuntu3.7                    all          generic modular initramfs generator (core tools)
 ii  iproute2                           4.15.0-2ubuntu1                   amd64        networking and traffic control tools
 ii  iputils-arping                     3:20161105-1ubuntu2               amd64        Tool to send ICMP echo requests to an ARP address
 ii  iputils-ping                       3:20161105-1ubuntu2               amd64        Tools to test the reachability of network hosts
@@ -562,9 +562,9 @@ ii  netplan.io                         0.40.1~18.04.4                    amd64  
 ii  nettle-dev:amd64                   3.4-1                             amd64        low level cryptographic library (development files)
 ii  nplan                              0.40.1~18.04.4                    all          YAML network configuration abstraction - transitional package
 ii  ocaml-base-nox                     4.05.0-10ubuntu1                  amd64        Runtime system for OCaml bytecode executables (no X)
-ii  openssh-client                     1:7.6p1-4ubuntu0.2                amd64        secure shell (SSH) client, for secure access to remote machines
-ii  openssh-server                     1:7.6p1-4ubuntu0.2                amd64        secure shell (SSH) server, for secure access from remote machines
-ii  openssh-sftp-server                1:7.6p1-4ubuntu0.2                amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii  openssh-client                     1:7.6p1-4ubuntu0.3                amd64        secure shell (SSH) client, for secure access to remote machines
+ii  openssh-server                     1:7.6p1-4ubuntu0.3                amd64        secure shell (SSH) server, for secure access from remote machines
+ii  openssh-sftp-server                1:7.6p1-4ubuntu0.3                amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii  openssl                            1.1.0g-2ubuntu4.3                 amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  openssl1.0                         1.0.2n-1ubuntu5.3                 amd64        Secure Sockets Layer toolkit 1.0 - cryptographic utility
 ii  passwd                             1:4.5-1ubuntu1                    amd64        change and administer password and group data
