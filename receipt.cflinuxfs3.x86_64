@@ -1,4 +1,4 @@
-Rootfs SHASUM: aa24f85891a4b197b8ecd289f126bd9fd21b96f2eb6726553524a5cf73ea38b1
+Rootfs SHASUM: 3587ab2c42abc69c3821994883467d32b1abf0cf19c777c403e4627ebb36ddad
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -257,8 +257,8 @@ ii  libicu-le-hb-dev:amd64             1.0.3+git161113-4                 amd64  
 ii  libicu-le-hb0:amd64                1.0.3+git161113-4                 amd64        ICU Layout Engine API on top of HarfBuzz shaping library
 ii  libicu60:amd64                     60.2-3ubuntu3                     amd64        International Components for Unicode
 ii  libiculx60:amd64                   60.2-3ubuntu3                     amd64        International Components for Unicode
-ii  libidn11:amd64                     1.33-2.1ubuntu1                   amd64        GNU Libidn library, implementation of IETF IDN specifications
-ii  libidn11-dev                       1.33-2.1ubuntu1                   amd64        Development files for GNU Libidn, an IDN library
+ii  libidn11:amd64                     1.33-2.1ubuntu1.1                 amd64        GNU Libidn library, implementation of IETF IDN specifications
+ii  libidn11-dev                       1.33-2.1ubuntu1.1                 amd64        Development files for GNU Libidn, an IDN library
 ii  libidn2-0:amd64                    2.0.4-1.1build2                   amd64        Internationalized domain names (IDNA2008/TR46) library
 ii  libidn2-0-dev                      2.0.4-1.1build2                   amd64        Internationalized domain names (IDNA2008/TR46) development files [dummy]
 ii  libidn2-dev:amd64                  2.0.4-1.1build2                   amd64        Internationalized domain names (IDNA2008/TR46) development files
@@ -534,7 +534,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1               amd64  
 ii  libzvbi-common                     0.2.35-13                         all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                         amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-45.48                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-46.49                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                      amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu1                    amd64        system login tools
