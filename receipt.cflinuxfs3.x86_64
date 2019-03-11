@@ -1,4 +1,4 @@
-Rootfs SHASUM: a8dc6e25ab4fec8c1545b6b0aca24844a0417f3874fa9d78079c8083456365b0
+Rootfs SHASUM: 2beeabb5a43074e195bbf31ba885a5c112b4715fcd7904d436954c794ccf831d
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -365,10 +365,10 @@ ii  liborc-0.4-0:amd64                 1:0.4.28-1                        amd64  
 ii  libp11-kit-dev:amd64               0.23.9-2                          amd64        library for loading and coordinating access to PKCS#11 modules - development
 ii  libp11-kit0:amd64                  0.23.9-2                          amd64        library for loading and coordinating access to PKCS#11 modules - runtime
 ii  libpam-cap:amd64                   1:2.25-1.2                        amd64        POSIX 1003.1e capabilities (PAM module)
-ii  libpam-modules:amd64               1.1.8-3.6ubuntu2                  amd64        Pluggable Authentication Modules for PAM
-ii  libpam-modules-bin                 1.1.8-3.6ubuntu2                  amd64        Pluggable Authentication Modules for PAM - helper binaries
-ii  libpam-runtime                     1.1.8-3.6ubuntu2                  all          Runtime support for the PAM library
-ii  libpam0g:amd64                     1.1.8-3.6ubuntu2                  amd64        Pluggable Authentication Modules library
+ii  libpam-modules:amd64               1.1.8-3.6ubuntu2.18.04.1          amd64        Pluggable Authentication Modules for PAM
+ii  libpam-modules-bin                 1.1.8-3.6ubuntu2.18.04.1          amd64        Pluggable Authentication Modules for PAM - helper binaries
+ii  libpam-runtime                     1.1.8-3.6ubuntu2.18.04.1          all          Runtime support for the PAM library
+ii  libpam0g:amd64                     1.1.8-3.6ubuntu2.18.04.1          amd64        Pluggable Authentication Modules library
 ii  libpango-1.0-0:amd64               1.40.14-1ubuntu0.1                amd64        Layout and rendering of internationalized text
 ii  libpango1.0-0:amd64                1.40.14-1ubuntu0.1                amd64        Layout and rendering of internationalized text (transitional package)
 ii  libpangocairo-1.0-0:amd64          1.40.14-1ubuntu0.1                amd64        Layout and rendering of internationalized text
