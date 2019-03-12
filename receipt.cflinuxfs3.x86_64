@@ -1,4 +1,4 @@
-Rootfs SHASUM: 2beeabb5a43074e195bbf31ba885a5c112b4715fcd7904d436954c794ccf831d
+Rootfs SHASUM: 8a039e131dd58f0c997a07331ea6d736213747aad33a89975ba794fe547dc070
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -418,7 +418,7 @@ ii  libsasl2-dev                       2.1.27~101-g0780600+dfsg-3ubuntu2 amd64  
 ii  libsasl2-modules:amd64             2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - pluggable authentication modules
 ii  libsasl2-modules-db:amd64          2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - pluggable authentication modules (DB)
 ii  libsasl2-modules-gssapi-mit:amd64  2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - pluggable authentication modules (GSSAPI)
-ii  libseccomp2:amd64                  2.3.1-2.1ubuntu4                  amd64        high level interface to Linux seccomp filter
+ii  libseccomp2:amd64                  2.3.1-2.1ubuntu4.1                amd64        high level interface to Linux seccomp filter
 ii  libselinux1:amd64                  2.7-2build2                       amd64        SELinux runtime shared libraries
 ii  libselinux1-dev:amd64              2.7-2build2                       amd64        SELinux development headers
 ii  libsemanage-common                 2.7-2build2                       all          Common files for SELinux policy management libraries
@@ -451,7 +451,7 @@ ii  libsub-name-perl                   0.21-1build1                      amd64  
 ii  libsvn1:amd64                      1.9.7-4ubuntu1                    amd64        Shared libraries used by Apache Subversion
 ii  libswresample2:amd64               7:3.4.4-0ubuntu0.18.04.1          amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                    2.1.0+repack-4build1              amd64        interface library to sysfs
-ii  libsystemd0:amd64                  237-3ubuntu10.13                  amd64        systemd utility library
+ii  libsystemd0:amd64                  237-3ubuntu10.15                  amd64        systemd utility library
 ii  libtasn1-6:amd64                   4.13-2                            amd64        Manage ASN.1 structures (runtime)
 ii  libtasn1-6-dev:amd64               4.13-2                            amd64        Manage ASN.1 structures (development)
 ii  libterm-ui-perl                    0.46-1                            all          Term::ReadLine UI made easy
@@ -461,10 +461,10 @@ ii  libtext-wrapi18n-perl              0.06-7.1                          all    
 ii  libthai-data                       0.1.27-2                          all          Data files for Thai language support library
 ii  libthai0:amd64                     0.1.27-2                          amd64        Thai language support library
 ii  libtheora0:amd64                   1.1.1+dfsg.1-14                   amd64        Theora Video Compression Codec
-ii  libtiff-dev                        4.0.9-5ubuntu0.1                  amd64        Tag Image File Format library (TIFF), development files, current version
-ii  libtiff5:amd64                     4.0.9-5ubuntu0.1                  amd64        Tag Image File Format (TIFF) library
-ii  libtiff5-dev:amd64                 4.0.9-5ubuntu0.1                  amd64        Tag Image File Format library (TIFF), development files
-ii  libtiffxx5:amd64                   4.0.9-5ubuntu0.1                  amd64        Tag Image File Format (TIFF) library -- C++ interface
+ii  libtiff-dev                        4.0.9-5ubuntu0.2                  amd64        Tag Image File Format library (TIFF), development files, current version
+ii  libtiff5:amd64                     4.0.9-5ubuntu0.2                  amd64        Tag Image File Format (TIFF) library
+ii  libtiff5-dev:amd64                 4.0.9-5ubuntu0.2                  amd64        Tag Image File Format library (TIFF), development files
+ii  libtiffxx5:amd64                   4.0.9-5ubuntu0.2                  amd64        Tag Image File Format (TIFF) library -- C++ interface
 ii  libtimedate-perl                   2.3000-2                          all          collection of modules to manipulate date/time information
 ii  libtinfo-dev:amd64                 6.1-1ubuntu1.18.04                amd64        developer's library for the low-level terminfo library
 ii  libtinfo5:amd64                    6.1-1ubuntu1.18.04                amd64        shared low-level terminfo library for terminal handling
@@ -472,7 +472,7 @@ ii  libtirpc1:amd64                    0.2.5-1.2ubuntu0.1                amd64  
 ii  libtsan0:amd64                     8.2.0-1ubuntu2~18.04              amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                  0.3.13-3                          amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan0:amd64                    7.3.0-27ubuntu1~18.04             amd64        UBSan -- undefined behaviour sanitizer (runtime)
-ii  libudev1:amd64                     237-3ubuntu10.13                  amd64        libudev shared library
+ii  libudev1:amd64                     237-3ubuntu10.15                  amd64        libudev shared library
 ii  libunbound2:amd64                  1.6.7-1ubuntu2.2                  amd64        library implementing DNS resolution and validation
 ii  libunistring2:amd64                0.9.9-0ubuntu1                    amd64        Unicode string library for C
 ii  libunwind8:amd64                   1.2.1-8                           amd64        library to determine the call-chain of a program - runtime
@@ -504,12 +504,12 @@ ii  libx265-146:amd64                  2.6-3                             amd64  
 ii  libxapian30:amd64                  1.4.5-1ubuntu0.1                  amd64        Search engine library
 ii  libxau-dev:amd64                   1:1.0.8-1                         amd64        X11 authorisation library (development headers)
 ii  libxau6:amd64                      1:1.0.8-1                         amd64        X11 authorisation library
-ii  libxcb-render0:amd64               1.13-1                            amd64        X C Binding, render extension
-ii  libxcb-render0-dev:amd64           1.13-1                            amd64        X C Binding, render extension, development files
-ii  libxcb-shm0:amd64                  1.13-1                            amd64        X C Binding, shm extension
-ii  libxcb-shm0-dev:amd64              1.13-1                            amd64        X C Binding, shm extension, development files
-ii  libxcb1:amd64                      1.13-1                            amd64        X C Binding
-ii  libxcb1-dev:amd64                  1.13-1                            amd64        X C Binding, development files
+ii  libxcb-render0:amd64               1.13-2~ubuntu18.04                amd64        X C Binding, render extension
+ii  libxcb-render0-dev:amd64           1.13-2~ubuntu18.04                amd64        X C Binding, render extension, development files
+ii  libxcb-shm0:amd64                  1.13-2~ubuntu18.04                amd64        X C Binding, shm extension
+ii  libxcb-shm0-dev:amd64              1.13-2~ubuntu18.04                amd64        X C Binding, shm extension, development files
+ii  libxcb1:amd64                      1.13-2~ubuntu18.04                amd64        X C Binding
+ii  libxcb1-dev:amd64                  1.13-2~ubuntu18.04                amd64        X C Binding, development files
 ii  libxdmcp-dev:amd64                 1:1.1.2-3                         amd64        X11 authorisation library (development headers)
 ii  libxdmcp6:amd64                    1:1.1.2-3                         amd64        X11 Display Manager Control Protocol library
 ii  libxdot4                           2.40.1-2                          amd64        rich set of graph drawing tools - xdot library
@@ -610,8 +610,8 @@ ii  strace                             4.21-1ubuntu1                     amd64  
 ii  subversion                         1.9.7-4ubuntu1                    amd64        Advanced version control system
 ii  sudo                               1.8.21p2-3ubuntu1                 amd64        Provide limited super user privileges to specific users
 ii  sysstat                            11.6.1-1                          amd64        system performance tools for Linux
-ii  systemd                            237-3ubuntu10.13                  amd64        system and service manager
-ii  systemd-sysv                       237-3ubuntu10.13                  amd64        system and service manager - SysV links
+ii  systemd                            237-3ubuntu10.15                  amd64        system and service manager
+ii  systemd-sysv                       237-3ubuntu10.15                  amd64        system and service manager - SysV links
 ii  sysvinit-utils                     2.88dsf-59.10ubuntu1              amd64        System-V-like utilities
 ii  tar                                1.29b-2ubuntu0.1                  amd64        GNU version of the tar archiving utility
 ii  tasksel                            3.34ubuntu11                      all          tool for selecting tasks for installation on Debian systems
@@ -624,7 +624,7 @@ ii  ubuntu-advantage-tools             17                                all    
 ii  ubuntu-keyring                     2018.09.18.1~18.04.0              all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                            all          Update Configuration File(s): preserve user changes to config files
-ii  udev                               237-3ubuntu10.13                  amd64        /dev/ and hotplug management daemon
+ii  udev                               237-3ubuntu10.15                  amd64        /dev/ and hotplug management daemon
 ii  unzip                              6.0-21ubuntu1                     amd64        De-archiver for .zip files
 ii  ureadahead                         0.100.0-20                        amd64        Read required files in advance
 ii  util-linux                         2.31.1-0.4ubuntu3.3               amd64        miscellaneous system utilities
