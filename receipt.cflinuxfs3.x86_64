@@ -1,4 +1,4 @@
-Rootfs SHASUM: 8a039e131dd58f0c997a07331ea6d736213747aad33a89975ba794fe547dc070
+Rootfs SHASUM: 81917a6c6b811dd15fa7e454f78941fab43d08236cb5cfd1159a451e120e7590
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -42,7 +42,7 @@ ii  debconf-i18n                       1.5.66                            all    
 ii  debianutils                        4.8.4                             amd64        Miscellaneous utilities specific to Debian
 ii  dh-python                          3.20180325ubuntu2                 all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                           amd64        File comparison utilities
-ii  distro-info-data                   0.37ubuntu0.2                     all          information about the distributions' releases (data files)
+ii  distro-info-data                   0.37ubuntu0.3                     all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.5          amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.1                 amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.1                 all          Debian package development tools
@@ -50,7 +50,7 @@ ii  e2fsprogs                          1.44.1-1ubuntu1.1                 amd64  
 ii  eject                              2.1.5+deb1+cvs20081104-13.2       amd64        ejects CDs and operates CD-Changers under Linux
 ii  fakeroot                           1.22-2ubuntu1                     amd64        tool for simulating superuser privileges
 ii  fdisk                              2.31.1-0.4ubuntu3.3               amd64        collection of partitioning utilities
-ii  file                               1:5.32-2ubuntu0.1                 amd64        Recognize the type of data in a file using "magic" numbers
+ii  file                               1:5.32-2ubuntu0.2                 amd64        Recognize the type of data in a file using "magic" numbers
 ii  findutils                          4.6.0+git+20170828-2              amd64        utilities for finding files--find, xargs
 ii  flex                               2.6.4-6                           amd64        fast lexical analyzer generator
 ii  fontconfig                         2.12.6-0ubuntu2                   amd64        generic font configuration library - support binaries
@@ -320,8 +320,8 @@ ii  liblz4-1:amd64                     0.0~r131-2ubuntu3                 amd64  
 ii  liblzma-dev:amd64                  5.2.2-1.3                         amd64        XZ-format compression library - development files
 ii  liblzma5:amd64                     5.2.2-1.3                         amd64        XZ-format compression library
 ii  liblzo2-2:amd64                    2.08-1.2                          amd64        data compression library
-ii  libmagic-mgc                       1:5.32-2ubuntu0.1                 amd64        File type determination library using "magic" numbers (compiled magic file)
-ii  libmagic1:amd64                    1:5.32-2ubuntu0.1                 amd64        Recognize the type of data in a file using "magic" numbers - library
+ii  libmagic-mgc                       1:5.32-2ubuntu0.2                 amd64        File type determination library using "magic" numbers (compiled magic file)
+ii  libmagic1:amd64                    1:5.32-2ubuntu0.2                 amd64        Recognize the type of data in a file using "magic" numbers - library
 ii  libmagickcore-6-arch-config:amd64  8:6.9.7.4+dfsg-16ubuntu6.4        amd64        low-level image manipulation library - architecture header files
 ii  libmagickcore-6-headers            8:6.9.7.4+dfsg-16ubuntu6.4        all          low-level image manipulation library - header files
 ii  libmagickcore-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.4        amd64        low-level image manipulation library -- quantum depth Q16
