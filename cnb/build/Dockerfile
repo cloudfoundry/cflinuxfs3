@@ -10,3 +10,6 @@ ENV CNB_GROUP_PATH ./group.toml
 ENV CNB_PLAN_PATH ./plan.toml
 
 USER vcap
+
+WORKDIR /layers
+
