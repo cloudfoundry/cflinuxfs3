@@ -1,4 +1,4 @@
-Rootfs SHASUM: 67275e38f24378bdbfe977d3af61c2e1cc410d83db2e164bdcb4530cc1d50890
+Rootfs SHASUM: cf2070663f9d59ab3d8b727e34fe143433e129a7f1cfec6bccfad5f86180a310
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -21,7 +21,7 @@ ii  binutils-x86-64-linux-gnu          2.30-21ubuntu1~18.04              amd64  
 ii  bison                              2:3.0.4.dfsg-1build1              amd64        YACC-compatible parser generator
 ii  bsdutils                           1:2.31.1-0.4ubuntu3.3             amd64        basic utilities from 4.4BSD-Lite
 ii  build-essential                    12.4ubuntu1                       amd64        Informational list of build-essential packages
-ii  busybox-initramfs                  1:1.27.2-2ubuntu3.1               amd64        Standalone shell setup for initramfs
+ii  busybox-initramfs                  1:1.27.2-2ubuntu3.2               amd64        Standalone shell setup for initramfs
 ii  bzip2                              1.0.6-8.1                         amd64        high-quality block-sorting file compressor - utilities
 ii  bzr                                2.7.0+bzr6622-10                  all          easy to use distributed version control system
 ii  ca-certificates                    20180409                          all          Common CA certificates
