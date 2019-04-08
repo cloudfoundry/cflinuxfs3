@@ -1,4 +1,4 @@
-Rootfs SHASUM: cf2070663f9d59ab3d8b727e34fe143433e129a7f1cfec6bccfad5f86180a310
+Rootfs SHASUM: 8763ae6d302bb15adac4b8da249882d4e0e0bbf56113166072cf8cd67d6a3846
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -389,8 +389,8 @@ ii  libpixman-1-dev:amd64              0.34.0-2                          amd64  
 ii  libpng-dev:amd64                   1.6.34-1ubuntu0.18.04.1           amd64        PNG library - development (version 1.6)
 ii  libpng16-16:amd64                  1.6.34-1ubuntu0.18.04.1           amd64        PNG library - runtime (version 1.6)
 ii  libpopt0:amd64                     1.16-11                           amd64        lib for parsing cmdline parameters
-ii  libpq-dev                          10.6-0ubuntu0.18.04.1             amd64        header files for libpq5 (PostgreSQL library)
-ii  libpq5:amd64                       10.6-0ubuntu0.18.04.1             amd64        PostgreSQL C client library
+ii  libpq-dev                          10.7-0ubuntu0.18.04.1             amd64        header files for libpq5 (PostgreSQL library)
+ii  libpq5:amd64                       10.7-0ubuntu0.18.04.1             amd64        PostgreSQL C client library
 ii  libprocps6:amd64                   2:3.3.12-3ubuntu1.1               amd64        library for accessing process information from /proc
 ii  libproxy1v5:amd64                  0.4.15-1                          amd64        automatic proxy configuration management library (shared)
 ii  libpsl5:amd64                      0.19.1-5build1                    amd64        Library for Public Suffix List (shared libraries)
@@ -451,7 +451,7 @@ ii  libsub-name-perl                   0.21-1build1                      amd64  
 ii  libsvn1:amd64                      1.9.7-4ubuntu1                    amd64        Shared libraries used by Apache Subversion
 ii  libswresample2:amd64               7:3.4.4-0ubuntu0.18.04.1          amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                    2.1.0+repack-4build1              amd64        interface library to sysfs
-ii  libsystemd0:amd64                  237-3ubuntu10.15                  amd64        systemd utility library
+ii  libsystemd0:amd64                  237-3ubuntu10.17                  amd64        systemd utility library
 ii  libtasn1-6:amd64                   4.13-2                            amd64        Manage ASN.1 structures (runtime)
 ii  libtasn1-6-dev:amd64               4.13-2                            amd64        Manage ASN.1 structures (development)
 ii  libterm-ui-perl                    0.46-1                            all          Term::ReadLine UI made easy
@@ -472,9 +472,9 @@ ii  libtirpc1:amd64                    0.2.5-1.2ubuntu0.1                amd64  
 ii  libtsan0:amd64                     8.2.0-1ubuntu2~18.04              amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                  0.3.13-3                          amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan0:amd64                    7.3.0-27ubuntu1~18.04             amd64        UBSan -- undefined behaviour sanitizer (runtime)
-ii  libudev1:amd64                     237-3ubuntu10.15                  amd64        libudev shared library
+ii  libudev1:amd64                     237-3ubuntu10.17                  amd64        libudev shared library
 ii  libunbound2:amd64                  1.6.7-1ubuntu2.2                  amd64        library implementing DNS resolution and validation
-ii  libunistring2:amd64                0.9.9-0ubuntu1                    amd64        Unicode string library for C
+ii  libunistring2:amd64                0.9.9-0ubuntu2                    amd64        Unicode string library for C
 ii  libunwind8:amd64                   1.2.1-8                           amd64        library to determine the call-chain of a program - runtime
 ii  liburi-perl                        1.73-1                            all          module to manipulate and access URI strings
 ii  libustr-1.0-1:amd64                1.0.4-6                           amd64        Micro string library: shared library
@@ -610,8 +610,8 @@ ii  strace                             4.21-1ubuntu1                     amd64  
 ii  subversion                         1.9.7-4ubuntu1                    amd64        Advanced version control system
 ii  sudo                               1.8.21p2-3ubuntu1                 amd64        Provide limited super user privileges to specific users
 ii  sysstat                            11.6.1-1                          amd64        system performance tools for Linux
-ii  systemd                            237-3ubuntu10.15                  amd64        system and service manager
-ii  systemd-sysv                       237-3ubuntu10.15                  amd64        system and service manager - SysV links
+ii  systemd                            237-3ubuntu10.17                  amd64        system and service manager
+ii  systemd-sysv                       237-3ubuntu10.17                  amd64        system and service manager - SysV links
 ii  sysvinit-utils                     2.88dsf-59.10ubuntu1              amd64        System-V-like utilities
 ii  tar                                1.29b-2ubuntu0.1                  amd64        GNU version of the tar archiving utility
 ii  tasksel                            3.34ubuntu11                      all          tool for selecting tasks for installation on Debian systems
@@ -624,7 +624,7 @@ ii  ubuntu-advantage-tools             17                                all    
 ii  ubuntu-keyring                     2018.09.18.1~18.04.0              all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                            all          Update Configuration File(s): preserve user changes to config files
-ii  udev                               237-3ubuntu10.15                  amd64        /dev/ and hotplug management daemon
+ii  udev                               237-3ubuntu10.17                  amd64        /dev/ and hotplug management daemon
 ii  unzip                              6.0-21ubuntu1                     amd64        De-archiver for .zip files
 ii  ureadahead                         0.100.0-20                        amd64        Read required files in advance
 ii  util-linux                         2.31.1-0.4ubuntu3.3               amd64        miscellaneous system utilities
