@@ -1,4 +1,4 @@
-Rootfs SHASUM: a1856bd5dd36eac5140ec8b1758415d31ad92ea69bd4ff5b7d6bccc733ee04bf
+Rootfs SHASUM: e23ba4062fe3523cd04c4fc3454b74151ff0dfbe2e3ca48d78921d565eaa8036
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -28,8 +28,8 @@ ii  ca-certificates                    20180409                          all    
 ii  cmake                              3.10.2-1ubuntu2                   amd64        cross-platform, open-source make system
 ii  cmake-data                         3.10.2-1ubuntu2                   all          CMake data files (modules, templates and documentation)
 ii  comerr-dev:amd64                   2.1-1.44.1-1ubuntu1.1             amd64        common error description library - headers and static libraries
-ii  console-setup                      1.178ubuntu2.7                    all          console font and keymap setup program
-ii  console-setup-linux                1.178ubuntu2.7                    all          Linux specific part of console-setup
+ii  console-setup                      1.178ubuntu2.8                    all          console font and keymap setup program
+ii  console-setup-linux                1.178ubuntu2.8                    all          Linux specific part of console-setup
 ii  coreutils                          8.28-1ubuntu1                     amd64        GNU core utilities
 ii  cpio                               2.12+dfsg-6                       amd64        GNU cpio -- a program to manage archives of files
 ii  cpp                                4:7.3.0-3ubuntu2.1                amd64        GNU C preprocessor (cpp)
@@ -42,7 +42,7 @@ ii  debconf-i18n                       1.5.66                            all    
 ii  debianutils                        4.8.4                             amd64        Miscellaneous utilities specific to Debian
 ii  dh-python                          3.20180325ubuntu2                 all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                           amd64        File comparison utilities
-ii  distro-info-data                   0.37ubuntu0.3                     all          information about the distributions' releases (data files)
+ii  distro-info-data                   0.37ubuntu0.4                     all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.5          amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.1                 amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.1                 all          Debian package development tools
@@ -96,7 +96,7 @@ ii  iputils-ping                       3:20161105-1ubuntu2               amd64  
 ii  isc-dhcp-client                    4.3.5-3ubuntu7                    amd64        DHCP client for automatically obtaining an IP address
 ii  jq                                 1.5+dfsg-2                        amd64        lightweight and flexible command-line JSON processor
 ii  kbd                                2.0.4-2ubuntu1                    amd64        Linux console font and keytable utilities
-ii  keyboard-configuration             1.178ubuntu2.7                    all          system-wide keyboard preferences
+ii  keyboard-configuration             1.178ubuntu2.8                    all          system-wide keyboard preferences
 ii  klibc-utils                        2.0.4-9ubuntu2                    amd64        small utilities built with klibc for early boot
 ii  kmod                               24-1ubuntu3.2                     amd64        tools for managing Linux kernel modules
 ii  krb5-config                        2.6                               all          Configuration files for Kerberos Version 5
@@ -104,7 +104,7 @@ ii  krb5-multidev:amd64                1.16-2ubuntu0.1                   amd64  
 ii  krb5-user                          1.16-2ubuntu0.1                   amd64        basic programs to authenticate using MIT Kerberos
 ii  less                               487-0.1                           amd64        pager program similar to more
 ii  libacl1:amd64                      2.2.52-3build1                    amd64        Access control list shared library
-ii  libaio1:amd64                      0.3.110-5                         amd64        Linux kernel AIO access library - shared library
+ii  libaio1:amd64                      0.3.110-5ubuntu0.1                amd64        Linux kernel AIO access library - shared library
 ii  libapparmor1:amd64                 2.12-4ubuntu5.1                   amd64        changehat AppArmor library
 ii  libapr1:amd64                      1.6.3-2                           amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                  1.6.1-2                           amd64        Apache Portable Runtime Utility Library
