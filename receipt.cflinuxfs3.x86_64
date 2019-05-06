@@ -1,4 +1,4 @@
-Rootfs SHASUM: f542b3889bf054624c335294940c1ea34e5219e9079519c08a4c314af1c2f4b6
+Rootfs SHASUM: e5cc67cb86248295ef71201e5d1f32b9aa2b837e3d894232b641b7446059cfe5
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -122,8 +122,8 @@ ii  libattr1:amd64                     1:2.4.47-2build1                  amd64  
 ii  libaudiofile1:amd64                0.3.6-4                           amd64        Open-source version of SGI's audiofile library
 ii  libaudit-common                    1:2.8.2-1ubuntu1                  all          Dynamic library for security auditing - common files
 ii  libaudit1:amd64                    1:2.8.2-1ubuntu1                  amd64        Dynamic library for security auditing
-ii  libavcodec57:amd64                 7:3.4.4-0ubuntu0.18.04.1          amd64        FFmpeg library with de/encoders for audio/video codecs - runtime files
-ii  libavutil55:amd64                  7:3.4.4-0ubuntu0.18.04.1          amd64        FFmpeg library with functions for simplifying programming - runtime files
+ii  libavcodec57:amd64                 7:3.4.6-0ubuntu0.18.04.1          amd64        FFmpeg library with de/encoders for audio/video codecs - runtime files
+ii  libavutil55:amd64                  7:3.4.6-0ubuntu0.18.04.1          amd64        FFmpeg library with functions for simplifying programming - runtime files
 ii  libbabeltrace1:amd64               1.5.5-1                           amd64        Babeltrace conversion libraries
 ii  libbind9-160:amd64                 1:9.11.3+dfsg-1ubuntu1.7          amd64        BIND9 Shared Library used by BIND
 ii  libbinutils:amd64                  2.30-21ubuntu1~18.04.1            amd64        GNU binary utilities (private shared library)
@@ -449,7 +449,7 @@ ii  libstdc++-7-dev:amd64              7.4.0-1ubuntu1~18.04              amd64  
 ii  libstdc++6:amd64                   8.3.0-6ubuntu1~18.04              amd64        GNU Standard C++ Library v3
 ii  libsub-name-perl                   0.21-1build1                      amd64        module for assigning a new name to referenced sub
 ii  libsvn1:amd64                      1.9.7-4ubuntu1                    amd64        Shared libraries used by Apache Subversion
-ii  libswresample2:amd64               7:3.4.4-0ubuntu0.18.04.1          amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
+ii  libswresample2:amd64               7:3.4.6-0ubuntu0.18.04.1          amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                    2.1.0+repack-4build1              amd64        interface library to sysfs
 ii  libsystemd0:amd64                  237-3ubuntu10.21                  amd64        systemd utility library
 ii  libtasn1-6:amd64                   4.13-2                            amd64        Manage ASN.1 structures (runtime)
