@@ -1,4 +1,4 @@
-Rootfs SHASUM: e5cc67cb86248295ef71201e5d1f32b9aa2b837e3d894232b641b7446059cfe5
+Rootfs SHASUM: 63c3a33c3208940734fd5b1452dc4c6865885540ac576eb1c3f4bc953bde84ab
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -42,7 +42,7 @@ ii  debconf-i18n                       1.5.66                            all    
 ii  debianutils                        4.8.4                             amd64        Miscellaneous utilities specific to Debian
 ii  dh-python                          3.20180325ubuntu2                 all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                           amd64        File comparison utilities
-ii  distro-info-data                   0.37ubuntu0.4                     all          information about the distributions' releases (data files)
+ii  distro-info-data                   0.37ubuntu0.5                     all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.7          amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.1                 amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.1                 all          Debian package development tools
