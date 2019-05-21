@@ -1,4 +1,4 @@
-FROM cfbuildpacks/cflinuxfs3-cnb-experimental:base
+FROM cloudfoundry/cnb-base:cflinuxfs3
 
 EXPOSE 8080
 

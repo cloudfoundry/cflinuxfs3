@@ -1,4 +1,4 @@
-FROM cfbuildpacks/cflinuxfs3-cnb-experimental:base
+FROM cloudfoundry/cnb-base:cflinuxfs3
 
 RUN mkdir -p /workspace /layers /platform/env
 RUN chown -R vcap:vcap /workspace /layers
