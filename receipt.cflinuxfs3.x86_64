@@ -1,4 +1,4 @@
-Rootfs SHASUM: 7872d96794993a7d45a34c493daa6abe01d259732b7448f6beeda4417ef20d6d
+Rootfs SHASUM: 564415845d76fd6c12719e168414281d973e8568954ec19567bf58856fff5676
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -87,9 +87,9 @@ ii  imagemagick-6-common               8:6.9.7.4+dfsg-16ubuntu6.4        all    
 ii  imagemagick-6.q16                  8:6.9.7.4+dfsg-16ubuntu6.4        amd64        image manipulation programs -- quantum depth Q16
 ii  init                               1.51                              amd64        metapackage ensuring an init system is installed
 ii  init-system-helpers                1.51                              all          helper tools for all init systems
-ii  initramfs-tools                    0.130ubuntu3.7                    all          generic modular initramfs generator (automation)
-ii  initramfs-tools-bin                0.130ubuntu3.7                    amd64        binaries used by initramfs-tools
-ii  initramfs-tools-core               0.130ubuntu3.7                    all          generic modular initramfs generator (core tools)
+ii  initramfs-tools                    0.130ubuntu3.8                    all          generic modular initramfs generator (automation)
+ii  initramfs-tools-bin                0.130ubuntu3.8                    amd64        binaries used by initramfs-tools
+ii  initramfs-tools-core               0.130ubuntu3.8                    all          generic modular initramfs generator (core tools)
 ii  iproute2                           4.15.0-2ubuntu1                   amd64        networking and traffic control tools
 ii  iputils-arping                     3:20161105-1ubuntu2               amd64        Tool to send ICMP echo requests to an ARP address
 ii  iputils-ping                       3:20161105-1ubuntu2               amd64        Tools to test the reachability of network hosts
@@ -224,11 +224,11 @@ ii  libglib2.0-dev-bin                 2.56.4-0ubuntu0.18.04.2           amd64  
 ii  libgmp-dev:amd64                   2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                     2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64                2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library (C++ bindings)
-ii  libgnutls-dane0:amd64              3.5.18-1ubuntu1                   amd64        GNU TLS library - DANE security support
-ii  libgnutls-openssl27:amd64          3.5.18-1ubuntu1                   amd64        GNU TLS library - OpenSSL wrapper
-ii  libgnutls28-dev:amd64              3.5.18-1ubuntu1                   amd64        GNU TLS library - development files
-ii  libgnutls30:amd64                  3.5.18-1ubuntu1                   amd64        GNU TLS library - main runtime library
-ii  libgnutlsxx28:amd64                3.5.18-1ubuntu1                   amd64        GNU TLS library - C++ runtime library
+ii  libgnutls-dane0:amd64              3.5.18-1ubuntu1.1                 amd64        GNU TLS library - DANE security support
+ii  libgnutls-openssl27:amd64          3.5.18-1ubuntu1.1                 amd64        GNU TLS library - OpenSSL wrapper
+ii  libgnutls28-dev:amd64              3.5.18-1ubuntu1.1                 amd64        GNU TLS library - development files
+ii  libgnutls30:amd64                  3.5.18-1ubuntu1.1                 amd64        GNU TLS library - main runtime library
+ii  libgnutlsxx28:amd64                3.5.18-1ubuntu1.1                 amd64        GNU TLS library - C++ runtime library
 ii  libgomp1:amd64                     8.3.0-6ubuntu1~18.04              amd64        GCC OpenMP (GOMP) support library
 ii  libgpg-error-dev                   1.27-6                            amd64        library for common error values and messages in GnuPG components (development)
 ii  libgpg-error0:amd64                1.27-6                            amd64        library for common error values and messages in GnuPG components
@@ -489,7 +489,7 @@ ii  libvorbisenc2:amd64                1.3.5-4.2                         amd64  
 ii  libvpx-dev:amd64                   1.7.0-3                           amd64        VP8 and VP9 video codec (development files)
 ii  libvpx5:amd64                      1.7.0-3                           amd64        VP8 and VP9 video codec (shared library)
 ii  libwavpack1:amd64                  5.1.0-2ubuntu1.3                  amd64        audio codec (lossy and lossless) - library
-ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.10   amd64        Samba winbind client library
+ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.11   amd64        Samba winbind client library
 ii  libwebp6:amd64                     0.6.1-2                           amd64        Lossy compression of digital photographic images.
 ii  libwebpmux3:amd64                  0.6.1-2                           amd64        Lossy compression of digital photographic images.
 ii  libwind0-heimdal:amd64             7.5.0+dfsg-1                      amd64        Heimdal Kerberos - stringprep implementation
