@@ -1,4 +1,4 @@
-Rootfs SHASUM: 564415845d76fd6c12719e168414281d973e8568954ec19567bf58856fff5676
+Rootfs SHASUM: c9b65e50f43e3db0f7f44470d930c64128f63058fe8ae7e09a89b23ef5513079
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -418,7 +418,7 @@ ii  libsasl2-dev                       2.1.27~101-g0780600+dfsg-3ubuntu2 amd64  
 ii  libsasl2-modules:amd64             2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - pluggable authentication modules
 ii  libsasl2-modules-db:amd64          2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - pluggable authentication modules (DB)
 ii  libsasl2-modules-gssapi-mit:amd64  2.1.27~101-g0780600+dfsg-3ubuntu2 amd64        Cyrus SASL - pluggable authentication modules (GSSAPI)
-ii  libseccomp2:amd64                  2.3.1-2.1ubuntu4.1                amd64        high level interface to Linux seccomp filter
+ii  libseccomp2:amd64                  2.4.1-0ubuntu0.18.04.2            amd64        high level interface to Linux seccomp filter
 ii  libselinux1:amd64                  2.7-2build2                       amd64        SELinux runtime shared libraries
 ii  libselinux1-dev:amd64              2.7-2build2                       amd64        SELinux development headers
 ii  libsemanage-common                 2.7-2build2                       all          Common files for SELinux policy management libraries
