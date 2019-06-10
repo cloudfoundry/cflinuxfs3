@@ -1,4 +1,4 @@
-Rootfs SHASUM: bc9ab141fec9648c27cf6f214740d7f359c96291be867378f366e50d7a2deeb2
+Rootfs SHASUM: d4455325abd1a2a0fe6e4e9fecef695ae813f6267a7dc97d494611a8a0381083
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -216,11 +216,11 @@ ii  libgdk-pixbuf2.0-dev               2.36.11-2                         amd64  
 ii  libgeoip1:amd64                    1.6.12-1                          amd64        non-DNS IP-to-country resolver library
 ii  libgfortran4:amd64                 7.4.0-1ubuntu1~18.04              amd64        Runtime library for GNU Fortran applications
 ii  libgirepository-1.0-1:amd64        1.56.1-1                          amd64        Library for handling GObject introspection data (runtime library)
-ii  libglib2.0-0:amd64                 2.56.4-0ubuntu0.18.04.2           amd64        GLib library of C routines
-ii  libglib2.0-bin                     2.56.4-0ubuntu0.18.04.2           amd64        Programs for the GLib library
-ii  libglib2.0-data                    2.56.4-0ubuntu0.18.04.2           all          Common files for GLib library
-ii  libglib2.0-dev:amd64               2.56.4-0ubuntu0.18.04.2           amd64        Development files for the GLib library
-ii  libglib2.0-dev-bin                 2.56.4-0ubuntu0.18.04.2           amd64        Development utilities for the GLib library
+ii  libglib2.0-0:amd64                 2.56.4-0ubuntu0.18.04.3           amd64        GLib library of C routines
+ii  libglib2.0-bin                     2.56.4-0ubuntu0.18.04.3           amd64        Programs for the GLib library
+ii  libglib2.0-data                    2.56.4-0ubuntu0.18.04.3           all          Common files for GLib library
+ii  libglib2.0-dev:amd64               2.56.4-0ubuntu0.18.04.3           amd64        Development files for the GLib library
+ii  libglib2.0-dev-bin                 2.56.4-0ubuntu0.18.04.3           amd64        Development utilities for the GLib library
 ii  libgmp-dev:amd64                   2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                     2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64                2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library (C++ bindings)
