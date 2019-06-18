@@ -1,4 +1,4 @@
-Rootfs SHASUM: 9a17a67914430618ecd43a93ef2cfb59a5219cb14efd4fc432c38f3298e42d8c
+Rootfs SHASUM: 5ef15b6446f5a64ce3d56b1cb432b1062a20970f5a2a6fd612b1473b945d34a8
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -534,7 +534,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1               amd64  
 ii  libzvbi-common                     0.2.35-13                         all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                         amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-51.55                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-52.56                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                      amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2                    amd64        system login tools
