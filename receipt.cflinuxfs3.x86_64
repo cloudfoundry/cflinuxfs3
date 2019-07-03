@@ -1,4 +1,4 @@
-Rootfs SHASUM: bcfdcee84fbfc7289b5ae2b370cbccfcfb74ffe2f161657364795da3b92005ba
+Rootfs SHASUM: 7524de8c6fa24dc84a34381adb78f495d5b847a16a0539b386c6128115798041
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -174,8 +174,8 @@ ii  libdjvulibre21:amd64               3.5.27.1-8                        amd64  
 ii  libdns-export1100                  1:9.11.3+dfsg-1ubuntu1.8          amd64        Exported DNS Shared Library
 ii  libdns1100:amd64                   1:9.11.3+dfsg-1ubuntu1.8          amd64        DNS Shared Library used by BIND
 ii  libdpkg-perl                       1.19.0.5ubuntu2.1                 all          Dpkg perl modules
-ii  libdrm-common                      2.4.95-1~18.04.1                  all          Userspace interface to kernel DRM services -- common files
-ii  libdrm2:amd64                      2.4.95-1~18.04.1                  amd64        Userspace interface to kernel DRM services -- runtime
+ii  libdrm-common                      2.4.97-1ubuntu1~18.04.1           all          Userspace interface to kernel DRM services -- common files
+ii  libdrm2:amd64                      2.4.97-1ubuntu1~18.04.1           amd64        Userspace interface to kernel DRM services -- runtime
 ii  libdw1:amd64                       0.170-0.4ubuntu0.1                amd64        library that provides access to the DWARF debug information
 ii  libedit2:amd64                     3.1-20170329-1                    amd64        BSD editline and history libraries
 ii  libelf1:amd64                      0.170-0.4ubuntu0.1                amd64        library to read and write ELF files
