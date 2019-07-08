@@ -1,4 +1,4 @@
-Rootfs SHASUM: adb69d1355f5df863f6df7f9fc79825760f0e93f4842c80dd2af72b2904a7a4c
+Rootfs SHASUM: dbb85cb7bbd54f56dd2cb45d84e42a1c99934d247db4ce1ce75018ef37669751
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -13,7 +13,7 @@ ii  aptitude-common                    0.8.10-6ubuntu1                   all    
 ii  autoconf                           2.69-11                           all          automatic configure script builder
 ii  base-files                         10.1ubuntu2.4                     amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.5.44                            amd64        Debian base system master password and group files
-ii  bash                               4.4.18-2ubuntu1.1                 amd64        GNU Bourne Again SHell
+ii  bash                               4.4.18-2ubuntu1.2                 amd64        GNU Bourne Again SHell
 ii  bind9-host                         1:9.11.3+dfsg-1ubuntu1.8          amd64        DNS lookup utility (deprecated)
 ii  binutils                           2.30-21ubuntu1~18.04.2            amd64        GNU assembler, linker and binary utilities
 ii  binutils-common:amd64              2.30-21ubuntu1~18.04.2            amd64        Common files for the GNU assembler, linker and binary utilities
@@ -167,7 +167,7 @@ ii  libdatrie1:amd64                   0.2.10-7                          amd64  
 ii  libdb5.3:amd64                     5.3.28-13.1ubuntu1.1              amd64        Berkeley v5.3 Database Libraries [runtime]
 ii  libdbus-1-3:amd64                  1.12.2-1ubuntu1.1                 amd64        simple interprocess messaging system (library)
 ii  libdebconfclient0:amd64            0.213ubuntu1                      amd64        Debian Configuration Management System (C-implementation library)
-ii  libdevmapper1.02.1:amd64           2:1.02.145-4.1ubuntu3             amd64        Linux Kernel Device Mapper userspace library
+ii  libdevmapper1.02.1:amd64           2:1.02.145-4.1ubuntu3.18.04.1     amd64        Linux Kernel Device Mapper userspace library
 ii  libdjvulibre-dev:amd64             3.5.27.1-8                        amd64        Development files for the DjVu image format
 ii  libdjvulibre-text                  3.5.27.1-8                        all          Linguistic support files for libdjvulibre
 ii  libdjvulibre21:amd64               3.5.27.1-8                        amd64        Runtime support for the DjVu image format
@@ -619,7 +619,7 @@ ii  tasksel-data                       3.34ubuntu11                      all    
 ii  tcpdump                            4.9.2-3                           amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                         amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                            all          transitional dummy package
-ii  tzdata                             2019a-0ubuntu0.18.04              all          time zone and daylight-saving time data
+ii  tzdata                             2019b-0ubuntu0.18.04              all          time zone and daylight-saving time data
 ii  ubuntu-advantage-tools             17                                all          management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2018.09.18.1~18.04.0              all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.1                           amd64        Minimal core of Ubuntu
