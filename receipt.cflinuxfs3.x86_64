@@ -1,4 +1,4 @@
-Rootfs SHASUM: 3a79c27bcb5815538d1700f56c7f07b018325f03ad2d383379703059bfe56068
+Rootfs SHASUM: afac30d966dd4de054fc07caf74deed0783e0aa5c9dc80fcf9afa6c96af4288b
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -442,9 +442,9 @@ ii  libsqlite0-dev                     2.8.17-14fakesync1                amd64  
 ii  libsqlite3-0:amd64                 3.22.0-1ubuntu0.1                 amd64        SQLite 3 shared library
 ii  libsqlite3-dev:amd64               3.22.0-1ubuntu0.1                 amd64        SQLite 3 development files
 ii  libss2:amd64                       1.44.1-1ubuntu1.1                 amd64        command-line interface parsing library
-ii  libssl-dev:amd64                   1.1.1-1ubuntu2.1~18.04.3          amd64        Secure Sockets Layer toolkit - development files
+ii  libssl-dev:amd64                   1.1.1-1ubuntu2.1~18.04.4          amd64        Secure Sockets Layer toolkit - development files
 ii  libssl1.0.0:amd64                  1.0.2n-1ubuntu5.3                 amd64        Secure Sockets Layer toolkit - shared libraries
-ii  libssl1.1:amd64                    1.1.1-1ubuntu2.1~18.04.3          amd64        Secure Sockets Layer toolkit - shared libraries
+ii  libssl1.1:amd64                    1.1.1-1ubuntu2.1~18.04.4          amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libstdc++-7-dev:amd64              7.4.0-1ubuntu1~18.04.1            amd64        GNU Standard C++ Library v3 (development files)
 ii  libstdc++6:amd64                   8.3.0-6ubuntu1~18.04.1            amd64        GNU Standard C++ Library v3
 ii  libsub-name-perl                   0.21-1build1                      amd64        module for assigning a new name to referenced sub
@@ -565,7 +565,7 @@ ii  ocaml-base-nox                     4.05.0-10ubuntu1                  amd64  
 ii  openssh-client                     1:7.6p1-4ubuntu0.3                amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                     1:7.6p1-4ubuntu0.3                amd64        secure shell (SSH) server, for secure access from remote machines
 ii  openssh-sftp-server                1:7.6p1-4ubuntu0.3                amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii  openssl                            1.1.1-1ubuntu2.1~18.04.3          amd64        Secure Sockets Layer toolkit - cryptographic utility
+ii  openssl                            1.1.1-1ubuntu2.1~18.04.4          amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  openssl1.0                         1.0.2n-1ubuntu5.3                 amd64        Secure Sockets Layer toolkit 1.0 - cryptographic utility
 ii  passwd                             1:4.5-1ubuntu2                    amd64        change and administer password and group data
 ii  patch                              2.7.6-2ubuntu1                    amd64        Apply a diff file to an original
