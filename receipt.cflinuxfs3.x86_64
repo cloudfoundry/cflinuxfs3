@@ -1,4 +1,4 @@
-Rootfs SHASUM: ce32422d3afd2847a3d4dfe88db2260a00a69c56acc37c3ea07b1643c015b720
+Rootfs SHASUM: 09cf803aba737d769a61dac965016e07df738bbc0158c44b9b7ae897c060182c
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -11,7 +11,7 @@ ii  apt-utils                          1.6.11                            amd64  
 ii  aptitude                           0.8.10-6ubuntu1                   amd64        terminal-based package manager
 ii  aptitude-common                    0.8.10-6ubuntu1                   all          architecture independent files for the aptitude package manager
 ii  autoconf                           2.69-11                           all          automatic configure script builder
-ii  base-files                         10.1ubuntu2.4                     amd64        Debian base system miscellaneous files
+ii  base-files                         10.1ubuntu2.5                     amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.5.44                            amd64        Debian base system master password and group files
 ii  bash                               4.4.18-2ubuntu1.2                 amd64        GNU Bourne Again SHell
 ii  bind9-host                         1:9.11.3+dfsg-1ubuntu1.8          amd64        DNS lookup utility (deprecated)
@@ -91,8 +91,8 @@ ii  initramfs-tools                    0.130ubuntu3.8                    all    
 ii  initramfs-tools-bin                0.130ubuntu3.8                    amd64        binaries used by initramfs-tools
 ii  initramfs-tools-core               0.130ubuntu3.8                    all          generic modular initramfs generator (core tools)
 ii  iproute2                           4.15.0-2ubuntu1                   amd64        networking and traffic control tools
-ii  iputils-arping                     3:20161105-1ubuntu2               amd64        Tool to send ICMP echo requests to an ARP address
-ii  iputils-ping                       3:20161105-1ubuntu2               amd64        Tools to test the reachability of network hosts
+ii  iputils-arping                     3:20161105-1ubuntu3               amd64        Tool to send ICMP echo requests to an ARP address
+ii  iputils-ping                       3:20161105-1ubuntu3               amd64        Tools to test the reachability of network hosts
 ii  isc-dhcp-client                    4.3.5-3ubuntu7.1                  amd64        DHCP client for automatically obtaining an IP address
 ii  jq                                 1.5+dfsg-2                        amd64        lightweight and flexible command-line JSON processor
 ii  kbd                                2.0.4-2ubuntu1                    amd64        Linux console font and keytable utilities
@@ -534,7 +534,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1               amd64  
 ii  libzvbi-common                     0.2.35-13                         all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                         amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-54.58                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-55.60                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                      amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2                    amd64        system login tools
