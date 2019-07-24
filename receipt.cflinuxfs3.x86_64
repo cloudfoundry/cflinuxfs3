@@ -1,4 +1,4 @@
-Rootfs SHASUM: 09cf803aba737d769a61dac965016e07df738bbc0158c44b9b7ae897c060182c
+Rootfs SHASUM: 766518deef4217a57f9210eaa6537ed8f34ee999cc812d9c42cf38bac7972a02
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -568,7 +568,7 @@ ii  openssh-sftp-server                1:7.6p1-4ubuntu0.3                amd64  
 ii  openssl                            1.1.1-1ubuntu2.1~18.04.4          amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  openssl1.0                         1.0.2n-1ubuntu5.3                 amd64        Secure Sockets Layer toolkit 1.0 - cryptographic utility
 ii  passwd                             1:4.5-1ubuntu2                    amd64        change and administer password and group data
-ii  patch                              2.7.6-2ubuntu1                    amd64        Apply a diff file to an original
+ii  patch                              2.7.6-2ubuntu1.1                  amd64        Apply a diff file to an original
 ii  perl                               5.26.1-6ubuntu0.3                 amd64        Larry Wall's Practical Extraction and Report Language
 ii  perl-base                          5.26.1-6ubuntu0.3                 amd64        minimal Perl system
 ii  perl-modules-5.26                  5.26.1-6ubuntu0.3                 all          Core Perl modules
