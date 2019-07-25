@@ -1,4 +1,4 @@
-Rootfs SHASUM: 766518deef4217a57f9210eaa6537ed8f34ee999cc812d9c42cf38bac7972a02
+Rootfs SHASUM: 5e8b6f673b8cae2027ce4172046fa1d0f6d4d4846954056d13134b541e7fccc0
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -353,6 +353,7 @@ ii  libnih1:amd64                      1.0.3-6ubuntu2                    amd64  
 ii  libnl-3-200:amd64                  3.2.29-0ubuntu3                   amd64        library for dealing with netlink sockets
 ii  libnl-genl-3-200:amd64             3.2.29-0ubuntu3                   amd64        library for dealing with netlink sockets - generic netlink
 ii  libnuma1:amd64                     2.0.11-2.1ubuntu0.1               amd64        Libraries for controlling NUMA policy
+ii  libodbc1:amd64                     2.3.4-1.1ubuntu3                  amd64        ODBC library for Unix
 ii  libogg0:amd64                      1.3.2-1                           amd64        Ogg bitstream library
 ii  libonig4:amd64                     6.7.0-1                           amd64        regular expressions library
 ii  libopenblas-base:amd64             0.2.20+ds-4                       amd64        Optimized BLAS (linear algebra) library (shared library)
@@ -562,6 +563,8 @@ ii  netplan.io                         0.97-0ubuntu1~18.04.1             amd64  
 ii  nettle-dev:amd64                   3.4-1                             amd64        low level cryptographic library (development files)
 ii  nplan                              0.97-0ubuntu1~18.04.1             all          YAML network configuration abstraction - transitional package
 ii  ocaml-base-nox                     4.05.0-10ubuntu1                  amd64        Runtime system for OCaml bytecode executables (no X)
+ii  odbcinst                           2.3.4-1.1ubuntu3                  amd64        Helper program for accessing odbc ini files
+ii  odbcinst1debian2:amd64             2.3.4-1.1ubuntu3                  amd64        Support library for accessing odbc ini files
 ii  openssh-client                     1:7.6p1-4ubuntu0.3                amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                     1:7.6p1-4ubuntu0.3                amd64        secure shell (SSH) server, for secure access from remote machines
 ii  openssh-sftp-server                1:7.6p1-4ubuntu0.3                amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
@@ -625,6 +628,7 @@ ii  ubuntu-keyring                     2018.09.18.1~18.04.0              all    
 ii  ubuntu-minimal                     1.417.1                           amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                            all          Update Configuration File(s): preserve user changes to config files
 ii  udev                               237-3ubuntu10.24                  amd64        /dev/ and hotplug management daemon
+ii  unixodbc-dev:amd64                 2.3.4-1.1ubuntu3                  amd64        ODBC libraries for UNIX (development files)
 ii  unzip                              6.0-21ubuntu1                     amd64        De-archiver for .zip files
 ii  ureadahead                         0.100.0-21                        amd64        Read required files in advance
 ii  util-linux                         2.31.1-0.4ubuntu3.3               amd64        miscellaneous system utilities
