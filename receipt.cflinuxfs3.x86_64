@@ -1,4 +1,4 @@
-Rootfs SHASUM: 9be5da2b9f1cd305457173a690853953d5fcc1b6dd161887a641a5ef386e89eb
+Rootfs SHASUM: 6364af6c701644c6b08dfae93ddb0a3030dddd4843473586836896bf3ef2ee4e
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -73,6 +73,7 @@ ii  git                                1:2.17.1-1ubuntu0.4               amd64  
 ii  git-man                            1:2.17.1-1ubuntu0.4               all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                             1.4.22-3ubuntu2                   amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                               2.2.4-1ubuntu1.2                  amd64        GNU privacy guard - signature verification tool
+ii  graphviz                           2.40.1-2                          amd64        rich set of graph drawing tools
 ii  grep                               3.1-2                             amd64        GNU grep, egrep and fgrep
 ii  gsfonts                            1:8.11+urwcyr1.0.7~pre44-4.4      all          Fonts for the Ghostscript interpreter(s)
 ii  gss-ntlmssp                        0.7.0-4build3                     amd64        GSSAPI NTLMSSP Mechanism -- MIT GSSAPI plugin
@@ -105,6 +106,7 @@ ii  krb5-user                          1.16-2ubuntu0.1                   amd64  
 ii  less                               487-0.1                           amd64        pager program similar to more
 ii  libacl1:amd64                      2.2.52-3build1                    amd64        Access control list shared library
 ii  libaio1:amd64                      0.3.110-5ubuntu0.1                amd64        Linux kernel AIO access library - shared library
+ii  libann0                            1.1.2+doc-6                       amd64        Approximate Nearest Neighbor Searching library
 ii  libapparmor1:amd64                 2.12-4ubuntu5.1                   amd64        changehat AppArmor library
 ii  libapr1:amd64                      1.6.3-2                           amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                  1.6.1-2                           amd64        Apache Portable Runtime Utility Library
@@ -238,6 +240,8 @@ ii  libgsm1:amd64                      1.0.13-4build1                    amd64  
 ii  libgssapi-krb5-2:amd64             1.16-2ubuntu0.1                   amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii  libgssapi3-heimdal:amd64           7.5.0+dfsg-1                      amd64        Heimdal Kerberos - GSSAPI support library
 ii  libgssrpc4:amd64                   1.16-2ubuntu0.1                   amd64        MIT Kerberos runtime libraries - GSS enabled ONCRPC
+ii  libgts-0.7-5:amd64                 0.7.6+darcs121130-4               amd64        library to deal with 3D computational surface meshes
+ii  libgvc6                            2.40.1-2                          amd64        rich set of graph drawing tools - gvc library
 ii  libgvpr2                           2.40.1-2                          amd64        rich set of graph drawing tools - gvpr library
 ii  libharfbuzz-dev:amd64              1.7.2-1ubuntu1                    amd64        Development files for OpenType text shaping engine
 ii  libharfbuzz-gobject0:amd64         1.7.2-1ubuntu1                    amd64        OpenType text shaping engine ICU backend (GObject library)
@@ -297,6 +301,7 @@ ii  libkrb5-26-heimdal:amd64           7.5.0+dfsg-1                      amd64  
 ii  libkrb5-3:amd64                    1.16-2ubuntu0.1                   amd64        MIT Kerberos runtime libraries
 ii  libkrb5-dev:amd64                  1.16-2ubuntu0.1                   amd64        headers and development libraries for MIT Kerberos
 ii  libkrb5support0:amd64              1.16-2ubuntu0.1                   amd64        MIT Kerberos runtime libraries - Support library
+ii  liblab-gamut1                      2.40.1-2                          amd64        rich set of graph drawing tools - liblab_gamut library
 ii  liblapack-dev:amd64                3.7.1-4ubuntu1                    amd64        Library of linear algebra routines 3 - static version
 ii  liblapack3:amd64                   3.7.1-4ubuntu1                    amd64        Library of linear algebra routines 3 - shared version
 ii  liblcms2-2:amd64                   2.9-1ubuntu0.1                    amd64        Little CMS 2 color management library
@@ -505,6 +510,7 @@ ii  libx265-146:amd64                  2.6-3                             amd64  
 ii  libxapian30:amd64                  1.4.5-1ubuntu0.1                  amd64        Search engine library
 ii  libxau-dev:amd64                   1:1.0.8-1                         amd64        X11 authorisation library (development headers)
 ii  libxau6:amd64                      1:1.0.8-1                         amd64        X11 authorisation library
+ii  libxaw7:amd64                      2:1.0.13-1                        amd64        X11 Athena Widget library
 ii  libxcb-render0:amd64               1.13-2~ubuntu18.04                amd64        X C Binding, render extension
 ii  libxcb-render0-dev:amd64           1.13-2~ubuntu18.04                amd64        X C Binding, render extension, development files
 ii  libxcb-shm0:amd64                  1.13-2~ubuntu18.04                amd64        X C Binding, shm extension
@@ -520,6 +526,7 @@ ii  libxfixes3:amd64                   1:5.0.3-1                         amd64  
 ii  libxft2:amd64                      2.3.2-1                           amd64        FreeType-based font drawing library for X
 ii  libxml2:amd64                      2.9.4+dfsg1-6.1ubuntu1.2          amd64        GNOME XML library
 ii  libxml2-dev:amd64                  2.9.4+dfsg1-6.1ubuntu1.2          amd64        Development files for the GNOME XML library
+ii  libxmu6:amd64                      2:1.1.2-2                         amd64        X11 miscellaneous utility library
 ii  libxpm-dev:amd64                   1:3.5.12-1                        amd64        X11 pixmap library (development headers)
 ii  libxpm4:amd64                      1:3.5.12-1                        amd64        X11 pixmap library
 ii  libxrender-dev:amd64               1:0.9.10-1                        amd64        X Rendering Extension client library (development files)
