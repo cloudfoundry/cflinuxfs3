@@ -1,4 +1,4 @@
-Rootfs SHASUM: 6364af6c701644c6b08dfae93ddb0a3030dddd4843473586836896bf3ef2ee4e
+Rootfs SHASUM: 61378733da627c8fa066d5678a4a9e099821ee185a634a7767286878280bc72f
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -306,9 +306,9 @@ ii  liblapack-dev:amd64                3.7.1-4ubuntu1                    amd64  
 ii  liblapack3:amd64                   3.7.1-4ubuntu1                    amd64        Library of linear algebra routines 3 - shared version
 ii  liblcms2-2:amd64                   2.9-1ubuntu0.1                    amd64        Little CMS 2 color management library
 ii  liblcms2-dev:amd64                 2.9-1ubuntu0.1                    amd64        Little CMS 2 color management library development headers
-ii  libldap-2.4-2:amd64                2.4.45+dfsg-1ubuntu1.3            amd64        OpenLDAP libraries
-ii  libldap-common                     2.4.45+dfsg-1ubuntu1.3            all          OpenLDAP common files for libraries
-ii  libldap2-dev:amd64                 2.4.45+dfsg-1ubuntu1.3            amd64        OpenLDAP development libraries
+ii  libldap-2.4-2:amd64                2.4.45+dfsg-1ubuntu1.4            amd64        OpenLDAP libraries
+ii  libldap-common                     2.4.45+dfsg-1ubuntu1.4            all          OpenLDAP common files for libraries
+ii  libldap2-dev:amd64                 2.4.45+dfsg-1ubuntu1.4            amd64        OpenLDAP development libraries
 ii  libllvm6.0:amd64                   1:6.0-1ubuntu2                    amd64        Modular compiler and toolchain technologies, runtime library
 ii  liblocale-gettext-perl             1.07-3build2                      amd64        module using libc functions for internationalization in Perl
 ii  liblockfile-bin                    1.14-1.1                          amd64        support binaries for and cli utilities based on liblockfile
