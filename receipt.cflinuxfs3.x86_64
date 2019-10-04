@@ -1,4 +1,4 @@
-Rootfs SHASUM: 25efbf0ece63cc810c686518dffbdf729c6919aeee0b9db4e4a68cc94822f7e6
+Rootfs SHASUM: 8dbbb7d49fc45a78627cb75832fc843f3bfb91349f5f81f95eb25490fdb1a8d5
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -566,9 +566,9 @@ ii  ncurses-bin                        6.1-1ubuntu1.18.04                amd64  
 ii  net-tools                          1.60+git20161116.90da8a0-1ubuntu1 amd64        NET-3 networking toolkit
 ii  netbase                            5.4                               all          Basic TCP/IP networking system
 ii  netcat-openbsd                     1.187-1ubuntu0.1                  amd64        TCP/IP swiss army knife
-ii  netplan.io                         0.97-0ubuntu1~18.04.1             amd64        YAML network configuration abstraction for various backends
+ii  netplan.io                         0.98-0ubuntu1~18.04.1             amd64        YAML network configuration abstraction for various backends
 ii  nettle-dev:amd64                   3.4-1                             amd64        low level cryptographic library (development files)
-ii  nplan                              0.97-0ubuntu1~18.04.1             all          YAML network configuration abstraction - transitional package
+ii  nplan                              0.98-0ubuntu1~18.04.1             all          YAML network configuration abstraction - transitional package
 ii  ocaml-base-nox                     4.05.0-10ubuntu1                  amd64        Runtime system for OCaml bytecode executables (no X)
 ii  odbcinst                           2.3.4-1.1ubuntu3                  amd64        Helper program for accessing odbc ini files
 ii  odbcinst1debian2:amd64             2.3.4-1.1ubuntu3                  amd64        Support library for accessing odbc ini files
@@ -629,7 +629,7 @@ ii  tasksel-data                       3.34ubuntu11                      all    
 ii  tcpdump                            4.9.2-3                           amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                         amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                            all          transitional dummy package
-ii  tzdata                             2019b-0ubuntu0.18.04              all          time zone and daylight-saving time data
+ii  tzdata                             2019c-0ubuntu0.18.04              all          time zone and daylight-saving time data
 ii  ubuntu-advantage-tools             17                                all          management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2018.09.18.1~18.04.0              all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.3                           amd64        Minimal core of Ubuntu
