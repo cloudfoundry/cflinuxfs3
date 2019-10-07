@@ -1,4 +1,4 @@
-Rootfs SHASUM: 8dbbb7d49fc45a78627cb75832fc843f3bfb91349f5f81f95eb25490fdb1a8d5
+Rootfs SHASUM: 6d1450dcb1b84271af89307c89d05d276fcf914b9d2e478cb29ca9f525d2be79
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -363,8 +363,8 @@ ii  libogg0:amd64                      1.3.2-1                           amd64  
 ii  libonig4:amd64                     6.7.0-1                           amd64        regular expressions library
 ii  libopenblas-base:amd64             0.2.20+ds-4                       amd64        Optimized BLAS (linear algebra) library (shared library)
 ii  libopenblas-dev:amd64              0.2.20+ds-4                       amd64        Optimized BLAS (linear algebra) library (development files)
-ii  libopenexr-dev                     2.2.0-11.1ubuntu1                 amd64        development files for the OpenEXR image library
-ii  libopenexr22:amd64                 2.2.0-11.1ubuntu1                 amd64        runtime files for the OpenEXR image library
+ii  libopenexr-dev                     2.2.0-11.1ubuntu1.1               amd64        development files for the OpenEXR image library
+ii  libopenexr22:amd64                 2.2.0-11.1ubuntu1.1               amd64        runtime files for the OpenEXR image library
 ii  libopenjp2-7:amd64                 2.3.0-2build0.18.04.1             amd64        JPEG 2000 image compression/decompression library
 ii  libopus0:amd64                     1.1.2-1ubuntu1                    amd64        Opus codec runtime library
 ii  liborc-0.4-0:amd64                 1:0.4.28-1                        amd64        Library of Optimized Inner Loops Runtime Compiler
