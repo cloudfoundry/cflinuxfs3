@@ -1,4 +1,4 @@
-Rootfs SHASUM: 10723ca16d25560ad6ad8421dbb2d43e717e4daeb667e34e20f4ed70b75a40c0
+Rootfs SHASUM: 53d30a1939a06dfdcf878cd0b73454f86143869746af2a5d77effb02b1145ddd
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -42,7 +42,7 @@ ii  debconf-i18n                       1.5.66ubuntu1                     all    
 ii  debianutils                        4.8.4                             amd64        Miscellaneous utilities specific to Debian
 ii  dh-python                          3.20180325ubuntu2                 all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                           amd64        File comparison utilities
-ii  distro-info-data                   0.37ubuntu0.5                     all          information about the distributions' releases (data files)
+ii  distro-info-data                   0.37ubuntu0.6                     all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.9          amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.3                 amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.3                 all          Debian package development tools
@@ -467,10 +467,10 @@ ii  libtext-wrapi18n-perl              0.06-7.1                          all    
 ii  libthai-data                       0.1.27-2                          all          Data files for Thai language support library
 ii  libthai0:amd64                     0.1.27-2                          amd64        Thai language support library
 ii  libtheora0:amd64                   1.1.1+dfsg.1-14                   amd64        Theora Video Compression Codec
-ii  libtiff-dev                        4.0.9-5ubuntu0.2                  amd64        Tag Image File Format library (TIFF), development files, current version
-ii  libtiff5:amd64                     4.0.9-5ubuntu0.2                  amd64        Tag Image File Format (TIFF) library
-ii  libtiff5-dev:amd64                 4.0.9-5ubuntu0.2                  amd64        Tag Image File Format library (TIFF), development files
-ii  libtiffxx5:amd64                   4.0.9-5ubuntu0.2                  amd64        Tag Image File Format (TIFF) library -- C++ interface
+ii  libtiff-dev                        4.0.9-5ubuntu0.3                  amd64        Tag Image File Format library (TIFF), development files, current version
+ii  libtiff5:amd64                     4.0.9-5ubuntu0.3                  amd64        Tag Image File Format (TIFF) library
+ii  libtiff5-dev:amd64                 4.0.9-5ubuntu0.3                  amd64        Tag Image File Format library (TIFF), development files
+ii  libtiffxx5:amd64                   4.0.9-5ubuntu0.3                  amd64        Tag Image File Format (TIFF) library -- C++ interface
 ii  libtimedate-perl                   2.3000-2                          all          collection of modules to manipulate date/time information
 ii  libtinfo-dev:amd64                 6.1-1ubuntu1.18.04                amd64        developer's library for the low-level terminfo library
 ii  libtinfo5:amd64                    6.1-1ubuntu1.18.04                amd64        shared low-level terminfo library for terminal handling
@@ -542,7 +542,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.1             amd64  
 ii  libzvbi-common                     0.2.35-13                         all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                         amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-65.74                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-66.75                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                      amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2                    amd64        system login tools
