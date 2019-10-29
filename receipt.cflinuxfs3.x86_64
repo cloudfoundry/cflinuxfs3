@@ -1,4 +1,4 @@
-Rootfs SHASUM: 85dc61c6d13767ed4b7530e9da5c6070d3f0fcff0958e405b152d6cb0df08b27
+Rootfs SHASUM: 0298e93a760798a284655d515331f4eb84a6f517fc0ab940fbaba065c708677e
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -113,7 +113,7 @@ ii  libaprutil1:amd64                  1.6.1-2                           amd64  
 ii  libapt-inst2.0:amd64               1.6.12                            amd64        deb package format runtime library
 ii  libapt-pkg5.0:amd64                1.6.12                            amd64        package management runtime library
 ii  libarchive-extract-perl            0.80-1                            all          generic archive extracting module
-ii  libarchive13:amd64                 3.2.2-3.1ubuntu0.4                amd64        Multi-format archive and compression library (shared library)
+ii  libarchive13:amd64                 3.2.2-3.1ubuntu0.5                amd64        Multi-format archive and compression library (shared library)
 ii  libargon2-0:amd64                  0~20161029-1.1                    amd64        memory-hard hashing function - runtime library
 ii  libargon2-0-dev:amd64              0~20161029-1.1                    amd64        memory-hard hashing function - development files
 ii  libasan4:amd64                     7.4.0-1ubuntu1~18.04.1            amd64        AddressSanitizer -- a fast memory error detector
