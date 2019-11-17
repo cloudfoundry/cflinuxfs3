@@ -117,3 +117,4 @@ ureadahead
 uuid-dev
 wget
 zip
+libxml2-dev
