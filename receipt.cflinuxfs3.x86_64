@@ -1,4 +1,4 @@
-Rootfs SHASUM: af9dade410863c366661d005704a82b091f6e268a3bf0bd3fd4fcc9798d2b203
+Rootfs SHASUM: cdc796e0d563d737e198556246cd09fb6f35d552d08a5a5c54375d8a7379865e
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -170,9 +170,9 @@ ii  libdb5.3:amd64                     5.3.28-13.1ubuntu1.1              amd64  
 ii  libdbus-1-3:amd64                  1.12.2-1ubuntu1.1                 amd64        simple interprocess messaging system (library)
 ii  libdebconfclient0:amd64            0.213ubuntu1                      amd64        Debian Configuration Management System (C-implementation library)
 ii  libdevmapper1.02.1:amd64           2:1.02.145-4.1ubuntu3.18.04.1     amd64        Linux Kernel Device Mapper userspace library
-ii  libdjvulibre-dev:amd64             3.5.27.1-8                        amd64        Development files for the DjVu image format
-ii  libdjvulibre-text                  3.5.27.1-8                        all          Linguistic support files for libdjvulibre
-ii  libdjvulibre21:amd64               3.5.27.1-8                        amd64        Runtime support for the DjVu image format
+ii  libdjvulibre-dev:amd64             3.5.27.1-8ubuntu0.1               amd64        Development files for the DjVu image format
+ii  libdjvulibre-text                  3.5.27.1-8ubuntu0.1               all          Linguistic support files for libdjvulibre
+ii  libdjvulibre21:amd64               3.5.27.1-8ubuntu0.1               amd64        Runtime support for the DjVu image format
 ii  libdns-export1100                  1:9.11.3+dfsg-1ubuntu1.11         amd64        Exported DNS Shared Library
 ii  libdns1100:amd64                   1:9.11.3+dfsg-1ubuntu1.11         amd64        DNS Shared Library used by BIND
 ii  libdpkg-perl                       1.19.0.5ubuntu2.3                 all          Dpkg perl modules
