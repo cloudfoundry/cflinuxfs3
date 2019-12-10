@@ -1,4 +1,4 @@
-Rootfs SHASUM: 6761a48991f9048290ac7fb6c9bdca172104fef0a0e3381c1c0abb83afe6f7c8
+Rootfs SHASUM: c06d3835d63b7fd87c2e6dd9486fffd5f56594f89911d7afb99a0a082be33eaa
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -69,8 +69,8 @@ ii  gir1.2-gdkpixbuf-2.0:amd64         2.36.11-2                         amd64  
 ii  gir1.2-glib-2.0:amd64              1.56.1-1                          amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-harfbuzz-0.0:amd64          1.7.2-1ubuntu1                    amd64        OpenType text shaping engine (GObject introspection data)
 ii  gir1.2-rsvg-2.0:amd64              2.40.20-2                         amd64        gir files for renderer library for SVG files
-ii  git                                1:2.17.1-1ubuntu0.4               amd64        fast, scalable, distributed revision control system
-ii  git-man                            1:2.17.1-1ubuntu0.4               all          fast, scalable, distributed revision control system (manual pages)
+ii  git                                1:2.17.1-1ubuntu0.5               amd64        fast, scalable, distributed revision control system
+ii  git-man                            1:2.17.1-1ubuntu0.5               all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                             1.4.22-3ubuntu2                   amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                               2.2.4-1ubuntu1.2                  amd64        GNU privacy guard - signature verification tool
 ii  graphviz                           2.40.1-2                          amd64        rich set of graph drawing tools
@@ -383,7 +383,7 @@ ii  libpangox-1.0-0:amd64              0.0.2-5                           amd64  
 ii  libpangoxft-1.0-0:amd64            1.40.14-1ubuntu0.1                amd64        Layout and rendering of internationalized text
 ii  libparse-debianchangelog-perl      1.2.0-12                          all          parse Debian changelogs and output them in other formats
 ii  libpathplan4                       2.40.1-2                          amd64        rich set of graph drawing tools - pathplan library
-ii  libpcap0.8:amd64                   1.8.1-6ubuntu1                    amd64        system interface for user-level packet capture
+ii  libpcap0.8:amd64                   1.8.1-6ubuntu1.18.04.1            amd64        system interface for user-level packet capture
 ii  libpcre16-3:amd64                  2:8.39-9                          amd64        Old Perl 5 Compatible Regular Expression Library - 16 bit runtime files
 ii  libpcre3:amd64                     2:8.39-9                          amd64        Old Perl 5 Compatible Regular Expression Library - runtime files
 ii  libpcre3-dev:amd64                 2:8.39-9                          amd64        Old Perl 5 Compatible Regular Expression Library - development files
@@ -495,7 +495,7 @@ ii  libvorbisenc2:amd64                1.3.5-4.2                         amd64  
 ii  libvpx-dev:amd64                   1.7.0-3ubuntu0.18.04.1            amd64        VP8 and VP9 video codec (development files)
 ii  libvpx5:amd64                      1.7.0-3ubuntu0.18.04.1            amd64        VP8 and VP9 video codec (shared library)
 ii  libwavpack1:amd64                  5.1.0-2ubuntu1.4                  amd64        audio codec (lossy and lossless) - library
-ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.13   amd64        Samba winbind client library
+ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.14   amd64        Samba winbind client library
 ii  libwebp6:amd64                     0.6.1-2                           amd64        Lossy compression of digital photographic images.
 ii  libwebpmux3:amd64                  0.6.1-2                           amd64        Lossy compression of digital photographic images.
 ii  libwind0-heimdal:amd64             7.5.0+dfsg-1                      amd64        Heimdal Kerberos - stringprep implementation
