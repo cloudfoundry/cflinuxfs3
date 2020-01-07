@@ -1,4 +1,4 @@
-Rootfs SHASUM: c06d3835d63b7fd87c2e6dd9486fffd5f56594f89911d7afb99a0a082be33eaa
+Rootfs SHASUM: c6746b01be6c0d29242070eb89017f87b38593a252037b719a3961e04225e40e
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -169,7 +169,7 @@ ii  libdatrie1:amd64                   0.2.10-7                          amd64  
 ii  libdb5.3:amd64                     5.3.28-13.1ubuntu1.1              amd64        Berkeley v5.3 Database Libraries [runtime]
 ii  libdbus-1-3:amd64                  1.12.2-1ubuntu1.1                 amd64        simple interprocess messaging system (library)
 ii  libdebconfclient0:amd64            0.213ubuntu1                      amd64        Debian Configuration Management System (C-implementation library)
-ii  libdevmapper1.02.1:amd64           2:1.02.145-4.1ubuntu3.18.04.1     amd64        Linux Kernel Device Mapper userspace library
+ii  libdevmapper1.02.1:amd64           2:1.02.145-4.1ubuntu3.18.04.2     amd64        Linux Kernel Device Mapper userspace library
 ii  libdjvulibre-dev:amd64             3.5.27.1-8ubuntu0.1               amd64        Development files for the DjVu image format
 ii  libdjvulibre-text                  3.5.27.1-8ubuntu0.1               all          Linguistic support files for libdjvulibre
 ii  libdjvulibre21:amd64               3.5.27.1-8ubuntu0.1               amd64        Runtime support for the DjVu image format
@@ -402,8 +402,8 @@ ii  libproxy1v5:amd64                  0.4.15-1                          amd64  
 ii  libpsl5:amd64                      0.19.1-5build1                    amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64        0.3-4                             amd64        pthread stubs not provided by native libc, development files
 ii  libpython-stdlib:amd64             2.7.15~rc1-1                      amd64        interactive high-level object-oriented language (default python version)
-ii  libpython2.7-minimal:amd64         2.7.15-4ubuntu4~18.04.2           amd64        Minimal subset of the Python language (version 2.7)
-ii  libpython2.7-stdlib:amd64          2.7.15-4ubuntu4~18.04.2           amd64        Interactive high-level object-oriented language (standard library, version 2.7)
+ii  libpython2.7-minimal:amd64         2.7.17-1~18.04                    amd64        Minimal subset of the Python language (version 2.7)
+ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04                    amd64        Interactive high-level object-oriented language (standard library, version 2.7)
 ii  libpython3-stdlib:amd64            3.6.7-1~18.04                     amd64        interactive high-level object-oriented language (default python3 version)
 ii  libpython3.6:amd64                 3.6.9-1~18.04                     amd64        Shared Python runtime library (version 3.6)
 ii  libpython3.6-minimal:amd64         3.6.9-1~18.04                     amd64        Minimal subset of the Python language (version 3.6)
@@ -542,7 +542,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.1             amd64  
 ii  libzvbi-common                     0.2.35-13                         all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                         amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-72.81                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-74.84                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                      amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2                    amd64        system login tools
@@ -590,8 +590,8 @@ ii  python-bzrlib                      2.7.0+bzr6622-10                  amd64  
 ii  python-configobj                   5.0.6-2                           all          simple but powerful config file reader and writer for Python 2
 ii  python-minimal                     2.7.15~rc1-1                      amd64        minimal subset of the Python language (default version)
 ii  python-six                         1.11.0-2                          all          Python 2 and 3 compatibility library (Python 2 interface)
-ii  python2.7                          2.7.15-4ubuntu4~18.04.2           amd64        Interactive high-level object-oriented language (version 2.7)
-ii  python2.7-minimal                  2.7.15-4ubuntu4~18.04.2           amd64        Minimal subset of the Python language (version 2.7)
+ii  python2.7                          2.7.17-1~18.04                    amd64        Interactive high-level object-oriented language (version 2.7)
+ii  python2.7-minimal                  2.7.17-1~18.04                    amd64        Minimal subset of the Python language (version 2.7)
 ii  python3                            3.6.7-1~18.04                     amd64        interactive high-level object-oriented language (default python3 version)
 ii  python3-distutils                  3.6.9-1~18.04                     all          distutils package for Python 3.x
 ii  python3-lib2to3                    3.6.9-1~18.04                     all          Interactive high-level object-oriented language (2to3, version 3.6)
