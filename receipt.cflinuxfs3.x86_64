@@ -1,4 +1,4 @@
-Rootfs SHASUM: c6746b01be6c0d29242070eb89017f87b38593a252037b719a3961e04225e40e
+Rootfs SHASUM: 4af78b0c35a127834ffe4a9c13e337bd2f641c7fc5fb3cadcb7d2c56565b111c
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -226,11 +226,11 @@ ii  libglib2.0-dev-bin                 2.56.4-0ubuntu0.18.04.4           amd64  
 ii  libgmp-dev:amd64                   2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                     2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64                2:6.1.2+dfsg-2                    amd64        Multiprecision arithmetic library (C++ bindings)
-ii  libgnutls-dane0:amd64              3.5.18-1ubuntu1.1                 amd64        GNU TLS library - DANE security support
-ii  libgnutls-openssl27:amd64          3.5.18-1ubuntu1.1                 amd64        GNU TLS library - OpenSSL wrapper
-ii  libgnutls28-dev:amd64              3.5.18-1ubuntu1.1                 amd64        GNU TLS library - development files
-ii  libgnutls30:amd64                  3.5.18-1ubuntu1.1                 amd64        GNU TLS library - main runtime library
-ii  libgnutlsxx28:amd64                3.5.18-1ubuntu1.1                 amd64        GNU TLS library - C++ runtime library
+ii  libgnutls-dane0:amd64              3.5.18-1ubuntu1.2                 amd64        GNU TLS library - DANE security support
+ii  libgnutls-openssl27:amd64          3.5.18-1ubuntu1.2                 amd64        GNU TLS library - OpenSSL wrapper
+ii  libgnutls28-dev:amd64              3.5.18-1ubuntu1.2                 amd64        GNU TLS library - development files
+ii  libgnutls30:amd64                  3.5.18-1ubuntu1.2                 amd64        GNU TLS library - main runtime library
+ii  libgnutlsxx28:amd64                3.5.18-1ubuntu1.2                 amd64        GNU TLS library - C++ runtime library
 ii  libgomp1:amd64                     8.3.0-6ubuntu1~18.04.1            amd64        GCC OpenMP (GOMP) support library
 ii  libgpg-error-dev                   1.27-6                            amd64        library for common error values and messages in GnuPG components (development)
 ii  libgpg-error0:amd64                1.27-6                            amd64        library for common error values and messages in GnuPG components
