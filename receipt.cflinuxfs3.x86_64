@@ -1,4 +1,4 @@
-Rootfs SHASUM: 4af78b0c35a127834ffe4a9c13e337bd2f641c7fc5fb3cadcb7d2c56565b111c
+Rootfs SHASUM: 03630b084930dfd89451251c95a4e2322f6809054fa88ae2f8b3d39c7d687edc
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -206,8 +206,8 @@ ii  libfribidi0:amd64                  0.19.7-2                          amd64  
 ii  libfuse2:amd64                     2.9.7-1ubuntu1                    amd64        Filesystem in Userspace (library)
 ii  libgcc-7-dev:amd64                 7.4.0-1ubuntu1~18.04.1            amd64        GCC support library (development files)
 ii  libgcc1:amd64                      1:8.3.0-6ubuntu1~18.04.1          amd64        GCC support library
-ii  libgcrypt20:amd64                  1.8.1-4ubuntu1.1                  amd64        LGPL Crypto library - runtime library
-ii  libgcrypt20-dev                    1.8.1-4ubuntu1.1                  amd64        LGPL Crypto library - development files
+ii  libgcrypt20:amd64                  1.8.1-4ubuntu1.2                  amd64        LGPL Crypto library - runtime library
+ii  libgcrypt20-dev                    1.8.1-4ubuntu1.2                  amd64        LGPL Crypto library - development files
 ii  libgd-dev:amd64                    2.2.5-4ubuntu0.3                  amd64        GD Graphics Library (development version)
 ii  libgd3:amd64                       2.2.5-4ubuntu0.3                  amd64        GD Graphics Library
 ii  libgdbm-compat4:amd64              1.14.1-6                          amd64        GNU dbm database routines (legacy support runtime version) 
