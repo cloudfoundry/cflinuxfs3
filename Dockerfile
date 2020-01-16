@@ -28,4 +28,4 @@ RUN useradd -u 2000 -mU -s /bin/bash vcap && \
   chown vcap:vcap /home/vcap/app && \
   ln -s /home/vcap/app /app
 
-USER vcap
+USER 2000
