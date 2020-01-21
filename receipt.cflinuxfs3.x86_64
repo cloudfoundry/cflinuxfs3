@@ -1,4 +1,4 @@
-Rootfs SHASUM: 03630b084930dfd89451251c95a4e2322f6809054fa88ae2f8b3d39c7d687edc
+Rootfs SHASUM: 7d40bbee9ffe7c1c6a52753704faf0ff54705e4c10ed5203018ec8e0185cfd42
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -137,7 +137,7 @@ ii  libboost-filesystem1.65.1:amd64    1.65.1+dfsg-0ubuntu5              amd64  
 ii  libboost-iostreams1.62.0:amd64     1.62.0+dfsg-5                     amd64        Boost.Iostreams Library
 ii  libboost-iostreams1.65.1:amd64     1.65.1+dfsg-0ubuntu5              amd64        Boost.Iostreams Library
 ii  libboost-system1.65.1:amd64        1.65.1+dfsg-0ubuntu5              amd64        Operating system (e.g. diagnostics support) library
-ii  libbsd0:amd64                      0.8.7-1                           amd64        utility functions from BSD systems - shared library
+ii  libbsd0:amd64                      0.8.7-1ubuntu0.1                  amd64        utility functions from BSD systems - shared library
 ii  libbz2-1.0:amd64                   1.0.6-8.1ubuntu0.2                amd64        high-quality block-sorting file compressor library - runtime
 ii  libbz2-dev:amd64                   1.0.6-8.1ubuntu0.2                amd64        high-quality block-sorting file compressor library - development
 ii  libc-bin                           2.27-3ubuntu1                     amd64        GNU C Library: Binaries
@@ -176,8 +176,8 @@ ii  libdjvulibre21:amd64               3.5.27.1-8ubuntu0.1               amd64  
 ii  libdns-export1100                  1:9.11.3+dfsg-1ubuntu1.11         amd64        Exported DNS Shared Library
 ii  libdns1100:amd64                   1:9.11.3+dfsg-1ubuntu1.11         amd64        DNS Shared Library used by BIND
 ii  libdpkg-perl                       1.19.0.5ubuntu2.3                 all          Dpkg perl modules
-ii  libdrm-common                      2.4.97-1ubuntu1~18.04.1           all          Userspace interface to kernel DRM services -- common files
-ii  libdrm2:amd64                      2.4.97-1ubuntu1~18.04.1           amd64        Userspace interface to kernel DRM services -- runtime
+ii  libdrm-common                      2.4.99-1ubuntu1~18.04.1           all          Userspace interface to kernel DRM services -- common files
+ii  libdrm2:amd64                      2.4.99-1ubuntu1~18.04.1           amd64        Userspace interface to kernel DRM services -- runtime
 ii  libdw1:amd64                       0.170-0.4ubuntu0.1                amd64        library that provides access to the DWARF debug information
 ii  libedit2:amd64                     3.1-20170329-1                    amd64        BSD editline and history libraries
 ii  libelf1:amd64                      0.170-0.4ubuntu0.1                amd64        library to read and write ELF files
@@ -619,7 +619,7 @@ ii  sshfs                              2.8-1                             amd64  
 ii  strace                             4.21-1ubuntu1                     amd64        System call tracer
 ii  subversion                         1.9.7-4ubuntu1                    amd64        Advanced version control system
 ii  sudo                               1.8.21p2-3ubuntu1.1               amd64        Provide limited super user privileges to specific users
-ii  sysstat                            11.6.1-1                          amd64        system performance tools for Linux
+ii  sysstat                            11.6.1-1ubuntu0.1                 amd64        system performance tools for Linux
 ii  systemd                            237-3ubuntu10.33                  amd64        system and service manager
 ii  systemd-sysv                       237-3ubuntu10.33                  amd64        system and service manager - SysV links
 ii  sysvinit-utils                     2.88dsf-59.10ubuntu1              amd64        System-V-like utilities
