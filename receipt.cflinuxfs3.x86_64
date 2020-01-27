@@ -1,4 +1,4 @@
-Rootfs SHASUM: 68e461e096927b2c63920f9ea3bd06fd9bb0b206ffec9f28d10598608927c996
+Rootfs SHASUM: 0f7920844748a19fb54161e9d52c582b43cd2bce44afd82cfe8250e367a47c87
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -626,7 +626,7 @@ ii  sysvinit-utils                     2.88dsf-59.10ubuntu1              amd64  
 ii  tar                                1.29b-2ubuntu0.1                  amd64        GNU version of the tar archiving utility
 ii  tasksel                            3.34ubuntu11                      all          tool for selecting tasks for installation on Debian systems
 ii  tasksel-data                       3.34ubuntu11                      all          official tasks used for installation of Debian systems
-ii  tcpdump                            4.9.2-3                           amd64        command-line network traffic analyzer
+ii  tcpdump                            4.9.3-0ubuntu0.18.04.1            amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                         amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                            all          transitional dummy package
 ii  tzdata                             2019c-0ubuntu0.18.04              all          time zone and daylight-saving time data
