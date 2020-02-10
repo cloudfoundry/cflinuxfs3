@@ -1,4 +1,4 @@
-Rootfs SHASUM: 6f69478bc19fdd3ce33c8f56b6308ba3fc477e668a8b5dfa158c5cdf4f2ae6ce
+Rootfs SHASUM: ef0f723ae1456559137f2fe6456a01f9c91d3dc671e81236e4175f178d748c29
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -176,8 +176,8 @@ ii  libdjvulibre21:amd64               3.5.27.1-8ubuntu0.1                 amd64
 ii  libdns-export1100                  1:9.11.3+dfsg-1ubuntu1.11           amd64        Exported DNS Shared Library
 ii  libdns1100:amd64                   1:9.11.3+dfsg-1ubuntu1.11           amd64        DNS Shared Library used by BIND
 ii  libdpkg-perl                       1.19.0.5ubuntu2.3                   all          Dpkg perl modules
-ii  libdrm-common                      2.4.99-1ubuntu1~18.04.1             all          Userspace interface to kernel DRM services -- common files
-ii  libdrm2:amd64                      2.4.99-1ubuntu1~18.04.1             amd64        Userspace interface to kernel DRM services -- runtime
+ii  libdrm-common                      2.4.99-1ubuntu1~18.04.2             all          Userspace interface to kernel DRM services -- common files
+ii  libdrm2:amd64                      2.4.99-1ubuntu1~18.04.2             amd64        Userspace interface to kernel DRM services -- runtime
 ii  libdw1:amd64                       0.170-0.4ubuntu0.1                  amd64        library that provides access to the DWARF debug information
 ii  libedit2:amd64                     3.1-20170329-1                      amd64        BSD editline and history libraries
 ii  libelf1:amd64                      0.170-0.4ubuntu0.1                  amd64        library to read and write ELF files
@@ -524,8 +524,8 @@ ii  libxext-dev:amd64                  2:1.3.3-1                           amd64
 ii  libxext6:amd64                     2:1.3.3-1                           amd64        X11 miscellaneous extension library
 ii  libxfixes3:amd64                   1:5.0.3-1                           amd64        X11 miscellaneous 'fixes' extension library
 ii  libxft2:amd64                      2.3.2-1                             amd64        FreeType-based font drawing library for X
-ii  libxml2:amd64                      2.9.4+dfsg1-6.1ubuntu1.2            amd64        GNOME XML library
-ii  libxml2-dev:amd64                  2.9.4+dfsg1-6.1ubuntu1.2            amd64        Development files for the GNOME XML library
+ii  libxml2:amd64                      2.9.4+dfsg1-6.1ubuntu1.3            amd64        GNOME XML library
+ii  libxml2-dev:amd64                  2.9.4+dfsg1-6.1ubuntu1.3            amd64        Development files for the GNOME XML library
 ii  libxmu6:amd64                      2:1.1.2-2                           amd64        X11 miscellaneous utility library
 ii  libxpm-dev:amd64                   1:3.5.12-1                          amd64        X11 pixmap library (development headers)
 ii  libxpm4:amd64                      1:3.5.12-1                          amd64        X11 pixmap library
