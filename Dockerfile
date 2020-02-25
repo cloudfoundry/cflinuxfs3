@@ -4,6 +4,8 @@ ARG arch
 ARG locales
 ARG packages
 ARG package_args='--allow-downgrades --allow-remove-essential --allow-change-held-packages --no-install-recommends'
+ARG user_id=2000
+ARG group_id=2000
 
 COPY arch/$arch/sources.list /etc/apt/sources.list
 
@@ -23,9 +25,9 @@ RUN echo 'LANG="en_US.UTF-8"' > /etc/default/locale && \
   echo "$locales" | grep -f - /usr/share/i18n/SUPPORTED | cut -d " " -f 1 | xargs locale-gen && \
   dpkg-reconfigure -fnoninteractive -pcritical locales tzdata libc6
 
-RUN useradd -u 2000 -mU -s /bin/bash vcap && \
+RUN useradd -u ${user_id} -mU -s /bin/bash vcap && \
   mkdir /home/vcap/app && \
   chown vcap:vcap /home/vcap/app && \
   ln -s /home/vcap/app /app
 
-USER vcap
+USER ${user_id}:${group_id}
