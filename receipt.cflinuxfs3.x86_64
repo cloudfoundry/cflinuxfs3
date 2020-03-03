@@ -1,4 +1,4 @@
-Rootfs SHASUM: 0c89a2b78a62a3cf2732e994b58085ccedd5cd28ea94ea91f94045e56de11c6b
+Rootfs SHASUM: 466559e52685436bf910cd06f1634d2a4dab43f2d6dc011c802c8623ef17aede
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -601,7 +601,7 @@ ii  python3-yaml                       3.12-1build2                        amd64
 ii  python3.6                          3.6.9-1~18.04                       amd64        Interactive high-level object-oriented language (version 3.6)
 ii  python3.6-minimal                  3.6.9-1~18.04                       amd64        Minimal subset of the Python language (version 3.6)
 ii  quota                              4.04-2ubuntu0.1                     amd64        disk quota management tools
-ii  rake                               12.3.1-1                            all          ruby make-like utility
+ii  rake                               12.3.1-1ubuntu0.1                   all          ruby make-like utility
 ii  readline-common                    7.0-3                               all          GNU readline and history libraries, common files
 ii  rsync                              3.1.2-2.1ubuntu1.1                  amd64        fast, versatile, remote (and local) file-copying tool
 ii  ruby                               1:2.5.1                             amd64        Interpreter of object-oriented scripting language Ruby (default version)
