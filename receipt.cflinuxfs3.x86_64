@@ -1,4 +1,4 @@
-Rootfs SHASUM: 31d75b89dbc51b6d39939be61d4e8c46a4ca092f23f80c4a97ced3c0cfdc0500
+Rootfs SHASUM: 48f5786bc2e2dc82eb1ae2b31b40ce9ab09c85fa862548dd14e739e5734c9194
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -15,9 +15,9 @@ ii  base-files                         10.1ubuntu2.8                       amd64
 ii  base-passwd                        3.5.44                              amd64        Debian base system master password and group files
 ii  bash                               4.4.18-2ubuntu1.2                   amd64        GNU Bourne Again SHell
 ii  bind9-host                         1:9.11.3+dfsg-1ubuntu1.11           amd64        DNS lookup utility (deprecated)
-ii  binutils                           2.30-21ubuntu1~18.04.2              amd64        GNU assembler, linker and binary utilities
-ii  binutils-common:amd64              2.30-21ubuntu1~18.04.2              amd64        Common files for the GNU assembler, linker and binary utilities
-ii  binutils-x86-64-linux-gnu          2.30-21ubuntu1~18.04.2              amd64        GNU binary utilities, for x86-64-linux-gnu target
+ii  binutils                           2.30-21ubuntu1~18.04.3              amd64        GNU assembler, linker and binary utilities
+ii  binutils-common:amd64              2.30-21ubuntu1~18.04.3              amd64        Common files for the GNU assembler, linker and binary utilities
+ii  binutils-x86-64-linux-gnu          2.30-21ubuntu1~18.04.3              amd64        GNU binary utilities, for x86-64-linux-gnu target
 ii  bison                              2:3.0.4.dfsg-1build1                amd64        YACC-compatible parser generator
 ii  bsdutils                           1:2.31.1-0.4ubuntu3.6               amd64        basic utilities from 4.4BSD-Lite
 ii  build-essential                    12.4ubuntu1                         amd64        Informational list of build-essential packages
@@ -69,8 +69,8 @@ ii  gir1.2-gdkpixbuf-2.0:amd64         2.36.11-2                           amd64
 ii  gir1.2-glib-2.0:amd64              1.56.1-1                            amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-harfbuzz-0.0:amd64          1.7.2-1ubuntu1                      amd64        OpenType text shaping engine (GObject introspection data)
 ii  gir1.2-rsvg-2.0:amd64              2.40.20-2                           amd64        gir files for renderer library for SVG files
-ii  git                                1:2.17.1-1ubuntu0.5                 amd64        fast, scalable, distributed revision control system
-ii  git-man                            1:2.17.1-1ubuntu0.5                 all          fast, scalable, distributed revision control system (manual pages)
+ii  git                                1:2.17.1-1ubuntu0.7                 amd64        fast, scalable, distributed revision control system
+ii  git-man                            1:2.17.1-1ubuntu0.7                 all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                             1.4.22-3ubuntu2                     amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                               2.2.4-1ubuntu1.2                    amd64        GNU privacy guard - signature verification tool
 ii  graphviz                           2.40.1-2                            amd64        rich set of graph drawing tools
@@ -128,7 +128,7 @@ ii  libavcodec57:amd64                 7:3.4.6-0ubuntu0.18.04.1            amd64
 ii  libavutil55:amd64                  7:3.4.6-0ubuntu0.18.04.1            amd64        FFmpeg library with functions for simplifying programming - runtime files
 ii  libbabeltrace1:amd64               1.5.5-1                             amd64        Babeltrace conversion libraries
 ii  libbind9-160:amd64                 1:9.11.3+dfsg-1ubuntu1.11           amd64        BIND9 Shared Library used by BIND
-ii  libbinutils:amd64                  2.30-21ubuntu1~18.04.2              amd64        GNU binary utilities (private shared library)
+ii  libbinutils:amd64                  2.30-21ubuntu1~18.04.3              amd64        GNU binary utilities (private shared library)
 ii  libbison-dev:amd64                 2:3.0.4.dfsg-1build1                amd64        YACC-compatible parser generator - development library
 ii  libblas-dev:amd64                  3.7.1-4ubuntu1                      amd64        Basic Linear Algebra Subroutines 3, static library
 ii  libblas3:amd64                     3.7.1-4ubuntu1                      amd64        Basic Linear Algebra Reference implementations, shared library
@@ -287,8 +287,8 @@ ii  libjpeg8:amd64                     8c-2ubuntu8                         amd64
 ii  libjpeg8-dev:amd64                 8c-2ubuntu8                         amd64        Independent JPEG Group's JPEG runtime library (dependency package)
 ii  libjq1:amd64                       1.5+dfsg-2                          amd64        lightweight and flexible command-line JSON processor - shared library
 ii  libjson-c3:amd64                   0.12.1-1.3                          amd64        JSON manipulation library - shared library
-ii  libjson-glib-1.0-0:amd64           1.4.2-3                             amd64        GLib JSON manipulation library
-ii  libjson-glib-1.0-common            1.4.2-3                             all          GLib JSON manipulation library (common files)
+ii  libjson-glib-1.0-0:amd64           1.4.2-3ubuntu0.18.04.1              amd64        GLib JSON manipulation library
+ii  libjson-glib-1.0-common            1.4.2-3ubuntu0.18.04.1              all          GLib JSON manipulation library (common files)
 ii  libjsoncpp1:amd64                  1.7.4-3                             amd64        library for reading and writing JSON for C++
 ii  libk5crypto3:amd64                 1.16-2ubuntu0.1                     amd64        MIT Kerberos runtime libraries - Crypto Library
 ii  libkadm5clnt-mit11:amd64           1.16-2ubuntu0.1                     amd64        MIT Kerberos runtime libraries - Administration Clients
@@ -402,12 +402,12 @@ ii  libproxy1v5:amd64                  0.4.15-1                            amd64
 ii  libpsl5:amd64                      0.19.1-5build1                      amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64        0.3-4                               amd64        pthread stubs not provided by native libc, development files
 ii  libpython-stdlib:amd64             2.7.15~rc1-1                        amd64        interactive high-level object-oriented language (default python version)
-ii  libpython2.7-minimal:amd64         2.7.17-1~18.04                      amd64        Minimal subset of the Python language (version 2.7)
-ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04                      amd64        Interactive high-level object-oriented language (standard library, version 2.7)
+ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1               amd64        Minimal subset of the Python language (version 2.7)
+ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1               amd64        Interactive high-level object-oriented language (standard library, version 2.7)
 ii  libpython3-stdlib:amd64            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.6:amd64                 3.6.9-1~18.04                       amd64        Shared Python runtime library (version 3.6)
-ii  libpython3.6-minimal:amd64         3.6.9-1~18.04                       amd64        Minimal subset of the Python language (version 3.6)
-ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04                       amd64        Interactive high-level object-oriented language (standard library, version 3.6)
+ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1                amd64        Shared Python runtime library (version 3.6)
+ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1                amd64        Minimal subset of the Python language (version 3.6)
+ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1                amd64        Interactive high-level object-oriented language (standard library, version 3.6)
 ii  libquadmath0:amd64                 8.4.0-1ubuntu1~18.04                amd64        GCC Quad-Precision Math Library
 ii  libreadline-dev:amd64              7.0-3                               amd64        GNU readline and history libraries, development files
 ii  libreadline7:amd64                 7.0-3                               amd64        GNU readline and history libraries, run-time libraries
@@ -590,16 +590,16 @@ ii  python-bzrlib                      2.7.0+bzr6622-10                    amd64
 ii  python-configobj                   5.0.6-2                             all          simple but powerful config file reader and writer for Python 2
 ii  python-minimal                     2.7.15~rc1-1                        amd64        minimal subset of the Python language (default version)
 ii  python-six                         1.11.0-2                            all          Python 2 and 3 compatibility library (Python 2 interface)
-ii  python2.7                          2.7.17-1~18.04                      amd64        Interactive high-level object-oriented language (version 2.7)
-ii  python2.7-minimal                  2.7.17-1~18.04                      amd64        Minimal subset of the Python language (version 2.7)
+ii  python2.7                          2.7.17-1~18.04ubuntu1               amd64        Interactive high-level object-oriented language (version 2.7)
+ii  python2.7-minimal                  2.7.17-1~18.04ubuntu1               amd64        Minimal subset of the Python language (version 2.7)
 ii  python3                            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
 ii  python3-distutils                  3.6.9-1~18.04                       all          distutils package for Python 3.x
 ii  python3-lib2to3                    3.6.9-1~18.04                       all          Interactive high-level object-oriented language (2to3, version 3.6)
 ii  python3-minimal                    3.6.7-1~18.04                       amd64        minimal subset of the Python language (default python3 version)
 ii  python3-netifaces                  0.10.4-0.1build4                    amd64        portable network interface information - Python 3.x
 ii  python3-yaml                       3.12-1build2                        amd64        YAML parser and emitter for Python3
-ii  python3.6                          3.6.9-1~18.04                       amd64        Interactive high-level object-oriented language (version 3.6)
-ii  python3.6-minimal                  3.6.9-1~18.04                       amd64        Minimal subset of the Python language (version 3.6)
+ii  python3.6                          3.6.9-1~18.04ubuntu1                amd64        Interactive high-level object-oriented language (version 3.6)
+ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1                amd64        Minimal subset of the Python language (version 3.6)
 ii  quota                              4.04-2ubuntu0.1                     amd64        disk quota management tools
 ii  rake                               12.3.1-1ubuntu0.1                   all          ruby make-like utility
 ii  readline-common                    7.0-3                               all          GNU readline and history libraries, common files
