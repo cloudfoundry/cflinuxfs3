@@ -1,4 +1,4 @@
-Rootfs SHASUM: 48f5786bc2e2dc82eb1ae2b31b40ce9ab09c85fa862548dd14e739e5734c9194
+Rootfs SHASUM: 2c7df261a453ee3b1f02986986ba304f8093c9fc93e580f3e3ada2d0354d3a5f
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -42,7 +42,7 @@ ii  debconf-i18n                       1.5.66ubuntu1                       all  
 ii  debianutils                        4.8.4                               amd64        Miscellaneous utilities specific to Debian
 ii  dh-python                          3.20180325ubuntu2                   all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                             amd64        File comparison utilities
-ii  distro-info-data                   0.37ubuntu0.6                       all          information about the distributions' releases (data files)
+ii  distro-info-data                   0.37ubuntu0.7                       all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.11           amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.3                   amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.3                   all          Debian package development tools
@@ -99,7 +99,7 @@ ii  jq                                 1.5+dfsg-2                          amd64
 ii  kbd                                2.0.4-2ubuntu1                      amd64        Linux console font and keytable utilities
 ii  keyboard-configuration             1.178ubuntu2.9                      all          system-wide keyboard preferences
 ii  klibc-utils                        2.0.4-9ubuntu2                      amd64        small utilities built with klibc for early boot
-ii  kmod                               24-1ubuntu3.2                       amd64        tools for managing Linux kernel modules
+ii  kmod                               24-1ubuntu3.3                       amd64        tools for managing Linux kernel modules
 ii  krb5-config                        2.6                                 all          Configuration files for Kerberos Version 5
 ii  krb5-multidev:amd64                1.16-2ubuntu0.1                     amd64        development files for MIT Kerberos without Heimdal conflict
 ii  krb5-user                          1.16-2ubuntu0.1                     amd64        basic programs to authenticate using MIT Kerberos
@@ -296,7 +296,7 @@ ii  libkadm5srv-mit11:amd64            1.16-2ubuntu0.1                     amd64
 ii  libkdb5-9:amd64                    1.16-2ubuntu0.1                     amd64        MIT Kerberos runtime libraries - Kerberos database
 ii  libkeyutils1:amd64                 1.5.9-9.2ubuntu2                    amd64        Linux Key Management Utilities (library)
 ii  libklibc                           2.0.4-9ubuntu2                      amd64        minimal libc subset for use with initramfs
-ii  libkmod2:amd64                     24-1ubuntu3.2                       amd64        libkmod shared library
+ii  libkmod2:amd64                     24-1ubuntu3.3                       amd64        libkmod shared library
 ii  libkrb5-26-heimdal:amd64           7.5.0+dfsg-1                        amd64        Heimdal Kerberos - libraries
 ii  libkrb5-3:amd64                    1.16-2ubuntu0.1                     amd64        MIT Kerberos runtime libraries
 ii  libkrb5-dev:amd64                  1.16-2ubuntu0.1                     amd64        headers and development libraries for MIT Kerberos
@@ -363,8 +363,8 @@ ii  libogg0:amd64                      1.3.2-1                             amd64
 ii  libonig4:amd64                     6.7.0-1                             amd64        regular expressions library
 ii  libopenblas-base:amd64             0.2.20+ds-4                         amd64        Optimized BLAS (linear algebra) library (shared library)
 ii  libopenblas-dev:amd64              0.2.20+ds-4                         amd64        Optimized BLAS (linear algebra) library (development files)
-ii  libopenexr-dev                     2.2.0-11.1ubuntu1.1                 amd64        development files for the OpenEXR image library
-ii  libopenexr22:amd64                 2.2.0-11.1ubuntu1.1                 amd64        runtime files for the OpenEXR image library
+ii  libopenexr-dev                     2.2.0-11.1ubuntu1.2                 amd64        development files for the OpenEXR image library
+ii  libopenexr22:amd64                 2.2.0-11.1ubuntu1.2                 amd64        runtime files for the OpenEXR image library
 ii  libopenjp2-7:amd64                 2.3.0-2build0.18.04.1               amd64        JPEG 2000 image compression/decompression library
 ii  libopus0:amd64                     1.1.2-1ubuntu1                      amd64        Opus codec runtime library
 ii  liborc-0.4-0:amd64                 1:0.4.28-1                          amd64        Library of Optimized Inner Loops Runtime Compiler
