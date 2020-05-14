@@ -54,4 +54,4 @@ The generation and release of a new rootfs happens on the [cflinuxfs3](https://b
 
 * CF and Diego are deployed to that BOSH Lite. The [cf-acceptance-tests](https://github.com/cloudfoundry/cf-acceptance-tests) are then run against the deployment.
 
-* Once all tests pass and the product manager ships the release, the rootfs tarball can be found as a [Github Release](https://github.com/cloudfoundry/cflinuxfs3/releases), [Docker Image](https://registry.hub.docker.com/u/cloudfoundry/cflinuxfs3/), and as a [BOSH release](https://github.com/cloudfoundry/cflinuxfs3-release).
+* Once all tests pass and the product manager ships the release, the rootfs tarball can be found as a [Github Release](https://github.com/cloudfoundry/cflinuxfs3/releases), [Docker Image](https://registry.hub.docker.com/r/cloudfoundry/cflinuxfs3/), and as a [BOSH release](https://github.com/cloudfoundry/cflinuxfs3-release).
