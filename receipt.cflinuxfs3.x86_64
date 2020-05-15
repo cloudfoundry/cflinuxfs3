@@ -1,4 +1,4 @@
-Rootfs SHASUM: 7297d70974df077fd2d56a558769b6dd5049704df360a081717f9a6f2cd553e6
+Rootfs SHASUM: a74bf3a305e8080c1f0a78f3158c06c221104e3e9004296b72306f1d7cf9fcf5
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -286,7 +286,7 @@ ii  libjpeg-turbo8-dev:amd64           1.5.2-0ubuntu5.18.04.3              amd64
 ii  libjpeg8:amd64                     8c-2ubuntu8                         amd64        Independent JPEG Group's JPEG runtime library (dependency package)
 ii  libjpeg8-dev:amd64                 8c-2ubuntu8                         amd64        Independent JPEG Group's JPEG runtime library (dependency package)
 ii  libjq1:amd64                       1.5+dfsg-2                          amd64        lightweight and flexible command-line JSON processor - shared library
-ii  libjson-c3:amd64                   0.12.1-1.3ubuntu0.1                 amd64        JSON manipulation library - shared library
+ii  libjson-c3:amd64                   0.12.1-1.3ubuntu0.2                 amd64        JSON manipulation library - shared library
 ii  libjson-glib-1.0-0:amd64           1.4.2-3ubuntu0.18.04.1              amd64        GLib JSON manipulation library
 ii  libjson-glib-1.0-common            1.4.2-3ubuntu0.18.04.1              all          GLib JSON manipulation library (common files)
 ii  libjsoncpp1:amd64                  1.7.4-3                             amd64        library for reading and writing JSON for C++
