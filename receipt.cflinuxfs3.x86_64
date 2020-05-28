@@ -1,4 +1,4 @@
-Rootfs SHASUM: 59bc51ddf0e8e86b7747cde3555fe0561e113fdf2d390abb29358b031a5ac48f
+Rootfs SHASUM: 76c39d82b0036f35e377c22e46f2c6f8c860041b32268895099971e57fb10ee9
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -286,7 +286,7 @@ ii  libjpeg-turbo8-dev:amd64           1.5.2-0ubuntu5.18.04.3              amd64
 ii  libjpeg8:amd64                     8c-2ubuntu8                         amd64        Independent JPEG Group's JPEG runtime library (dependency package)
 ii  libjpeg8-dev:amd64                 8c-2ubuntu8                         amd64        Independent JPEG Group's JPEG runtime library (dependency package)
 ii  libjq1:amd64                       1.5+dfsg-2                          amd64        lightweight and flexible command-line JSON processor - shared library
-ii  libjson-c3:amd64                   0.12.1-1.3ubuntu0.2                 amd64        JSON manipulation library - shared library
+ii  libjson-c3:amd64                   0.12.1-1.3ubuntu0.3                 amd64        JSON manipulation library - shared library
 ii  libjson-glib-1.0-0:amd64           1.4.2-3ubuntu0.18.04.1              amd64        GLib JSON manipulation library
 ii  libjson-glib-1.0-common            1.4.2-3ubuntu0.18.04.1              all          GLib JSON manipulation library (common files)
 ii  libjsoncpp1:amd64                  1.7.4-3                             amd64        library for reading and writing JSON for C++
@@ -449,9 +449,9 @@ ii  libsqlite0-dev                     2.8.17-14fakesync1                  amd64
 ii  libsqlite3-0:amd64                 3.22.0-1ubuntu0.3                   amd64        SQLite 3 shared library
 ii  libsqlite3-dev:amd64               3.22.0-1ubuntu0.3                   amd64        SQLite 3 development files
 ii  libss2:amd64                       1.44.1-1ubuntu1.3                   amd64        command-line interface parsing library
-ii  libssl-dev:amd64                   1.1.1-1ubuntu2.1~18.04.5            amd64        Secure Sockets Layer toolkit - development files
+ii  libssl-dev:amd64                   1.1.1-1ubuntu2.1~18.04.6            amd64        Secure Sockets Layer toolkit - development files
 ii  libssl1.0.0:amd64                  1.0.2n-1ubuntu5.3                   amd64        Secure Sockets Layer toolkit - shared libraries
-ii  libssl1.1:amd64                    1.1.1-1ubuntu2.1~18.04.5            amd64        Secure Sockets Layer toolkit - shared libraries
+ii  libssl1.1:amd64                    1.1.1-1ubuntu2.1~18.04.6            amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libstdc++-7-dev:amd64              7.5.0-3ubuntu1~18.04                amd64        GNU Standard C++ Library v3 (development files)
 ii  libstdc++6:amd64                   8.4.0-1ubuntu1~18.04                amd64        GNU Standard C++ Library v3
 ii  libsub-name-perl                   0.21-1build1                        amd64        module for assigning a new name to referenced sub
@@ -576,7 +576,7 @@ ii  odbcinst1debian2:amd64             2.3.4-1.1ubuntu3                    amd64
 ii  openssh-client                     1:7.6p1-4ubuntu0.3                  amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                     1:7.6p1-4ubuntu0.3                  amd64        secure shell (SSH) server, for secure access from remote machines
 ii  openssh-sftp-server                1:7.6p1-4ubuntu0.3                  amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii  openssl                            1.1.1-1ubuntu2.1~18.04.5            amd64        Secure Sockets Layer toolkit - cryptographic utility
+ii  openssl                            1.1.1-1ubuntu2.1~18.04.6            amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  openssl1.0                         1.0.2n-1ubuntu5.3                   amd64        Secure Sockets Layer toolkit 1.0 - cryptographic utility
 ii  passwd                             1:4.5-1ubuntu2                      amd64        change and administer password and group data
 ii  patch                              2.7.6-2ubuntu1.1                    amd64        Apply a diff file to an original
