@@ -1,4 +1,4 @@
-Rootfs SHASUM: 78fd7c9d4d0d58acb7a5d8f8bed11e91d2d8c226d71b26b0b972d1a00a70047f
+Rootfs SHASUM: ec2154b3a5378aad5c3ac20319136cbb331c5d7bfaa77f5e86443d21c0da9030
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -281,8 +281,8 @@ ii  libitm1:amd64                      8.4.0-1ubuntu1~18.04                amd64
 ii  libjbig-dev:amd64                  2.1-3.1build1                       amd64        JBIGkit development files
 ii  libjbig0:amd64                     2.1-3.1build1                       amd64        JBIGkit libraries
 ii  libjpeg-dev:amd64                  8c-2ubuntu8                         amd64        Independent JPEG Group's JPEG runtime library (dependency package)
-ii  libjpeg-turbo8:amd64               1.5.2-0ubuntu5.18.04.3              amd64        IJG JPEG compliant runtime library.
-ii  libjpeg-turbo8-dev:amd64           1.5.2-0ubuntu5.18.04.3              amd64        Development files for the IJG JPEG library
+ii  libjpeg-turbo8:amd64               1.5.2-0ubuntu5.18.04.4              amd64        IJG JPEG compliant runtime library.
+ii  libjpeg-turbo8-dev:amd64           1.5.2-0ubuntu5.18.04.4              amd64        Development files for the IJG JPEG library
 ii  libjpeg8:amd64                     8c-2ubuntu8                         amd64        Independent JPEG Group's JPEG runtime library (dependency package)
 ii  libjpeg8-dev:amd64                 8c-2ubuntu8                         amd64        Independent JPEG Group's JPEG runtime library (dependency package)
 ii  libjq1:amd64                       1.5+dfsg-2                          amd64        lightweight and flexible command-line JSON processor - shared library
