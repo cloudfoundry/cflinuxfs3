@@ -1,4 +1,4 @@
-Rootfs SHASUM: 4f578fe240ad6407d69ec3783c5b86385321e2c44a121731e886df2d8528d3cb
+Rootfs SHASUM: e062da999e6125e7cb659cbffa9e9f0bf81e716bb45f8835d2ba3b83cf5a75ed
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -446,8 +446,8 @@ ii  libsoxr0:amd64                     0.1.2-3                             amd64
 ii  libspeex1:amd64                    1.2~rc1.2-1ubuntu2                  amd64        The Speex codec runtime library
 ii  libsqlite0                         2.8.17-14fakesync1                  amd64        SQLite 2 shared library
 ii  libsqlite0-dev                     2.8.17-14fakesync1                  amd64        SQLite 2 development files
-ii  libsqlite3-0:amd64                 3.22.0-1ubuntu0.3                   amd64        SQLite 3 shared library
-ii  libsqlite3-dev:amd64               3.22.0-1ubuntu0.3                   amd64        SQLite 3 development files
+ii  libsqlite3-0:amd64                 3.22.0-1ubuntu0.4                   amd64        SQLite 3 shared library
+ii  libsqlite3-dev:amd64               3.22.0-1ubuntu0.4                   amd64        SQLite 3 development files
 ii  libss2:amd64                       1.44.1-1ubuntu1.3                   amd64        command-line interface parsing library
 ii  libssl-dev:amd64                   1.1.1-1ubuntu2.1~18.04.6            amd64        Secure Sockets Layer toolkit - development files
 ii  libssl1.0.0:amd64                  1.0.2n-1ubuntu5.3                   amd64        Secure Sockets Layer toolkit - shared libraries
