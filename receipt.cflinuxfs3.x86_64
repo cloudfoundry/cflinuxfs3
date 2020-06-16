@@ -1,4 +1,4 @@
-Rootfs SHASUM: e062da999e6125e7cb659cbffa9e9f0bf81e716bb45f8835d2ba3b83cf5a75ed
+Rootfs SHASUM: b291cd8c2bab4d979c3473d6a1e03ae1249572c0ab33e8ddbf1e0332b8218078
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -185,8 +185,8 @@ ii  libept1.5.0:amd64                  1.1+nmu3build1                      amd64
 ii  liberror-perl                      0.17025-1                           all          Perl module for error/exception handling in an OO-ish way
 ii  libestr0:amd64                     0.1.10-2.1                          amd64        Helper functions for handling strings (lib)
 ii  libevent-2.1-6:amd64               2.1.8-stable-4build1                amd64        Asynchronous event notification library
-ii  libexif-dev:amd64                  0.6.21-4ubuntu0.2                   amd64        library to parse EXIF files (development files)
-ii  libexif12:amd64                    0.6.21-4ubuntu0.2                   amd64        library to parse EXIF files
+ii  libexif-dev:amd64                  0.6.21-4ubuntu0.5                   amd64        library to parse EXIF files (development files)
+ii  libexif12:amd64                    0.6.21-4ubuntu0.5                   amd64        library to parse EXIF files
 ii  libexpat1:amd64                    2.2.5-3ubuntu0.2                    amd64        XML parsing C library - runtime library
 ii  libexpat1-dev:amd64                2.2.5-3ubuntu0.2                    amd64        XML parsing C library - development kit
 ii  libext2fs2:amd64                   1.44.1-1ubuntu1.3                   amd64        ext2/ext3/ext4 file system libraries
@@ -350,7 +350,7 @@ ii  libmpx2:amd64                      8.4.0-1ubuntu1~18.04                amd64
 ii  libncurses5:amd64                  6.1-1ubuntu1.18.04                  amd64        shared libraries for terminal handling
 ii  libncurses5-dev:amd64              6.1-1ubuntu1.18.04                  amd64        developer's libraries for ncurses
 ii  libncursesw5:amd64                 6.1-1ubuntu1.18.04                  amd64        shared libraries for terminal handling (wide character support)
-ii  libnetplan0:amd64                  0.99-0ubuntu3~18.04.2               amd64        YAML network configuration abstraction runtime library
+ii  libnetplan0:amd64                  0.99-0ubuntu3~18.04.3               amd64        YAML network configuration abstraction runtime library
 ii  libnettle6:amd64                   3.4-1                               amd64        low level cryptographic library (symmetric and one-way cryptos)
 ii  libnewt0.52:amd64                  0.52.20-1ubuntu1                    amd64        Not Erik's Windowing Toolkit - text mode windowing with slang
 ii  libnghttp2-14:amd64                1.30.0-1ubuntu1                     amd64        library implementing HTTP/2 protocol (shared library)
@@ -567,9 +567,9 @@ ii  ncurses-bin                        6.1-1ubuntu1.18.04                  amd64
 ii  net-tools                          1.60+git20161116.90da8a0-1ubuntu1   amd64        NET-3 networking toolkit
 ii  netbase                            5.4                                 all          Basic TCP/IP networking system
 ii  netcat-openbsd                     1.187-1ubuntu0.1                    amd64        TCP/IP swiss army knife
-ii  netplan.io                         0.99-0ubuntu3~18.04.2               amd64        YAML network configuration abstraction for various backends
+ii  netplan.io                         0.99-0ubuntu3~18.04.3               amd64        YAML network configuration abstraction for various backends
 ii  nettle-dev:amd64                   3.4-1                               amd64        low level cryptographic library (development files)
-ii  nplan                              0.99-0ubuntu3~18.04.2               all          YAML network configuration abstraction - transitional package
+ii  nplan                              0.99-0ubuntu3~18.04.3               all          YAML network configuration abstraction - transitional package
 ii  ocaml-base-nox                     4.05.0-10ubuntu1                    amd64        Runtime system for OCaml bytecode executables (no X)
 ii  odbcinst                           2.3.4-1.1ubuntu3                    amd64        Helper program for accessing odbc ini files
 ii  odbcinst1debian2:amd64             2.3.4-1.1ubuntu3                    amd64        Support library for accessing odbc ini files
