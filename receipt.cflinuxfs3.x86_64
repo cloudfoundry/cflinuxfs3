@@ -1,4 +1,4 @@
-Rootfs SHASUM: 565f98ffddb975dfe1092ce017970eb2185dc6c31ab4ce0d638826603d5e7347
+Rootfs SHASUM: 37e475790276f2722b33f2b82f63028afc4c2200ea8f0603a8d1e6c9634972e7
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -124,8 +124,8 @@ ii  libattr1:amd64                     1:2.4.47-2build1                    amd64
 ii  libaudiofile1:amd64                0.3.6-4                             amd64        Open-source version of SGI's audiofile library
 ii  libaudit-common                    1:2.8.2-1ubuntu1                    all          Dynamic library for security auditing - common files
 ii  libaudit1:amd64                    1:2.8.2-1ubuntu1                    amd64        Dynamic library for security auditing
-ii  libavcodec57:amd64                 7:3.4.6-0ubuntu0.18.04.1            amd64        FFmpeg library with de/encoders for audio/video codecs - runtime files
-ii  libavutil55:amd64                  7:3.4.6-0ubuntu0.18.04.1            amd64        FFmpeg library with functions for simplifying programming - runtime files
+ii  libavcodec57:amd64                 7:3.4.8-0ubuntu0.2                  amd64        FFmpeg library with de/encoders for audio/video codecs - runtime files
+ii  libavutil55:amd64                  7:3.4.8-0ubuntu0.2                  amd64        FFmpeg library with functions for simplifying programming - runtime files
 ii  libbabeltrace1:amd64               1.5.5-1                             amd64        Babeltrace conversion libraries
 ii  libbind9-160:amd64                 1:9.11.3+dfsg-1ubuntu1.12           amd64        BIND9 Shared Library used by BIND
 ii  libbinutils:amd64                  2.30-21ubuntu1~18.04.3              amd64        GNU binary utilities (private shared library)
@@ -306,9 +306,9 @@ ii  liblapack-dev:amd64                3.7.1-4ubuntu1                      amd64
 ii  liblapack3:amd64                   3.7.1-4ubuntu1                      amd64        Library of linear algebra routines 3 - shared version
 ii  liblcms2-2:amd64                   2.9-1ubuntu0.1                      amd64        Little CMS 2 color management library
 ii  liblcms2-dev:amd64                 2.9-1ubuntu0.1                      amd64        Little CMS 2 color management library development headers
-ii  libldap-2.4-2:amd64                2.4.45+dfsg-1ubuntu1.5              amd64        OpenLDAP libraries
-ii  libldap-common                     2.4.45+dfsg-1ubuntu1.5              all          OpenLDAP common files for libraries
-ii  libldap2-dev:amd64                 2.4.45+dfsg-1ubuntu1.5              amd64        OpenLDAP development libraries
+ii  libldap-2.4-2:amd64                2.4.45+dfsg-1ubuntu1.6              amd64        OpenLDAP libraries
+ii  libldap-common                     2.4.45+dfsg-1ubuntu1.6              all          OpenLDAP common files for libraries
+ii  libldap2-dev:amd64                 2.4.45+dfsg-1ubuntu1.6              amd64        OpenLDAP development libraries
 ii  libllvm6.0:amd64                   1:6.0-1ubuntu2                      amd64        Modular compiler and toolchain technologies, runtime library
 ii  liblocale-gettext-perl             1.07-3build2                        amd64        module using libc functions for internationalization in Perl
 ii  liblockfile-bin                    1.14-1.1                            amd64        support binaries for and cli utilities based on liblockfile
@@ -403,12 +403,12 @@ ii  libproxy1v5:amd64                  0.4.15-1                            amd64
 ii  libpsl5:amd64                      0.19.1-5build1                      amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64        0.3-4                               amd64        pthread stubs not provided by native libc, development files
 ii  libpython-stdlib:amd64             2.7.15~rc1-1                        amd64        interactive high-level object-oriented language (default python version)
-ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1               amd64        Minimal subset of the Python language (version 2.7)
-ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1               amd64        Interactive high-level object-oriented language (standard library, version 2.7)
+ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1.1             amd64        Minimal subset of the Python language (version 2.7)
+ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1.1             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
 ii  libpython3-stdlib:amd64            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1                amd64        Shared Python runtime library (version 3.6)
-ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1                amd64        Minimal subset of the Python language (version 3.6)
-ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1                amd64        Interactive high-level object-oriented language (standard library, version 3.6)
+ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1.1              amd64        Shared Python runtime library (version 3.6)
+ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1.1              amd64        Minimal subset of the Python language (version 3.6)
+ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1.1              amd64        Interactive high-level object-oriented language (standard library, version 3.6)
 ii  libquadmath0:amd64                 8.4.0-1ubuntu1~18.04                amd64        GCC Quad-Precision Math Library
 ii  libreadline-dev:amd64              7.0-3                               amd64        GNU readline and history libraries, development files
 ii  libreadline7:amd64                 7.0-3                               amd64        GNU readline and history libraries, run-time libraries
@@ -456,7 +456,7 @@ ii  libstdc++-7-dev:amd64              7.5.0-3ubuntu1~18.04                amd64
 ii  libstdc++6:amd64                   8.4.0-1ubuntu1~18.04                amd64        GNU Standard C++ Library v3
 ii  libsub-name-perl                   0.21-1build1                        amd64        module for assigning a new name to referenced sub
 ii  libsvn1:amd64                      1.9.7-4ubuntu1                      amd64        Shared libraries used by Apache Subversion
-ii  libswresample2:amd64               7:3.4.6-0ubuntu0.18.04.1            amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
+ii  libswresample2:amd64               7:3.4.8-0ubuntu0.2                  amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                    2.1.0+repack-4build1                amd64        interface library to sysfs
 ii  libsystemd0:amd64                  237-3ubuntu10.41                    amd64        systemd utility library
 ii  libtasn1-6:amd64                   4.13-2                              amd64        Manage ASN.1 structures (runtime)
@@ -543,7 +543,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.1               amd64
 ii  libzvbi-common                     0.2.35-13                           all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                           amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1.2                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-111.112                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-112.113                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1.2                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                        amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2                      amd64        system login tools
@@ -591,16 +591,16 @@ ii  python-bzrlib                      2.7.0+bzr6622-10                    amd64
 ii  python-configobj                   5.0.6-2                             all          simple but powerful config file reader and writer for Python 2
 ii  python-minimal                     2.7.15~rc1-1                        amd64        minimal subset of the Python language (default version)
 ii  python-six                         1.11.0-2                            all          Python 2 and 3 compatibility library (Python 2 interface)
-ii  python2.7                          2.7.17-1~18.04ubuntu1               amd64        Interactive high-level object-oriented language (version 2.7)
-ii  python2.7-minimal                  2.7.17-1~18.04ubuntu1               amd64        Minimal subset of the Python language (version 2.7)
+ii  python2.7                          2.7.17-1~18.04ubuntu1.1             amd64        Interactive high-level object-oriented language (version 2.7)
+ii  python2.7-minimal                  2.7.17-1~18.04ubuntu1.1             amd64        Minimal subset of the Python language (version 2.7)
 ii  python3                            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
 ii  python3-distutils                  3.6.9-1~18.04                       all          distutils package for Python 3.x
 ii  python3-lib2to3                    3.6.9-1~18.04                       all          Interactive high-level object-oriented language (2to3, version 3.6)
 ii  python3-minimal                    3.6.7-1~18.04                       amd64        minimal subset of the Python language (default python3 version)
 ii  python3-netifaces                  0.10.4-0.1build4                    amd64        portable network interface information - Python 3.x
 ii  python3-yaml                       3.12-1build2                        amd64        YAML parser and emitter for Python3
-ii  python3.6                          3.6.9-1~18.04ubuntu1                amd64        Interactive high-level object-oriented language (version 3.6)
-ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1                amd64        Minimal subset of the Python language (version 3.6)
+ii  python3.6                          3.6.9-1~18.04ubuntu1.1              amd64        Interactive high-level object-oriented language (version 3.6)
+ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1.1              amd64        Minimal subset of the Python language (version 3.6)
 ii  quota                              4.04-2ubuntu0.1                     amd64        disk quota management tools
 ii  rake                               12.3.1-1ubuntu0.1                   all          ruby make-like utility
 ii  readline-common                    7.0-3                               all          GNU readline and history libraries, common files
