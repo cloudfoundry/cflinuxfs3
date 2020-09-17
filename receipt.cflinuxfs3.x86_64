@@ -1,4 +1,4 @@
-Rootfs SHASUM: 177a5edbc08c2ac77c0717f959ffe87b5d3329a31e1e27cb75b6d37f02ba4a6d
+Rootfs SHASUM: 0427f71bbb6e48b94ec993eddbc359a14dc298117a9181654fae63acd08d0ce9
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -399,7 +399,7 @@ ii  libpopt0:amd64                     1.16-11                             amd64
 ii  libpq-dev                          10.14-0ubuntu0.18.04.1              amd64        header files for libpq5 (PostgreSQL library)
 ii  libpq5:amd64                       10.14-0ubuntu0.18.04.1              amd64        PostgreSQL C client library
 ii  libprocps6:amd64                   2:3.3.12-3ubuntu1.2                 amd64        library for accessing process information from /proc
-ii  libproxy1v5:amd64                  0.4.15-1                            amd64        automatic proxy configuration management library (shared)
+ii  libproxy1v5:amd64                  0.4.15-1ubuntu0.1                   amd64        automatic proxy configuration management library (shared)
 ii  libpsl5:amd64                      0.19.1-5build1                      amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64        0.3-4                               amd64        pthread stubs not provided by native libc, development files
 ii  libpython-stdlib:amd64             2.7.15~rc1-1                        amd64        interactive high-level object-oriented language (default python version)
