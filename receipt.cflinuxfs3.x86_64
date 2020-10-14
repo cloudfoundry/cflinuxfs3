@@ -1,4 +1,4 @@
-Rootfs SHASUM: a3169cfe54cc2e3c9de3192e8a0cecb7e85f6764d731bf0bba49bbff9b3cfcd1
+Rootfs SHASUM: eab8d791b84f227d069198130c682d5625e635cfa07e9fc6fa6193d3062921e2
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -88,9 +88,9 @@ ii  imagemagick-6-common               8:6.9.7.4+dfsg-16ubuntu6.8          all  
 ii  imagemagick-6.q16                  8:6.9.7.4+dfsg-16ubuntu6.8          amd64        image manipulation programs -- quantum depth Q16
 ii  init                               1.51                                amd64        metapackage ensuring an init system is installed
 ii  init-system-helpers                1.51                                all          helper tools for all init systems
-ii  initramfs-tools                    0.130ubuntu3.10                     all          generic modular initramfs generator (automation)
-ii  initramfs-tools-bin                0.130ubuntu3.10                     amd64        binaries used by initramfs-tools
-ii  initramfs-tools-core               0.130ubuntu3.10                     all          generic modular initramfs generator (core tools)
+ii  initramfs-tools                    0.130ubuntu3.11                     all          generic modular initramfs generator (automation)
+ii  initramfs-tools-bin                0.130ubuntu3.11                     amd64        binaries used by initramfs-tools
+ii  initramfs-tools-core               0.130ubuntu3.11                     all          generic modular initramfs generator (core tools)
 ii  iproute2                           4.15.0-2ubuntu1.2                   amd64        networking and traffic control tools
 ii  iputils-arping                     3:20161105-1ubuntu3                 amd64        Tool to send ICMP echo requests to an ARP address
 ii  iputils-ping                       3:20161105-1ubuntu3                 amd64        Tools to test the reachability of network hosts
@@ -403,12 +403,12 @@ ii  libproxy1v5:amd64                  0.4.15-1ubuntu0.1                   amd64
 ii  libpsl5:amd64                      0.19.1-5build1                      amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64        0.3-4                               amd64        pthread stubs not provided by native libc, development files
 ii  libpython-stdlib:amd64             2.7.15~rc1-1                        amd64        interactive high-level object-oriented language (default python version)
-ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1.1             amd64        Minimal subset of the Python language (version 2.7)
-ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1.1             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
+ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1.2             amd64        Minimal subset of the Python language (version 2.7)
+ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1.2             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
 ii  libpython3-stdlib:amd64            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1.1              amd64        Shared Python runtime library (version 3.6)
-ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1.1              amd64        Minimal subset of the Python language (version 3.6)
-ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1.1              amd64        Interactive high-level object-oriented language (standard library, version 3.6)
+ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1.3              amd64        Shared Python runtime library (version 3.6)
+ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1.3              amd64        Minimal subset of the Python language (version 3.6)
+ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1.3              amd64        Interactive high-level object-oriented language (standard library, version 3.6)
 ii  libquadmath0:amd64                 8.4.0-1ubuntu1~18.04                amd64        GCC Quad-Precision Math Library
 ii  libreadline-dev:amd64              7.0-3                               amd64        GNU readline and history libraries, development files
 ii  libreadline7:amd64                 7.0-3                               amd64        GNU readline and history libraries, run-time libraries
@@ -496,7 +496,7 @@ ii  libvorbisenc2:amd64                1.3.5-4.2                           amd64
 ii  libvpx-dev:amd64                   1.7.0-3ubuntu0.18.04.1              amd64        VP8 and VP9 video codec (development files)
 ii  libvpx5:amd64                      1.7.0-3ubuntu0.18.04.1              amd64        VP8 and VP9 video codec (shared library)
 ii  libwavpack1:amd64                  5.1.0-2ubuntu1.4                    amd64        audio codec (lossy and lossless) - library
-ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.19     amd64        Samba winbind client library
+ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.20     amd64        Samba winbind client library
 ii  libwebp6:amd64                     0.6.1-2                             amd64        Lossy compression of digital photographic images.
 ii  libwebpmux3:amd64                  0.6.1-2                             amd64        Lossy compression of digital photographic images.
 ii  libwind0-heimdal:amd64             7.5.0+dfsg-1                        amd64        Heimdal Kerberos - stringprep implementation
@@ -543,7 +543,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.1               amd64
 ii  libzvbi-common                     0.2.35-13                           all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                           amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1.2                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-118.119                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-121.123                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1.2                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                        amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2                      amd64        system login tools
@@ -591,16 +591,16 @@ ii  python-bzrlib                      2.7.0+bzr6622-10                    amd64
 ii  python-configobj                   5.0.6-2                             all          simple but powerful config file reader and writer for Python 2
 ii  python-minimal                     2.7.15~rc1-1                        amd64        minimal subset of the Python language (default version)
 ii  python-six                         1.11.0-2                            all          Python 2 and 3 compatibility library (Python 2 interface)
-ii  python2.7                          2.7.17-1~18.04ubuntu1.1             amd64        Interactive high-level object-oriented language (version 2.7)
-ii  python2.7-minimal                  2.7.17-1~18.04ubuntu1.1             amd64        Minimal subset of the Python language (version 2.7)
+ii  python2.7                          2.7.17-1~18.04ubuntu1.2             amd64        Interactive high-level object-oriented language (version 2.7)
+ii  python2.7-minimal                  2.7.17-1~18.04ubuntu1.2             amd64        Minimal subset of the Python language (version 2.7)
 ii  python3                            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
 ii  python3-distutils                  3.6.9-1~18.04                       all          distutils package for Python 3.x
 ii  python3-lib2to3                    3.6.9-1~18.04                       all          Interactive high-level object-oriented language (2to3, version 3.6)
 ii  python3-minimal                    3.6.7-1~18.04                       amd64        minimal subset of the Python language (default python3 version)
 ii  python3-netifaces                  0.10.4-0.1build4                    amd64        portable network interface information - Python 3.x
 ii  python3-yaml                       3.12-1build2                        amd64        YAML parser and emitter for Python3
-ii  python3.6                          3.6.9-1~18.04ubuntu1.1              amd64        Interactive high-level object-oriented language (version 3.6)
-ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1.1              amd64        Minimal subset of the Python language (version 3.6)
+ii  python3.6                          3.6.9-1~18.04ubuntu1.3              amd64        Interactive high-level object-oriented language (version 3.6)
+ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1.3              amd64        Minimal subset of the Python language (version 3.6)
 ii  quota                              4.04-2ubuntu0.1                     amd64        disk quota management tools
 ii  rake                               12.3.1-1ubuntu0.1                   all          ruby make-like utility
 ii  readline-common                    7.0-3                               all          GNU readline and history libraries, common files
@@ -641,8 +641,8 @@ ii  unzip                              6.0-21ubuntu1                       amd64
 ii  ureadahead                         0.100.0-21                          amd64        Read required files in advance
 ii  util-linux                         2.31.1-0.4ubuntu3.7                 amd64        miscellaneous system utilities
 ii  uuid-dev:amd64                     2.31.1-0.4ubuntu3.7                 amd64        Universally Unique ID library - headers and static libraries
-ii  vim-common                         2:8.0.1453-1ubuntu1.3               all          Vi IMproved - Common files
-ii  vim-tiny                           2:8.0.1453-1ubuntu1.3               amd64        Vi IMproved - enhanced vi editor - compact version
+ii  vim-common                         2:8.0.1453-1ubuntu1.4               all          Vi IMproved - Common files
+ii  vim-tiny                           2:8.0.1453-1ubuntu1.4               amd64        Vi IMproved - enhanced vi editor - compact version
 ii  wget                               1.19.4-1ubuntu2.2                   amd64        retrieves files from the web
 ii  whiptail                           0.52.20-1ubuntu1                    amd64        Displays user-friendly dialog boxes from shell scripts
 ii  x11-common                         1:7.7+19ubuntu7.1                   all          X Window System (X.Org) infrastructure
@@ -652,7 +652,7 @@ ii  x11proto-xext-dev                  2018.4-4                            all  
 ii  xkb-data                           2.23.1-1ubuntu1.18.04.1             all          X Keyboard Extension (XKB) configuration data
 ii  xorg-sgml-doctools                 1:1.11-1                            all          Common tools for building X.Org SGML documentation
 ii  xtrans-dev                         1.3.5-1                             all          X transport library (development files)
-ii  xxd                                2:8.0.1453-1ubuntu1.3               amd64        tool to make (or reverse) a hex dump
+ii  xxd                                2:8.0.1453-1ubuntu1.4               amd64        tool to make (or reverse) a hex dump
 ii  xz-utils                           5.2.2-1.3                           amd64        XZ-format compression utilities
 ii  zip                                3.0-11build1                        amd64        Archiver for .zip files
 ii  zlib1g:amd64                       1:1.2.11.dfsg-0ubuntu2              amd64        compression library - runtime
