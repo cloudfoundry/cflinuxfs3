@@ -1,4 +1,4 @@
-Rootfs SHASUM: eab8d791b84f227d069198130c682d5625e635cfa07e9fc6fa6193d3062921e2
+Rootfs SHASUM: 914bdaa390eee1c021bf00cdb30d313655be1ccd3540e069c0fba04af25eb255
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -200,8 +200,8 @@ ii  libfl2:amd64                       2.6.4-6                             amd64
 ii  libflac8:amd64                     1.3.2-1                             amd64        Free Lossless Audio Codec - runtime C library
 ii  libfontconfig1:amd64               2.12.6-0ubuntu2                     amd64        generic font configuration library - runtime
 ii  libfontconfig1-dev:amd64           2.12.6-0ubuntu2                     amd64        generic font configuration library - development
-ii  libfreetype6:amd64                 2.8.1-2ubuntu2                      amd64        FreeType 2 font engine, shared library files
-ii  libfreetype6-dev:amd64             2.8.1-2ubuntu2                      amd64        FreeType 2 font engine, development files
+ii  libfreetype6:amd64                 2.8.1-2ubuntu2.1                    amd64        FreeType 2 font engine, shared library files
+ii  libfreetype6-dev:amd64             2.8.1-2ubuntu2.1                    amd64        FreeType 2 font engine, development files
 ii  libfribidi0:amd64                  0.19.7-2                            amd64        Free Implementation of the Unicode BiDi algorithm
 ii  libfuse2:amd64                     2.9.7-1ubuntu1                      amd64        Filesystem in Userspace (library)
 ii  libgcc-7-dev:amd64                 7.5.0-3ubuntu1~18.04                amd64        GCC support library (development files)
@@ -543,7 +543,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.1               amd64
 ii  libzvbi-common                     0.2.35-13                           all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                           amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1.2                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-121.123                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-122.124                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1.2                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                        amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2                      amd64        system login tools
