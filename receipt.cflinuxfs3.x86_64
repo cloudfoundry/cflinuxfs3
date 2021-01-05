@@ -1,4 +1,4 @@
-Rootfs SHASUM: 2a108639ee85db06cf1df409a0b92697e526b5f4072196679cc59686c9046501
+Rootfs SHASUM: d5419122b7b75e68727e8f28e79f0bc74e8afd5e79e069c14adedf2998060a9a
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -369,8 +369,8 @@ ii  libopenexr22:amd64                 2.2.0-11.1ubuntu1.4                 amd64
 ii  libopenjp2-7:amd64                 2.3.0-2build0.18.04.1               amd64        JPEG 2000 image compression/decompression library
 ii  libopus0:amd64                     1.1.2-1ubuntu1                      amd64        Opus codec runtime library
 ii  liborc-0.4-0:amd64                 1:0.4.28-1                          amd64        Library of Optimized Inner Loops Runtime Compiler
-ii  libp11-kit-dev:amd64               0.23.9-2                            amd64        library for loading and coordinating access to PKCS#11 modules - development
-ii  libp11-kit0:amd64                  0.23.9-2                            amd64        library for loading and coordinating access to PKCS#11 modules - runtime
+ii  libp11-kit-dev:amd64               0.23.9-2ubuntu0.1                   amd64        library for loading and coordinating access to PKCS#11 modules - development
+ii  libp11-kit0:amd64                  0.23.9-2ubuntu0.1                   amd64        library for loading and coordinating access to PKCS#11 modules - runtime
 ii  libpam-cap:amd64                   1:2.25-1.2                          amd64        POSIX 1003.1e capabilities (PAM module)
 ii  libpam-modules:amd64               1.1.8-3.6ubuntu2.18.04.2            amd64        Pluggable Authentication Modules for PAM
 ii  libpam-modules-bin                 1.1.8-3.6ubuntu2.18.04.2            amd64        Pluggable Authentication Modules for PAM - helper binaries
