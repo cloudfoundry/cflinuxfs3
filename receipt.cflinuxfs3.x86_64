@@ -1,4 +1,4 @@
-Rootfs SHASUM: 222bb58440b80429c90a2fcb9f5dec0b74b4c678c2839d7c115fb12703ccccea
+Rootfs SHASUM: 08f269fc7d0ad36098ce7650483ef1dbc9b2f7d006222fffa63f2b0152210380
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -14,7 +14,7 @@ ii  autoconf                           2.69-11                             all  
 ii  base-files                         10.1ubuntu2.10                      amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.5.44                              amd64        Debian base system master password and group files
 ii  bash                               4.4.18-2ubuntu1.2                   amd64        GNU Bourne Again SHell
-ii  bind9-host                         1:9.11.3+dfsg-1ubuntu1.13           amd64        DNS lookup utility (deprecated)
+ii  bind9-host                         1:9.11.3+dfsg-1ubuntu1.14           amd64        DNS lookup utility (deprecated)
 ii  binutils                           2.30-21ubuntu1~18.04.4              amd64        GNU assembler, linker and binary utilities
 ii  binutils-common:amd64              2.30-21ubuntu1~18.04.4              amd64        Common files for the GNU assembler, linker and binary utilities
 ii  binutils-x86-64-linux-gnu          2.30-21ubuntu1~18.04.4              amd64        GNU binary utilities, for x86-64-linux-gnu target
@@ -43,7 +43,7 @@ ii  debianutils                        4.8.4                               amd64
 ii  dh-python                          3.20180325ubuntu2                   all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                             amd64        File comparison utilities
 ii  distro-info-data                   0.37ubuntu0.9                       all          information about the distributions' releases (data files)
-ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.13           amd64        Clients provided with BIND
+ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.14           amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.3                   amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.3                   all          Debian package development tools
 ii  e2fsprogs                          1.44.1-1ubuntu1.3                   amd64        ext2/ext3/ext4 file system utilities
@@ -127,7 +127,7 @@ ii  libaudit1:amd64                    1:2.8.2-1ubuntu1.1                  amd64
 ii  libavcodec57:amd64                 7:3.4.8-0ubuntu0.2                  amd64        FFmpeg library with de/encoders for audio/video codecs - runtime files
 ii  libavutil55:amd64                  7:3.4.8-0ubuntu0.2                  amd64        FFmpeg library with functions for simplifying programming - runtime files
 ii  libbabeltrace1:amd64               1.5.5-1                             amd64        Babeltrace conversion libraries
-ii  libbind9-160:amd64                 1:9.11.3+dfsg-1ubuntu1.13           amd64        BIND9 Shared Library used by BIND
+ii  libbind9-160:amd64                 1:9.11.3+dfsg-1ubuntu1.14           amd64        BIND9 Shared Library used by BIND
 ii  libbinutils:amd64                  2.30-21ubuntu1~18.04.4              amd64        GNU binary utilities (private shared library)
 ii  libbison-dev:amd64                 2:3.0.4.dfsg-1build1                amd64        YACC-compatible parser generator - development library
 ii  libblas-dev:amd64                  3.7.1-4ubuntu1                      amd64        Basic Linear Algebra Subroutines 3, static library
@@ -173,8 +173,8 @@ ii  libdevmapper1.02.1:amd64           2:1.02.145-4.1ubuntu3.18.04.3       amd64
 ii  libdjvulibre-dev:amd64             3.5.27.1-8ubuntu0.2                 amd64        Development files for the DjVu image format
 ii  libdjvulibre-text                  3.5.27.1-8ubuntu0.2                 all          Linguistic support files for libdjvulibre
 ii  libdjvulibre21:amd64               3.5.27.1-8ubuntu0.2                 amd64        Runtime support for the DjVu image format
-ii  libdns-export1100                  1:9.11.3+dfsg-1ubuntu1.13           amd64        Exported DNS Shared Library
-ii  libdns1100:amd64                   1:9.11.3+dfsg-1ubuntu1.13           amd64        DNS Shared Library used by BIND
+ii  libdns-export1100                  1:9.11.3+dfsg-1ubuntu1.14           amd64        Exported DNS Shared Library
+ii  libdns1100:amd64                   1:9.11.3+dfsg-1ubuntu1.14           amd64        DNS Shared Library used by BIND
 ii  libdpkg-perl                       1.19.0.5ubuntu2.3                   all          Dpkg perl modules
 ii  libdrm-common                      2.4.101-2~18.04.1                   all          Userspace interface to kernel DRM services -- common files
 ii  libdrm2:amd64                      2.4.101-2~18.04.1                   amd64        Userspace interface to kernel DRM services -- runtime
@@ -270,11 +270,11 @@ ii  libilmbase-dev                     2.2.0-11ubuntu2                     amd64
 ii  libilmbase12:amd64                 2.2.0-11ubuntu2                     amd64        several utility libraries from ILM used by OpenEXR
 ii  libio-string-perl                  1.08-3                              all          Emulate IO::File interface for in-core strings
 ii  libip4tc0:amd64                    1.6.1-2ubuntu2                      amd64        netfilter libip4tc library
-ii  libirs160:amd64                    1:9.11.3+dfsg-1ubuntu1.13           amd64        DNS Shared Library used by BIND
-ii  libisc-export169:amd64             1:9.11.3+dfsg-1ubuntu1.13           amd64        Exported ISC Shared Library
-ii  libisc169:amd64                    1:9.11.3+dfsg-1ubuntu1.13           amd64        ISC Shared Library used by BIND
-ii  libisccc160:amd64                  1:9.11.3+dfsg-1ubuntu1.13           amd64        Command Channel Library used by BIND
-ii  libisccfg160:amd64                 1:9.11.3+dfsg-1ubuntu1.13           amd64        Config File Handling Library used by BIND
+ii  libirs160:amd64                    1:9.11.3+dfsg-1ubuntu1.14           amd64        DNS Shared Library used by BIND
+ii  libisc-export169:amd64             1:9.11.3+dfsg-1ubuntu1.14           amd64        Exported ISC Shared Library
+ii  libisc169:amd64                    1:9.11.3+dfsg-1ubuntu1.14           amd64        ISC Shared Library used by BIND
+ii  libisccc160:amd64                  1:9.11.3+dfsg-1ubuntu1.14           amd64        Command Channel Library used by BIND
+ii  libisccfg160:amd64                 1:9.11.3+dfsg-1ubuntu1.14           amd64        Config File Handling Library used by BIND
 ii  libisl15:amd64                     0.18-4                              amd64        manipulating sets and relations of integer points bounded by linear constraints
 ii  libisl19:amd64                     0.19-1                              amd64        manipulating sets and relations of integer points bounded by linear constraints
 ii  libitm1:amd64                      8.4.0-1ubuntu1~18.04                amd64        GNU Transactional Memory Library
@@ -306,9 +306,9 @@ ii  liblapack-dev:amd64                3.7.1-4ubuntu1                      amd64
 ii  liblapack3:amd64                   3.7.1-4ubuntu1                      amd64        Library of linear algebra routines 3 - shared version
 ii  liblcms2-2:amd64                   2.9-1ubuntu0.1                      amd64        Little CMS 2 color management library
 ii  liblcms2-dev:amd64                 2.9-1ubuntu0.1                      amd64        Little CMS 2 color management library development headers
-ii  libldap-2.4-2:amd64                2.4.45+dfsg-1ubuntu1.8              amd64        OpenLDAP libraries
-ii  libldap-common                     2.4.45+dfsg-1ubuntu1.8              all          OpenLDAP common files for libraries
-ii  libldap2-dev:amd64                 2.4.45+dfsg-1ubuntu1.8              amd64        OpenLDAP development libraries
+ii  libldap-2.4-2:amd64                2.4.45+dfsg-1ubuntu1.9              amd64        OpenLDAP libraries
+ii  libldap-common                     2.4.45+dfsg-1ubuntu1.9              all          OpenLDAP common files for libraries
+ii  libldap2-dev:amd64                 2.4.45+dfsg-1ubuntu1.9              amd64        OpenLDAP development libraries
 ii  libllvm6.0:amd64                   1:6.0-1ubuntu2                      amd64        Modular compiler and toolchain technologies, runtime library
 ii  liblocale-gettext-perl             1.07-3build2                        amd64        module using libc functions for internationalization in Perl
 ii  liblockfile-bin                    1.14-1.1                            amd64        support binaries for and cli utilities based on liblockfile
@@ -320,7 +320,7 @@ ii  liblqr-1-0-dev:amd64               0.4.2-2.1                           amd64
 ii  liblsan0:amd64                     8.4.0-1ubuntu1~18.04                amd64        LeakSanitizer -- a memory leak detector (runtime)
 ii  libltdl-dev:amd64                  2.4.6-2                             amd64        System independent dlopen wrapper for GNU libtool
 ii  libltdl7:amd64                     2.4.6-2                             amd64        System independent dlopen wrapper for GNU libtool
-ii  liblwres160:amd64                  1:9.11.3+dfsg-1ubuntu1.13           amd64        Lightweight Resolver Library used by BIND
+ii  liblwres160:amd64                  1:9.11.3+dfsg-1ubuntu1.14           amd64        Lightweight Resolver Library used by BIND
 ii  liblz4-1:amd64                     0.0~r131-2ubuntu3                   amd64        Fast LZ compression algorithm library - runtime
 ii  liblzma-dev:amd64                  5.2.2-1.3                           amd64        XZ-format compression library - development files
 ii  liblzma5:amd64                     5.2.2-1.3                           amd64        XZ-format compression library
@@ -449,9 +449,9 @@ ii  libsqlite0-dev                     2.8.17-14fakesync1                  amd64
 ii  libsqlite3-0:amd64                 3.22.0-1ubuntu0.4                   amd64        SQLite 3 shared library
 ii  libsqlite3-dev:amd64               3.22.0-1ubuntu0.4                   amd64        SQLite 3 development files
 ii  libss2:amd64                       1.44.1-1ubuntu1.3                   amd64        command-line interface parsing library
-ii  libssl-dev:amd64                   1.1.1-1ubuntu2.1~18.04.7            amd64        Secure Sockets Layer toolkit - development files
-ii  libssl1.0.0:amd64                  1.0.2n-1ubuntu5.5                   amd64        Secure Sockets Layer toolkit - shared libraries
-ii  libssl1.1:amd64                    1.1.1-1ubuntu2.1~18.04.7            amd64        Secure Sockets Layer toolkit - shared libraries
+ii  libssl-dev:amd64                   1.1.1-1ubuntu2.1~18.04.8            amd64        Secure Sockets Layer toolkit - development files
+ii  libssl1.0.0:amd64                  1.0.2n-1ubuntu5.6                   amd64        Secure Sockets Layer toolkit - shared libraries
+ii  libssl1.1:amd64                    1.1.1-1ubuntu2.1~18.04.8            amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libstdc++-7-dev:amd64              7.5.0-3ubuntu1~18.04                amd64        GNU Standard C++ Library v3 (development files)
 ii  libstdc++6:amd64                   8.4.0-1ubuntu1~18.04                amd64        GNU Standard C++ Library v3
 ii  libsub-name-perl                   0.21-1build1                        amd64        module for assigning a new name to referenced sub
@@ -576,8 +576,8 @@ ii  odbcinst1debian2:amd64             2.3.4-1.1ubuntu3                    amd64
 ii  openssh-client                     1:7.6p1-4ubuntu0.3                  amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                     1:7.6p1-4ubuntu0.3                  amd64        secure shell (SSH) server, for secure access from remote machines
 ii  openssh-sftp-server                1:7.6p1-4ubuntu0.3                  amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii  openssl                            1.1.1-1ubuntu2.1~18.04.7            amd64        Secure Sockets Layer toolkit - cryptographic utility
-ii  openssl1.0                         1.0.2n-1ubuntu5.5                   amd64        Secure Sockets Layer toolkit 1.0 - cryptographic utility
+ii  openssl                            1.1.1-1ubuntu2.1~18.04.8            amd64        Secure Sockets Layer toolkit - cryptographic utility
+ii  openssl1.0                         1.0.2n-1ubuntu5.6                   amd64        Secure Sockets Layer toolkit 1.0 - cryptographic utility
 ii  passwd                             1:4.5-1ubuntu2                      amd64        change and administer password and group data
 ii  patch                              2.7.6-2ubuntu1.1                    amd64        Apply a diff file to an original
 ii  perl                               5.26.1-6ubuntu0.5                   amd64        Larry Wall's Practical Extraction and Report Language
