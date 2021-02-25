@@ -1,4 +1,4 @@
-Rootfs SHASUM: 00d4f2fe8bc74621c739ec2627a48122f27bce86f7cab393d793234a01c7b9af
+Rootfs SHASUM: ad836109c75b4c9f82ecb525e1c892ee36e475f3990cca0dafbb7bb3a0436e64
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -403,8 +403,8 @@ ii  libproxy1v5:amd64                  0.4.15-1ubuntu0.2                   amd64
 ii  libpsl5:amd64                      0.19.1-5build1                      amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64        0.3-4                               amd64        pthread stubs not provided by native libc, development files
 ii  libpython-stdlib:amd64             2.7.15~rc1-1                        amd64        interactive high-level object-oriented language (default python version)
-ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1.2             amd64        Minimal subset of the Python language (version 2.7)
-ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1.2             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
+ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1.5             amd64        Minimal subset of the Python language (version 2.7)
+ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1.5             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
 ii  libpython3-stdlib:amd64            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
 ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1.4              amd64        Shared Python runtime library (version 3.6)
 ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1.4              amd64        Minimal subset of the Python language (version 3.6)
@@ -591,8 +591,8 @@ ii  python-bzrlib                      2.7.0+bzr6622-10                    amd64
 ii  python-configobj                   5.0.6-2                             all          simple but powerful config file reader and writer for Python 2
 ii  python-minimal                     2.7.15~rc1-1                        amd64        minimal subset of the Python language (default version)
 ii  python-six                         1.11.0-2                            all          Python 2 and 3 compatibility library (Python 2 interface)
-ii  python2.7                          2.7.17-1~18.04ubuntu1.2             amd64        Interactive high-level object-oriented language (version 2.7)
-ii  python2.7-minimal                  2.7.17-1~18.04ubuntu1.2             amd64        Minimal subset of the Python language (version 2.7)
+ii  python2.7                          2.7.17-1~18.04ubuntu1.5             amd64        Interactive high-level object-oriented language (version 2.7)
+ii  python2.7-minimal                  2.7.17-1~18.04ubuntu1.5             amd64        Minimal subset of the Python language (version 2.7)
 ii  python3                            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
 ii  python3-distutils                  3.6.9-1~18.04                       all          distutils package for Python 3.x
 ii  python3-lib2to3                    3.6.9-1~18.04                       all          Interactive high-level object-oriented language (2to3, version 3.6)
