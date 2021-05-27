@@ -1,4 +1,4 @@
-Rootfs SHASUM: 1c217dda3cce74646f4b6cb272eea4e4a3ddb44b4b63a166bde52ddd59ab30bf
+Rootfs SHASUM: 85a3ca29799d9f75de162fe59d76a56725f29dc05e209af67b33abd61485929d
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -95,7 +95,7 @@ ii  initramfs-tools-core               0.130ubuntu3.12                     all  
 ii  iproute2                           4.15.0-2ubuntu1.3                   amd64        networking and traffic control tools
 ii  iputils-arping                     3:20161105-1ubuntu3                 amd64        Tool to send ICMP echo requests to an ARP address
 ii  iputils-ping                       3:20161105-1ubuntu3                 amd64        Tools to test the reachability of network hosts
-ii  isc-dhcp-client                    4.3.5-3ubuntu7.2                    amd64        DHCP client for automatically obtaining an IP address
+ii  isc-dhcp-client                    4.3.5-3ubuntu7.3                    amd64        DHCP client for automatically obtaining an IP address
 ii  jq                                 1.5+dfsg-2                          amd64        lightweight and flexible command-line JSON processor
 ii  kbd                                2.0.4-2ubuntu1                      amd64        Linux console font and keytable utilities
 ii  keyboard-configuration             1.178ubuntu2.9                      all          system-wide keyboard preferences
@@ -373,10 +373,10 @@ ii  liborc-0.4-0:amd64                 1:0.4.28-1                          amd64
 ii  libp11-kit-dev:amd64               0.23.9-2ubuntu0.1                   amd64        library for loading and coordinating access to PKCS#11 modules - development
 ii  libp11-kit0:amd64                  0.23.9-2ubuntu0.1                   amd64        library for loading and coordinating access to PKCS#11 modules - runtime
 ii  libpam-cap:amd64                   1:2.25-1.2                          amd64        POSIX 1003.1e capabilities (PAM module)
-ii  libpam-modules:amd64               1.1.8-3.6ubuntu2.18.04.2            amd64        Pluggable Authentication Modules for PAM
-ii  libpam-modules-bin                 1.1.8-3.6ubuntu2.18.04.2            amd64        Pluggable Authentication Modules for PAM - helper binaries
-ii  libpam-runtime                     1.1.8-3.6ubuntu2.18.04.2            all          Runtime support for the PAM library
-ii  libpam0g:amd64                     1.1.8-3.6ubuntu2.18.04.2            amd64        Pluggable Authentication Modules library
+ii  libpam-modules:amd64               1.1.8-3.6ubuntu2.18.04.3            amd64        Pluggable Authentication Modules for PAM
+ii  libpam-modules-bin                 1.1.8-3.6ubuntu2.18.04.3            amd64        Pluggable Authentication Modules for PAM - helper binaries
+ii  libpam-runtime                     1.1.8-3.6ubuntu2.18.04.3            all          Runtime support for the PAM library
+ii  libpam0g:amd64                     1.1.8-3.6ubuntu2.18.04.3            amd64        Pluggable Authentication Modules library
 ii  libpango-1.0-0:amd64               1.40.14-1ubuntu0.1                  amd64        Layout and rendering of internationalized text
 ii  libpango1.0-0:amd64                1.40.14-1ubuntu0.1                  amd64        Layout and rendering of internationalized text (transitional package)
 ii  libpangocairo-1.0-0:amd64          1.40.14-1ubuntu0.1                  amd64        Layout and rendering of internationalized text
