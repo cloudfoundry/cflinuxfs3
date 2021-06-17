@@ -1,4 +1,4 @@
-Rootfs SHASUM: 0f46145ef2f6f3c30c54a26abe0a36208de2c57e70c54fa9e05cb31f2c3b1496
+Rootfs SHASUM: 3a828d271b0436fcd64e1927006d9bb639b707c4176ed1f9eff018501519b1bd
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -251,7 +251,7 @@ ii  libharfbuzz0b:amd64                1.7.2-1ubuntu1                      amd64
 ii  libhcrypto4-heimdal:amd64          7.5.0+dfsg-1                        amd64        Heimdal Kerberos - crypto library
 ii  libheimbase1-heimdal:amd64         7.5.0+dfsg-1                        amd64        Heimdal Kerberos - Base library
 ii  libheimntlm0-heimdal:amd64         7.5.0+dfsg-1                        amd64        Heimdal Kerberos - NTLM support library
-ii  libhogweed4:amd64                  3.4-1ubuntu0.1                      amd64        low level cryptographic library (public-key cryptos)
+ii  libhogweed4:amd64                  3.4.1-0ubuntu0.18.04.1              amd64        low level cryptographic library (public-key cryptos)
 ii  libhtml-parser-perl                3.72-3build1                        amd64        collection of modules that parse HTML text documents
 ii  libhtml-tagset-perl                3.20-3                              all          Data tables pertaining to HTML
 ii  libhx509-5-heimdal:amd64           7.5.0+dfsg-1                        amd64        Heimdal Kerberos - X509 support library
@@ -352,7 +352,7 @@ ii  libncurses5:amd64                  6.1-1ubuntu1.18.04                  amd64
 ii  libncurses5-dev:amd64              6.1-1ubuntu1.18.04                  amd64        developer's libraries for ncurses
 ii  libncursesw5:amd64                 6.1-1ubuntu1.18.04                  amd64        shared libraries for terminal handling (wide character support)
 ii  libnetplan0:amd64                  0.99-0ubuntu3~18.04.4               amd64        YAML network configuration abstraction runtime library
-ii  libnettle6:amd64                   3.4-1ubuntu0.1                      amd64        low level cryptographic library (symmetric and one-way cryptos)
+ii  libnettle6:amd64                   3.4.1-0ubuntu0.18.04.1              amd64        low level cryptographic library (symmetric and one-way cryptos)
 ii  libnewt0.52:amd64                  0.52.20-1ubuntu1                    amd64        Not Erik's Windowing Toolkit - text mode windowing with slang
 ii  libnghttp2-14:amd64                1.30.0-1ubuntu1                     amd64        library implementing HTTP/2 protocol (shared library)
 ii  libnih-dbus1:amd64                 1.0.3-6ubuntu2                      amd64        NIH D-Bus Bindings Library
@@ -459,7 +459,7 @@ ii  libsub-name-perl                   0.21-1build1                        amd64
 ii  libsvn1:amd64                      1.9.7-4ubuntu1                      amd64        Shared libraries used by Apache Subversion
 ii  libswresample2:amd64               7:3.4.8-0ubuntu0.2                  amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                    2.1.0+repack-4build1                amd64        interface library to sysfs
-ii  libsystemd0:amd64                  237-3ubuntu10.47                    amd64        systemd utility library
+ii  libsystemd0:amd64                  237-3ubuntu10.48                    amd64        systemd utility library
 ii  libtasn1-6:amd64                   4.13-2                              amd64        Manage ASN.1 structures (runtime)
 ii  libtasn1-6-dev:amd64               4.13-2                              amd64        Manage ASN.1 structures (development)
 ii  libterm-ui-perl                    0.46-1                              all          Term::ReadLine UI made easy
@@ -480,7 +480,7 @@ ii  libtirpc1:amd64                    0.2.5-1.2ubuntu0.1                  amd64
 ii  libtsan0:amd64                     8.4.0-1ubuntu1~18.04                amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                  0.3.13-3                            amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan0:amd64                    7.5.0-3ubuntu1~18.04                amd64        UBSan -- undefined behaviour sanitizer (runtime)
-ii  libudev1:amd64                     237-3ubuntu10.47                    amd64        libudev shared library
+ii  libudev1:amd64                     237-3ubuntu10.48                    amd64        libudev shared library
 ii  libunbound2:amd64                  1.6.7-1ubuntu2.4                    amd64        library implementing DNS resolution and validation
 ii  libunistring2:amd64                0.9.9-0ubuntu2                      amd64        Unicode string library for C
 ii  libunwind8:amd64                   1.2.1-8                             amd64        library to determine the call-chain of a program - runtime
@@ -569,7 +569,7 @@ ii  net-tools                          1.60+git20161116.90da8a0-1ubuntu1   amd64
 ii  netbase                            5.4                                 all          Basic TCP/IP networking system
 ii  netcat-openbsd                     1.187-1ubuntu0.1                    amd64        TCP/IP swiss army knife
 ii  netplan.io                         0.99-0ubuntu3~18.04.4               amd64        YAML network configuration abstraction for various backends
-ii  nettle-dev:amd64                   3.4-1ubuntu0.1                      amd64        low level cryptographic library (development files)
+ii  nettle-dev:amd64                   3.4.1-0ubuntu0.18.04.1              amd64        low level cryptographic library (development files)
 ii  nplan                              0.99-0ubuntu3~18.04.4               all          YAML network configuration abstraction - transitional package
 ii  ocaml-base-nox                     4.05.0-10ubuntu1                    amd64        Runtime system for OCaml bytecode executables (no X)
 ii  odbcinst                           2.3.4-1.1ubuntu3                    amd64        Helper program for accessing odbc ini files
@@ -623,8 +623,8 @@ ii  strace                             4.21-1ubuntu1                       amd64
 ii  subversion                         1.9.7-4ubuntu1                      amd64        Advanced version control system
 ii  sudo                               1.8.21p2-3ubuntu1.4                 amd64        Provide limited super user privileges to specific users
 ii  sysstat                            11.6.1-1ubuntu0.1                   amd64        system performance tools for Linux
-ii  systemd                            237-3ubuntu10.47                    amd64        system and service manager
-ii  systemd-sysv                       237-3ubuntu10.47                    amd64        system and service manager - SysV links
+ii  systemd                            237-3ubuntu10.48                    amd64        system and service manager
+ii  systemd-sysv                       237-3ubuntu10.48                    amd64        system and service manager - SysV links
 ii  sysvinit-utils                     2.88dsf-59.10ubuntu1                amd64        System-V-like utilities
 ii  tar                                1.29b-2ubuntu0.2                    amd64        GNU version of the tar archiving utility
 ii  tasksel                            3.34ubuntu11                        all          tool for selecting tasks for installation on Debian systems
@@ -637,7 +637,7 @@ ii  ubuntu-advantage-tools             27.0.2~18.04.1                      amd64
 ii  ubuntu-keyring                     2018.09.18.1~18.04.2                all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.5                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                              all          Update Configuration File(s): preserve user changes to config files
-ii  udev                               237-3ubuntu10.47                    amd64        /dev/ and hotplug management daemon
+ii  udev                               237-3ubuntu10.48                    amd64        /dev/ and hotplug management daemon
 ii  unixodbc-dev:amd64                 2.3.4-1.1ubuntu3                    amd64        ODBC libraries for UNIX (development files)
 ii  unzip                              6.0-21ubuntu1.1                     amd64        De-archiver for .zip files
 ii  ureadahead                         0.100.0-21                          amd64        Read required files in advance
