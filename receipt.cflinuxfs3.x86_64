@@ -1,4 +1,4 @@
-Rootfs SHASUM: 311da4e769b4955a8bce706b1f2e043ee72d451a0fa7cef1b233ee6f38509e47
+Rootfs SHASUM: 96278a934ec91be539a001013abc3279e92fd39d303aa97743929864e06352f9
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -633,7 +633,7 @@ ii  tcpdump                            4.9.3-0ubuntu0.18.04.1              amd64
 ii  traceroute                         1:2.1.0-2                           amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                              all          transitional dummy package
 ii  tzdata                             2021a-0ubuntu0.18.04                all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.1~18.04.1                        amd64        management tools for Ubuntu Advantage
+ii  ubuntu-advantage-tools             27.2.2~18.04.1                      amd64        management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2018.09.18.1~18.04.2                all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.5                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                              all          Update Configuration File(s): preserve user changes to config files
