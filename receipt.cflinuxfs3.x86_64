@@ -1,4 +1,4 @@
-Rootfs SHASUM: 63a448fa5728ac1996f41fd99d72de5747ea59a305b6a1cb62f04082719505fc
+Rootfs SHASUM: 5dbf2d732da0dd795f0320a2783f88b53d71d713de5505c9b67049fba6a63b88
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -31,7 +31,7 @@ ii  comerr-dev:amd64                   2.1-1.44.1-1ubuntu1.3               amd64
 ii  console-setup                      1.178ubuntu2.9                      all          console font and keymap setup program
 ii  console-setup-linux                1.178ubuntu2.9                      all          Linux specific part of console-setup
 ii  coreutils                          8.28-1ubuntu1                       amd64        GNU core utilities
-ii  cpio                               2.12+dfsg-6ubuntu0.18.04.1          amd64        GNU cpio -- a program to manage archives of files
+ii  cpio                               2.12+dfsg-6ubuntu0.18.04.4          amd64        GNU cpio -- a program to manage archives of files
 ii  cpp                                4:7.4.0-1ubuntu2.3                  amd64        GNU C preprocessor (cpp)
 ii  cpp-7                              7.5.0-3ubuntu1~18.04                amd64        GNU C preprocessor
 ii  cron                               3.0pl1-128.1ubuntu1                 amd64        process scheduling daemon
@@ -209,8 +209,8 @@ ii  libgcc-7-dev:amd64                 7.5.0-3ubuntu1~18.04                amd64
 ii  libgcc1:amd64                      1:8.4.0-1ubuntu1~18.04              amd64        GCC support library
 ii  libgcrypt20:amd64                  1.8.1-4ubuntu1.2                    amd64        LGPL Crypto library - runtime library
 ii  libgcrypt20-dev                    1.8.1-4ubuntu1.2                    amd64        LGPL Crypto library - development files
-ii  libgd-dev:amd64                    2.2.5-4ubuntu0.4                    amd64        GD Graphics Library (development version)
-ii  libgd3:amd64                       2.2.5-4ubuntu0.4                    amd64        GD Graphics Library
+ii  libgd-dev:amd64                    2.2.5-4ubuntu0.5                    amd64        GD Graphics Library (development version)
+ii  libgd3:amd64                       2.2.5-4ubuntu0.5                    amd64        GD Graphics Library
 ii  libgdbm-compat4:amd64              1.14.1-6                            amd64        GNU dbm database routines (legacy support runtime version) 
 ii  libgdbm5:amd64                     1.14.1-6                            amd64        GNU dbm database routines (runtime version) 
 ii  libgdk-pixbuf2.0-0:amd64           2.36.11-2                           amd64        GDK Pixbuf library
@@ -544,7 +544,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.2               amd64
 ii  libzvbi-common                     0.2.35-13                           all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                           amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1.6                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-154.161                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-156.163                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1.4                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                        amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2                      amd64        system login tools
