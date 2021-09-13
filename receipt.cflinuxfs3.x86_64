@@ -1,4 +1,4 @@
-Rootfs SHASUM: 5dbf2d732da0dd795f0320a2783f88b53d71d713de5505c9b67049fba6a63b88
+Rootfs SHASUM: 82976cb8559d3ae363b3bf33f089b783f69678c9f1397ca308113e789f6662b0
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -11,7 +11,7 @@ ii  apt-utils                          1.6.14                              amd64
 ii  aptitude                           0.8.10-6ubuntu1                     amd64        terminal-based package manager
 ii  aptitude-common                    0.8.10-6ubuntu1                     all          architecture independent files for the aptitude package manager
 ii  autoconf                           2.69-11                             all          automatic configure script builder
-ii  base-files                         10.1ubuntu2.10                      amd64        Debian base system miscellaneous files
+ii  base-files                         10.1ubuntu2.11                      amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.5.44                              amd64        Debian base system master password and group files
 ii  bash                               4.4.18-2ubuntu1.2                   amd64        GNU Bourne Again SHell
 ii  bind9-host                         1:9.11.3+dfsg-1ubuntu1.15           amd64        DNS lookup utility (deprecated)
@@ -70,8 +70,8 @@ ii  gir1.2-gdkpixbuf-2.0:amd64         2.36.11-2                           amd64
 ii  gir1.2-glib-2.0:amd64              1.56.1-1                            amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-harfbuzz-0.0:amd64          1.7.2-1ubuntu1                      amd64        OpenType text shaping engine (GObject introspection data)
 ii  gir1.2-rsvg-2.0:amd64              2.40.20-2ubuntu0.2                  amd64        gir files for renderer library for SVG files
-ii  git                                1:2.17.1-1ubuntu0.8                 amd64        fast, scalable, distributed revision control system
-ii  git-man                            1:2.17.1-1ubuntu0.8                 all          fast, scalable, distributed revision control system (manual pages)
+ii  git                                1:2.17.1-1ubuntu0.9                 amd64        fast, scalable, distributed revision control system
+ii  git-man                            1:2.17.1-1ubuntu0.9                 all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                             1.4.22-3ubuntu2                     amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                               2.2.4-1ubuntu1.4                    amd64        GNU privacy guard - signature verification tool
 ii  graphviz                           2.40.1-2                            amd64        rich set of graph drawing tools
