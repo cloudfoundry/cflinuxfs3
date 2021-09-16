@@ -1,4 +1,4 @@
-Rootfs SHASUM: 84bb5b477b0760b860e4ec68dd08fad34a46e81adce90e011d51f8ca24d760b4
+Rootfs SHASUM: 831e146b20685327f0d3582200f118075e9d24223aba6bab325fe0c0652d5420
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -207,8 +207,8 @@ ii  libfribidi0:amd64                  0.19.7-2                            amd64
 ii  libfuse2:amd64                     2.9.7-1ubuntu1                      amd64        Filesystem in Userspace (library)
 ii  libgcc-7-dev:amd64                 7.5.0-3ubuntu1~18.04                amd64        GCC support library (development files)
 ii  libgcc1:amd64                      1:8.4.0-1ubuntu1~18.04              amd64        GCC support library
-ii  libgcrypt20:amd64                  1.8.1-4ubuntu1.2                    amd64        LGPL Crypto library - runtime library
-ii  libgcrypt20-dev                    1.8.1-4ubuntu1.2                    amd64        LGPL Crypto library - development files
+ii  libgcrypt20:amd64                  1.8.1-4ubuntu1.3                    amd64        LGPL Crypto library - runtime library
+ii  libgcrypt20-dev                    1.8.1-4ubuntu1.3                    amd64        LGPL Crypto library - development files
 ii  libgd-dev:amd64                    2.2.5-4ubuntu0.5                    amd64        GD Graphics Library (development version)
 ii  libgd3:amd64                       2.2.5-4ubuntu0.5                    amd64        GD Graphics Library
 ii  libgdbm-compat4:amd64              1.14.1-6                            amd64        GNU dbm database routines (legacy support runtime version) 
@@ -227,11 +227,11 @@ ii  libglib2.0-dev-bin                 2.56.4-0ubuntu0.18.04.8             amd64
 ii  libgmp-dev:amd64                   2:6.1.2+dfsg-2                      amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                     2:6.1.2+dfsg-2                      amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64                2:6.1.2+dfsg-2                      amd64        Multiprecision arithmetic library (C++ bindings)
-ii  libgnutls-dane0:amd64              3.5.18-1ubuntu1.4                   amd64        GNU TLS library - DANE security support
-ii  libgnutls-openssl27:amd64          3.5.18-1ubuntu1.4                   amd64        GNU TLS library - OpenSSL wrapper
-ii  libgnutls28-dev:amd64              3.5.18-1ubuntu1.4                   amd64        GNU TLS library - development files
-ii  libgnutls30:amd64                  3.5.18-1ubuntu1.4                   amd64        GNU TLS library - main runtime library
-ii  libgnutlsxx28:amd64                3.5.18-1ubuntu1.4                   amd64        GNU TLS library - C++ runtime library
+ii  libgnutls-dane0:amd64              3.5.18-1ubuntu1.5                   amd64        GNU TLS library - DANE security support
+ii  libgnutls-openssl27:amd64          3.5.18-1ubuntu1.5                   amd64        GNU TLS library - OpenSSL wrapper
+ii  libgnutls28-dev:amd64              3.5.18-1ubuntu1.5                   amd64        GNU TLS library - development files
+ii  libgnutls30:amd64                  3.5.18-1ubuntu1.5                   amd64        GNU TLS library - main runtime library
+ii  libgnutlsxx28:amd64                3.5.18-1ubuntu1.5                   amd64        GNU TLS library - C++ runtime library
 ii  libgomp1:amd64                     8.4.0-1ubuntu1~18.04                amd64        GCC OpenMP (GOMP) support library
 ii  libgpg-error-dev                   1.27-6                              amd64        library for common error values and messages in GnuPG components (development)
 ii  libgpg-error0:amd64                1.27-6                              amd64        library for common error values and messages in GnuPG components
