@@ -16,10 +16,6 @@ RUN echo "debconf debconf/frontend select noninteractive" | debconf-set-selectio
   apt-get -y $package_args install $packages && \
   apt-get clean && \
   find /usr/share/doc/*/* ! -name copyright | xargs rm -rf && \
-  rm -rf \
-    /usr/share/man/* /usr/share/info/* \
-    /usr/share/groff/* /usr/share/lintian/* /usr/share/linda/* \
-    /var/lib/apt/lists/* /tmp/*
 
 RUN echo 'LANG="en_US.UTF-8"' > /etc/default/locale && \
   echo "$locales" | grep -f - /usr/share/i18n/SUPPORTED | cut -d " " -f 1 | xargs locale-gen && \
