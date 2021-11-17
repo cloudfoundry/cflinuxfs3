@@ -1,4 +1,4 @@
-Rootfs SHASUM: 6ff8dfad526702f4f3d1570a6e5d1bce3b5ac8c9eba5a6ded24de7b60dd9ad3c
+Rootfs SHASUM: a667ee17ca1365374c03b6dea00aee42f37b1dc72a0dfd68c332a3cecafeb0dd
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -588,6 +588,7 @@ ii  pkg-config                         0.29.1-0ubuntu2                     amd64
 ii  procps                             2:3.3.12-3ubuntu1.2                 amd64        /proc file system utilities
 ii  psmisc                             23.1-1ubuntu0.1                     amd64        utilities that use the proc file system
 ii  python                             2.7.15~rc1-1                        amd64        interactive high-level object-oriented language (default version)
+ii  python-apt-common                  1.6.5ubuntu0.7                      all          Python interface to libapt-pkg (locales)
 ii  python-bzrlib                      2.7.0+bzr6622-10                    amd64        distributed version control system - python library
 ii  python-configobj                   5.0.6-2                             all          simple but powerful config file reader and writer for Python 2
 ii  python-minimal                     2.7.15~rc1-1                        amd64        minimal subset of the Python language (default version)
@@ -595,6 +596,7 @@ ii  python-six                         1.11.0-2                            all  
 ii  python2.7                          2.7.17-1~18.04ubuntu1.6             amd64        Interactive high-level object-oriented language (version 2.7)
 ii  python2.7-minimal                  2.7.17-1~18.04ubuntu1.6             amd64        Minimal subset of the Python language (version 2.7)
 ii  python3                            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
+ii  python3-apt                        1.6.5ubuntu0.7                      amd64        Python 3 interface to libapt-pkg
 ii  python3-distutils                  3.6.9-1~18.04                       all          distutils package for Python 3.x
 ii  python3-lib2to3                    3.6.9-1~18.04                       all          Interactive high-level object-oriented language (2to3, version 3.6)
 ii  python3-minimal                    3.6.7-1~18.04                       amd64        minimal subset of the Python language (default python3 version)
@@ -633,7 +635,7 @@ ii  tcpdump                            4.9.3-0ubuntu0.18.04.1              amd64
 ii  traceroute                         1:2.1.0-2                           amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                              all          transitional dummy package
 ii  tzdata                             2021e-0ubuntu0.18.04                all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.3~18.04.1                        amd64        management tools for Ubuntu Advantage
+ii  ubuntu-advantage-tools             27.4.1~18.04.1                      amd64        management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2018.09.18.1~18.04.2                all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.5                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                              all          Update Configuration File(s): preserve user changes to config files
