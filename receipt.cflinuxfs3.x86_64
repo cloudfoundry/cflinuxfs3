@@ -1,4 +1,4 @@
-Rootfs SHASUM: f439c4336222a47b0c826e2c01b5dc9ce3bd54efa2134610ce34c7c882490f13
+Rootfs SHASUM: b7b605309717374ec3106456b3239c64c5b71976c47d17a80c9be174ba8d281d
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -407,9 +407,9 @@ ii  libpython-stdlib:amd64             2.7.15~rc1-1                        amd64
 ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1.6             amd64        Minimal subset of the Python language (version 2.7)
 ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1.6             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
 ii  libpython3-stdlib:amd64            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1.4              amd64        Shared Python runtime library (version 3.6)
-ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1.4              amd64        Minimal subset of the Python language (version 3.6)
-ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1.4              amd64        Interactive high-level object-oriented language (standard library, version 3.6)
+ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1.6              amd64        Shared Python runtime library (version 3.6)
+ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1.6              amd64        Minimal subset of the Python language (version 3.6)
+ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1.6              amd64        Interactive high-level object-oriented language (standard library, version 3.6)
 ii  libquadmath0:amd64                 8.4.0-1ubuntu1~18.04                amd64        GCC Quad-Precision Math Library
 ii  libreadline-dev:amd64              7.0-3                               amd64        GNU readline and history libraries, development files
 ii  libreadline7:amd64                 7.0-3                               amd64        GNU readline and history libraries, run-time libraries
@@ -426,7 +426,7 @@ ii  libsasl2-dev                       2.1.27~101-g0780600+dfsg-3ubuntu2.3 amd64
 ii  libsasl2-modules:amd64             2.1.27~101-g0780600+dfsg-3ubuntu2.3 amd64        Cyrus SASL - pluggable authentication modules
 ii  libsasl2-modules-db:amd64          2.1.27~101-g0780600+dfsg-3ubuntu2.3 amd64        Cyrus SASL - pluggable authentication modules (DB)
 ii  libsasl2-modules-gssapi-mit:amd64  2.1.27~101-g0780600+dfsg-3ubuntu2.3 amd64        Cyrus SASL - pluggable authentication modules (GSSAPI)
-ii  libseccomp2:amd64                  2.5.1-1ubuntu1~18.04.1              amd64        high level interface to Linux seccomp filter
+ii  libseccomp2:amd64                  2.5.1-1ubuntu1~18.04.2              amd64        high level interface to Linux seccomp filter
 ii  libselinux1:amd64                  2.7-2build2                         amd64        SELinux runtime shared libraries
 ii  libselinux1-dev:amd64              2.7-2build2                         amd64        SELinux development headers
 ii  libsemanage-common                 2.7-2build2                         all          Common files for SELinux policy management libraries
@@ -603,8 +603,8 @@ ii  python3-minimal                    3.6.7-1~18.04                       amd64
 ii  python3-netifaces                  0.10.4-0.1build4                    amd64        portable network interface information - Python 3.x
 ii  python3-pkg-resources              39.0.1-2                            all          Package Discovery and Resource Access using pkg_resources
 ii  python3-yaml                       3.12-1build2                        amd64        YAML parser and emitter for Python3
-ii  python3.6                          3.6.9-1~18.04ubuntu1.4              amd64        Interactive high-level object-oriented language (version 3.6)
-ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1.4              amd64        Minimal subset of the Python language (version 3.6)
+ii  python3.6                          3.6.9-1~18.04ubuntu1.6              amd64        Interactive high-level object-oriented language (version 3.6)
+ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1.6              amd64        Minimal subset of the Python language (version 3.6)
 ii  quota                              4.04-2ubuntu0.1                     amd64        disk quota management tools
 ii  rake                               12.3.1-1ubuntu0.1                   all          ruby make-like utility
 ii  readline-common                    7.0-3                               all          GNU readline and history libraries, common files
