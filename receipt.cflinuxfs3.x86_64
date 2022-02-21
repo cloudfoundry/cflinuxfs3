@@ -1,4 +1,4 @@
-Rootfs SHASUM: d5657eb5843a76a6edebf310faf2e93e01ca8e5d451fe1d2d07d0ffe06b7c746
+Rootfs SHASUM: aa3cb6d552a92346434111a933ea2eb0fc7d28ff6c22f107d88311791efbb3e1
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -188,8 +188,8 @@ ii  libestr0:amd64                     0.1.10-2.1                          amd64
 ii  libevent-2.1-6:amd64               2.1.8-stable-4build1                amd64        Asynchronous event notification library
 ii  libexif-dev:amd64                  0.6.21-4ubuntu0.6                   amd64        library to parse EXIF files (development files)
 ii  libexif12:amd64                    0.6.21-4ubuntu0.6                   amd64        library to parse EXIF files
-ii  libexpat1:amd64                    2.2.5-3ubuntu0.2                    amd64        XML parsing C library - runtime library
-ii  libexpat1-dev:amd64                2.2.5-3ubuntu0.2                    amd64        XML parsing C library - development kit
+ii  libexpat1:amd64                    2.2.5-3ubuntu0.4                    amd64        XML parsing C library - runtime library
+ii  libexpat1-dev:amd64                2.2.5-3ubuntu0.4                    amd64        XML parsing C library - development kit
 ii  libext2fs2:amd64                   1.44.1-1ubuntu1.3                   amd64        ext2/ext3/ext4 file system libraries
 ii  libfakeroot:amd64                  1.22-2ubuntu1                       amd64        tool for simulating superuser privileges - shared libraries
 ii  libfdisk1:amd64                    2.31.1-0.4ubuntu3.7                 amd64        fdisk partitioning library
@@ -444,7 +444,7 @@ ii  libsm6:amd64                       2:1.2.2-1                           amd64
 ii  libsmartcols1:amd64                2.31.1-0.4ubuntu3.7                 amd64        smart column output alignment library
 ii  libsnappy1v5:amd64                 1.1.7-1                             amd64        fast compression/decompression library
 ii  libsoxr0:amd64                     0.1.2-3                             amd64        High quality 1D sample-rate conversion library
-ii  libspeex1:amd64                    1.2~rc1.2-1ubuntu2                  amd64        The Speex codec runtime library
+ii  libspeex1:amd64                    1.2~rc1.2-1ubuntu2.1                amd64        The Speex codec runtime library
 ii  libsqlite0                         2.8.17-14fakesync1                  amd64        SQLite 2 shared library
 ii  libsqlite0-dev                     2.8.17-14fakesync1                  amd64        SQLite 2 development files
 ii  libsqlite3-0:amd64                 3.22.0-1ubuntu0.4                   amd64        SQLite 3 shared library
@@ -497,7 +497,7 @@ ii  libvorbisenc2:amd64                1.3.5-4.2                           amd64
 ii  libvpx-dev:amd64                   1.7.0-3ubuntu0.18.04.1              amd64        VP8 and VP9 video codec (development files)
 ii  libvpx5:amd64                      1.7.0-3ubuntu0.18.04.1              amd64        VP8 and VP9 video codec (shared library)
 ii  libwavpack1:amd64                  5.1.0-2ubuntu1.5                    amd64        audio codec (lossy and lossless) - library
-ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.27     amd64        Samba winbind client library
+ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.28     amd64        Samba winbind client library
 ii  libwebp6:amd64                     0.6.1-2ubuntu0.18.04.1              amd64        Lossy compression of digital photographic images.
 ii  libwebpmux3:amd64                  0.6.1-2ubuntu0.18.04.1              amd64        Lossy compression of digital photographic images.
 ii  libwind0-heimdal:amd64             7.5.0+dfsg-1                        amd64        Heimdal Kerberos - stringprep implementation
@@ -544,7 +544,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.2               amd64
 ii  libzvbi-common                     0.2.35-13                           all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                           amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1.7                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-166.174                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-169.177                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1.4                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                        amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2.2                    amd64        system login tools
@@ -574,9 +574,9 @@ ii  nplan                              0.99-0ubuntu3~18.04.5               all  
 ii  ocaml-base-nox                     4.05.0-10ubuntu1                    amd64        Runtime system for OCaml bytecode executables (no X)
 ii  odbcinst                           2.3.4-1.1ubuntu3                    amd64        Helper program for accessing odbc ini files
 ii  odbcinst1debian2:amd64             2.3.4-1.1ubuntu3                    amd64        Support library for accessing odbc ini files
-ii  openssh-client                     1:7.6p1-4ubuntu0.5                  amd64        secure shell (SSH) client, for secure access to remote machines
-ii  openssh-server                     1:7.6p1-4ubuntu0.5                  amd64        secure shell (SSH) server, for secure access from remote machines
-ii  openssh-sftp-server                1:7.6p1-4ubuntu0.5                  amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii  openssh-client                     1:7.6p1-4ubuntu0.6                  amd64        secure shell (SSH) client, for secure access to remote machines
+ii  openssh-server                     1:7.6p1-4ubuntu0.6                  amd64        secure shell (SSH) server, for secure access from remote machines
+ii  openssh-sftp-server                1:7.6p1-4ubuntu0.6                  amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii  openssl                            1.1.1-1ubuntu2.1~18.04.14           amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  openssl1.0                         1.0.2n-1ubuntu5.7                   amd64        Secure Sockets Layer toolkit 1.0 - cryptographic utility
 ii  passwd                             1:4.5-1ubuntu2.2                    amd64        change and administer password and group data
@@ -635,7 +635,7 @@ ii  tcpdump                            4.9.3-0ubuntu0.18.04.1              amd64
 ii  traceroute                         1:2.1.0-2                           amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                              all          transitional dummy package
 ii  tzdata                             2021e-0ubuntu0.18.04                all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.5~18.04.1                        amd64        management tools for Ubuntu Advantage
+ii  ubuntu-advantage-tools             27.6~18.04.1                        amd64        management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2018.09.18.1~18.04.2                all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.5                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                              all          Update Configuration File(s): preserve user changes to config files
