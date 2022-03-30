@@ -1,4 +1,4 @@
-Rootfs SHASUM: 4ffa0035e7e1874f7a1d3dc23ea930e6cbd3e14173b9c5a84004b949e09fb242
+Rootfs SHASUM: a573d67b6280fa295e66ffa7d501660c777982f0b4cf723b070d56146878e3d0
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -544,7 +544,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.2               amd64
 ii  libzvbi-common                     0.2.35-13                           all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                           amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1.7                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-173.182                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-175.184                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1.5                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                        amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2.2                    amd64        system login tools
@@ -659,5 +659,5 @@ ii  xtrans-dev                         1.3.5-1                             all  
 ii  xxd                                2:8.0.1453-1ubuntu1.8               amd64        tool to make (or reverse) a hex dump
 ii  xz-utils                           5.2.2-1.3                           amd64        XZ-format compression utilities
 ii  zip                                3.0-11build1                        amd64        Archiver for .zip files
-ii  zlib1g:amd64                       1:1.2.11.dfsg-0ubuntu2              amd64        compression library - runtime
-ii  zlib1g-dev:amd64                   1:1.2.11.dfsg-0ubuntu2              amd64        compression library - development
+ii  zlib1g:amd64                       1:1.2.11.dfsg-0ubuntu2.1            amd64        compression library - runtime
+ii  zlib1g-dev:amd64                   1:1.2.11.dfsg-0ubuntu2.1            amd64        compression library - development
