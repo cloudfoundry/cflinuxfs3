@@ -1,4 +1,4 @@
-Rootfs SHASUM: 06738c906be2260aa36882b4c112a1d1e244023e37bfbc76d7a2428de58a6888
+Rootfs SHASUM: 99f72dbfd2c2804bd03bf886a47a0b6109d2a0c2b660c9cd195a7b2199498848
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -203,7 +203,7 @@ ii  libfontconfig1:amd64               2.12.6-0ubuntu2                     amd64
 ii  libfontconfig1-dev:amd64           2.12.6-0ubuntu2                     amd64        generic font configuration library - development
 ii  libfreetype6:amd64                 2.8.1-2ubuntu2.1                    amd64        FreeType 2 font engine, shared library files
 ii  libfreetype6-dev:amd64             2.8.1-2ubuntu2.1                    amd64        FreeType 2 font engine, development files
-ii  libfribidi0:amd64                  0.19.7-2                            amd64        Free Implementation of the Unicode BiDi algorithm
+ii  libfribidi0:amd64                  0.19.7-2ubuntu0.1                   amd64        Free Implementation of the Unicode BiDi algorithm
 ii  libfuse2:amd64                     2.9.7-1ubuntu1                      amd64        Filesystem in Userspace (library)
 ii  libgcc-7-dev:amd64                 7.5.0-3ubuntu1~18.04                amd64        GCC support library (development files)
 ii  libgcc1:amd64                      1:8.4.0-1ubuntu1~18.04              amd64        GCC support library
@@ -295,7 +295,7 @@ ii  libk5crypto3:amd64                 1.16-2ubuntu0.2                     amd64
 ii  libkadm5clnt-mit11:amd64           1.16-2ubuntu0.2                     amd64        MIT Kerberos runtime libraries - Administration Clients
 ii  libkadm5srv-mit11:amd64            1.16-2ubuntu0.2                     amd64        MIT Kerberos runtime libraries - KDC and Admin Server
 ii  libkdb5-9:amd64                    1.16-2ubuntu0.2                     amd64        MIT Kerberos runtime libraries - Kerberos database
-ii  libkeyutils1:amd64                 1.5.9-9.2ubuntu2                    amd64        Linux Key Management Utilities (library)
+ii  libkeyutils1:amd64                 1.5.9-9.2ubuntu2.1                  amd64        Linux Key Management Utilities (library)
 ii  libklibc                           2.0.4-9ubuntu2                      amd64        minimal libc subset for use with initramfs
 ii  libkmod2:amd64                     24-1ubuntu3.5                       amd64        libkmod shared library
 ii  libkrb5-26-heimdal:amd64           7.5.0+dfsg-1                        amd64        Heimdal Kerberos - libraries
@@ -635,7 +635,7 @@ ii  tcpdump                            4.9.3-0ubuntu0.18.04.1              amd64
 ii  traceroute                         1:2.1.0-2                           amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                              all          transitional dummy package
 ii  tzdata                             2022a-0ubuntu0.18.04                all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.6~18.04.1                        amd64        management tools for Ubuntu Advantage
+ii  ubuntu-advantage-tools             27.7~18.04.1                        amd64        management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2018.09.18.1~18.04.2                all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.5                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                              all          Update Configuration File(s): preserve user changes to config files
