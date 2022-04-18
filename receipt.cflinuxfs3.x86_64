@@ -1,4 +1,4 @@
-Rootfs SHASUM: 9ac6d2bc3f2082adcfbd20de88c102b508aa31a69048a33aac4d515956e2dde6
+Rootfs SHASUM: b718348913e9f9a440aaf5067c181fcbaa3d13c6830f556454dedf33602f6ff0
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -99,7 +99,7 @@ ii  isc-dhcp-client                    4.3.5-3ubuntu7.3                    amd64
 ii  jq                                 1.5+dfsg-2                          amd64        lightweight and flexible command-line JSON processor
 ii  kbd                                2.0.4-2ubuntu1                      amd64        Linux console font and keytable utilities
 ii  keyboard-configuration             1.178ubuntu2.9                      all          system-wide keyboard preferences
-ii  klibc-utils                        2.0.4-9ubuntu2                      amd64        small utilities built with klibc for early boot
+ii  klibc-utils                        2.0.4-9ubuntu2.1                    amd64        small utilities built with klibc for early boot
 ii  kmod                               24-1ubuntu3.5                       amd64        tools for managing Linux kernel modules
 ii  krb5-config                        2.6                                 all          Configuration files for Kerberos Version 5
 ii  krb5-multidev:amd64                1.16-2ubuntu0.2                     amd64        development files for MIT Kerberos without Heimdal conflict
@@ -296,7 +296,7 @@ ii  libkadm5clnt-mit11:amd64           1.16-2ubuntu0.2                     amd64
 ii  libkadm5srv-mit11:amd64            1.16-2ubuntu0.2                     amd64        MIT Kerberos runtime libraries - KDC and Admin Server
 ii  libkdb5-9:amd64                    1.16-2ubuntu0.2                     amd64        MIT Kerberos runtime libraries - Kerberos database
 ii  libkeyutils1:amd64                 1.5.9-9.2ubuntu2.1                  amd64        Linux Key Management Utilities (library)
-ii  libklibc                           2.0.4-9ubuntu2                      amd64        minimal libc subset for use with initramfs
+ii  libklibc                           2.0.4-9ubuntu2.1                    amd64        minimal libc subset for use with initramfs
 ii  libkmod2:amd64                     24-1ubuntu3.5                       amd64        libkmod shared library
 ii  libkrb5-26-heimdal:amd64           7.5.0+dfsg-1                        amd64        Heimdal Kerberos - libraries
 ii  libkrb5-3:amd64                    1.16-2ubuntu0.2                     amd64        MIT Kerberos runtime libraries
