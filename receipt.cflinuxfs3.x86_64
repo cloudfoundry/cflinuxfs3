@@ -1,4 +1,4 @@
-Rootfs SHASUM: b718348913e9f9a440aaf5067c181fcbaa3d13c6830f556454dedf33602f6ff0
+Rootfs SHASUM: 783b60b1c24d1a49660960364c258f5b7db6e8f08001ec994e4e58d142d370e8
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -13,7 +13,7 @@ ii  aptitude-common                    0.8.10-6ubuntu1                     all  
 ii  autoconf                           2.69-11                             all          automatic configure script builder
 ii  base-files                         10.1ubuntu2.11                      amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.5.44                              amd64        Debian base system master password and group files
-ii  bash                               4.4.18-2ubuntu1.2                   amd64        GNU Bourne Again SHell
+ii  bash                               4.4.18-2ubuntu1.3                   amd64        GNU Bourne Again SHell
 ii  bind9-host                         1:9.11.3+dfsg-1ubuntu1.17           amd64        DNS lookup utility (deprecated)
 ii  binutils                           2.30-21ubuntu1~18.04.7              amd64        GNU assembler, linker and binary utilities
 ii  binutils-common:amd64              2.30-21ubuntu1~18.04.7              amd64        Common files for the GNU assembler, linker and binary utilities
@@ -544,7 +544,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.2               amd64
 ii  libzvbi-common                     0.2.35-13                           all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                           amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1.7                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-175.184                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-176.185                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1.5                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                        amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2.2                    amd64        system login tools
