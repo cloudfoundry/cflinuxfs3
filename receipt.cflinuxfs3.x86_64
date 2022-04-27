@@ -1,4 +1,4 @@
-Rootfs SHASUM: 581844355969c4eb7c0dba39c85e8e0b41398854fb52f711b418dcc6fde555e8
+Rootfs SHASUM: e3421f4c2eb525ab54b3a3625fc1cff3023d54387f3a9e966d38617aee580496
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -43,7 +43,7 @@ ii  debianutils                        4.8.4                               amd64
 ii  dh-python                          3.20180325ubuntu2                   all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                             amd64        File comparison utilities
 ii  distro-info                        0.18ubuntu0.18.04.1                 amd64        provides information about the distributions' releases
-ii  distro-info-data                   0.37ubuntu0.13                      all          information about the distributions' releases (data files)
+ii  distro-info-data                   0.37ubuntu0.14                      all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.17           amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.3                   amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.3                   all          Debian package development tools
@@ -432,8 +432,8 @@ ii  libselinux1-dev:amd64              2.7-2build2                         amd64
 ii  libsemanage-common                 2.7-2build2                         all          Common files for SELinux policy management libraries
 ii  libsemanage1:amd64                 2.7-2build2                         amd64        SELinux policy management library
 ii  libsensors4:amd64                  1:3.4.0-4                           amd64        library to read temperature/voltage/fan sensors
-ii  libsepol1:amd64                    2.7-1                               amd64        SELinux library for manipulating binary security policies
-ii  libsepol1-dev:amd64                2.7-1                               amd64        SELinux binary policy manipulation library and development files
+ii  libsepol1:amd64                    2.7-1ubuntu0.1                      amd64        SELinux library for manipulating binary security policies
+ii  libsepol1-dev:amd64                2.7-1ubuntu0.1                      amd64        SELinux binary policy manipulation library and development files
 ii  libserf-1-1:amd64                  1.3.9-6                             amd64        high-performance asynchronous HTTP client library
 ii  libshine3:amd64                    3.1.1-1                             amd64        Fixed-point MP3 encoding library - runtime files
 ii  libsigc++-2.0-0v5:amd64            2.10.0-2                            amd64        type-safe Signal Framework for C++ - runtime
