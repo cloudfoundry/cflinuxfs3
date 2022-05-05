@@ -1,4 +1,4 @@
-Rootfs SHASUM: 715287cf90e4dd1e433388b46f62de2cbadbf2c218cdbe5045a064c4586bc2be
+Rootfs SHASUM: 2d9602b95098e9b51ad48e7b11d9a7e07c8291d9fcbf81ec1cfb8a564417a6b5
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -34,7 +34,7 @@ ii  coreutils                          8.28-1ubuntu1                       amd64
 ii  cpio                               2.12+dfsg-6ubuntu0.18.04.4          amd64        GNU cpio -- a program to manage archives of files
 ii  cpp                                4:7.4.0-1ubuntu2.3                  amd64        GNU C preprocessor (cpp)
 ii  cpp-7                              7.5.0-3ubuntu1~18.04                amd64        GNU C preprocessor
-ii  cron                               3.0pl1-128.1ubuntu1                 amd64        process scheduling daemon
+ii  cron                               3.0pl1-128.1ubuntu1.1               amd64        process scheduling daemon
 ii  curl                               7.58.0-2ubuntu3.17                  amd64        command line tool for transferring data with URL syntax
 ii  dash                               0.5.8-2.10                          amd64        POSIX-compliant shell
 ii  debconf                            1.5.66ubuntu1                       all          Debian configuration management system
@@ -447,8 +447,8 @@ ii  libsoxr0:amd64                     0.1.2-3                             amd64
 ii  libspeex1:amd64                    1.2~rc1.2-1ubuntu2.1                amd64        The Speex codec runtime library
 ii  libsqlite0                         2.8.17-14fakesync1                  amd64        SQLite 2 shared library
 ii  libsqlite0-dev                     2.8.17-14fakesync1                  amd64        SQLite 2 development files
-ii  libsqlite3-0:amd64                 3.22.0-1ubuntu0.4                   amd64        SQLite 3 shared library
-ii  libsqlite3-dev:amd64               3.22.0-1ubuntu0.4                   amd64        SQLite 3 development files
+ii  libsqlite3-0:amd64                 3.22.0-1ubuntu0.5                   amd64        SQLite 3 shared library
+ii  libsqlite3-dev:amd64               3.22.0-1ubuntu0.5                   amd64        SQLite 3 development files
 ii  libss2:amd64                       1.44.1-1ubuntu1.3                   amd64        command-line interface parsing library
 ii  libssl-dev:amd64                   1.1.1-1ubuntu2.1~18.04.17           amd64        Secure Sockets Layer toolkit - development files
 ii  libssl1.0.0:amd64                  1.0.2n-1ubuntu5.9                   amd64        Secure Sockets Layer toolkit - shared libraries
