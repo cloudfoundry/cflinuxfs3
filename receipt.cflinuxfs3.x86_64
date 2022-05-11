@@ -1,4 +1,4 @@
-Rootfs SHASUM: bc5f1246916bf40960c311ad465c80f65d0e1ed90c99b3efa032a3d0cd602ba4
+Rootfs SHASUM: 0967b912ba6c6ac6c89ae667c7e467d09a29a6cb6d673da03c266b214cdd60f5
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -34,7 +34,7 @@ ii  coreutils                          8.28-1ubuntu1                       amd64
 ii  cpio                               2.12+dfsg-6ubuntu0.18.04.4          amd64        GNU cpio -- a program to manage archives of files
 ii  cpp                                4:7.4.0-1ubuntu2.3                  amd64        GNU C preprocessor (cpp)
 ii  cpp-7                              7.5.0-3ubuntu1~18.04                amd64        GNU C preprocessor
-ii  cron                               3.0pl1-128.1ubuntu1.1               amd64        process scheduling daemon
+ii  cron                               3.0pl1-128.1ubuntu1.2               amd64        process scheduling daemon
 ii  curl                               7.58.0-2ubuntu3.17                  amd64        command line tool for transferring data with URL syntax
 ii  dash                               0.5.8-2.10                          amd64        POSIX-compliant shell
 ii  debconf                            1.5.66ubuntu1                       all          Debian configuration management system
