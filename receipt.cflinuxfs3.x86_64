@@ -1,4 +1,4 @@
-Rootfs SHASUM: 7a66d27f303ec0697cbd973b825967d604de01e33b89b374a85edd3f99232d3d
+Rootfs SHASUM: 9b5f317bc6a2ad2514ebb414fcc58c8e5b2c9fa4eaf9424e61b97d5b48f45adf
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -420,7 +420,7 @@ ii  librsvg2-common:amd64              2.40.20-2ubuntu0.2                  amd64
 ii  librsvg2-dev:amd64                 2.40.20-2ubuntu0.2                  amd64        SAX-based renderer library for SVG files (development)
 ii  librtmp-dev:amd64                  2.4+20151223.gitfa8646d.1-1         amd64        toolkit for RTMP streams (development files)
 ii  librtmp1:amd64                     2.4+20151223.gitfa8646d.1-1         amd64        toolkit for RTMP streams (shared library)
-ii  libruby2.5:amd64                   2.5.1-1ubuntu1.11                   amd64        Libraries necessary to run Ruby 2.5
+ii  libruby2.5:amd64                   2.5.1-1ubuntu1.12                   amd64        Libraries necessary to run Ruby 2.5
 ii  libsasl2-2:amd64                   2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64        Cyrus SASL - authentication abstraction library
 ii  libsasl2-dev                       2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64        Cyrus SASL - development files for authentication abstraction library
 ii  libsasl2-modules:amd64             2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64        Cyrus SASL - pluggable authentication modules
@@ -615,7 +615,7 @@ ii  ruby-minitest                      5.10.3-1                            all  
 ii  ruby-net-telnet                    0.1.1-2                             all          telnet client library
 ii  ruby-power-assert                  0.3.0-1                             all          library showing values of variables and method calls in an expression
 ii  ruby-test-unit                     3.2.5-1                             all          unit testing framework for Ruby
-ii  ruby2.5                            2.5.1-1ubuntu1.11                   amd64        Interpreter of object-oriented scripting language Ruby
+ii  ruby2.5                            2.5.1-1ubuntu1.12                   amd64        Interpreter of object-oriented scripting language Ruby
 ii  rubygems-integration               1.11                                all          integration of Debian Ruby packages with Rubygems
 ii  sed                                4.4-2                               amd64        GNU stream editor for filtering/transforming text
 ii  sensible-utils                     0.0.12                              all          Utilities for sensible alternative selection
