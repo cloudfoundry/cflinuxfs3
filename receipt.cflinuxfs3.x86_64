@@ -1,4 +1,4 @@
-Rootfs SHASUM: b712100164f38599e16d87417dac625be0d5fc0964768a5ba454200584f04a6d
+Rootfs SHASUM: b42391a8fdfc378d6e5b78e87a01fe49d53b9f1814df9fcf2926f1885790c2b7
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -404,12 +404,12 @@ ii  libproxy1v5:amd64                  0.4.15-1ubuntu0.2                   amd64
 ii  libpsl5:amd64                      0.19.1-5build1                      amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64        0.3-4                               amd64        pthread stubs not provided by native libc, development files
 ii  libpython-stdlib:amd64             2.7.15~rc1-1                        amd64        interactive high-level object-oriented language (default python version)
-ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1.7             amd64        Minimal subset of the Python language (version 2.7)
-ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1.7             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
+ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1.8             amd64        Minimal subset of the Python language (version 2.7)
+ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1.8             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
 ii  libpython3-stdlib:amd64            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1.7              amd64        Shared Python runtime library (version 3.6)
-ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1.7              amd64        Minimal subset of the Python language (version 3.6)
-ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1.7              amd64        Interactive high-level object-oriented language (standard library, version 3.6)
+ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1.8              amd64        Shared Python runtime library (version 3.6)
+ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1.8              amd64        Minimal subset of the Python language (version 3.6)
+ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1.8              amd64        Interactive high-level object-oriented language (standard library, version 3.6)
 ii  libquadmath0:amd64                 8.4.0-1ubuntu1~18.04                amd64        GCC Quad-Precision Math Library
 ii  libreadline-dev:amd64              7.0-3                               amd64        GNU readline and history libraries, development files
 ii  libreadline7:amd64                 7.0-3                               amd64        GNU readline and history libraries, run-time libraries
@@ -593,8 +593,8 @@ ii  python-bzrlib                      2.7.0+bzr6622-10                    amd64
 ii  python-configobj                   5.0.6-2                             all          simple but powerful config file reader and writer for Python 2
 ii  python-minimal                     2.7.15~rc1-1                        amd64        minimal subset of the Python language (default version)
 ii  python-six                         1.11.0-2                            all          Python 2 and 3 compatibility library (Python 2 interface)
-ii  python2.7                          2.7.17-1~18.04ubuntu1.7             amd64        Interactive high-level object-oriented language (version 2.7)
-ii  python2.7-minimal                  2.7.17-1~18.04ubuntu1.7             amd64        Minimal subset of the Python language (version 2.7)
+ii  python2.7                          2.7.17-1~18.04ubuntu1.8             amd64        Interactive high-level object-oriented language (version 2.7)
+ii  python2.7-minimal                  2.7.17-1~18.04ubuntu1.8             amd64        Minimal subset of the Python language (version 2.7)
 ii  python3                            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
 ii  python3-apt                        1.6.5ubuntu0.7                      amd64        Python 3 interface to libapt-pkg
 ii  python3-distutils                  3.6.9-1~18.04                       all          distutils package for Python 3.x
@@ -603,8 +603,8 @@ ii  python3-minimal                    3.6.7-1~18.04                       amd64
 ii  python3-netifaces                  0.10.4-0.1build4                    amd64        portable network interface information - Python 3.x
 ii  python3-pkg-resources              39.0.1-2                            all          Package Discovery and Resource Access using pkg_resources
 ii  python3-yaml                       3.12-1build2                        amd64        YAML parser and emitter for Python3
-ii  python3.6                          3.6.9-1~18.04ubuntu1.7              amd64        Interactive high-level object-oriented language (version 3.6)
-ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1.7              amd64        Minimal subset of the Python language (version 3.6)
+ii  python3.6                          3.6.9-1~18.04ubuntu1.8              amd64        Interactive high-level object-oriented language (version 3.6)
+ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1.8              amd64        Minimal subset of the Python language (version 3.6)
 ii  quota                              4.04-2ubuntu0.1                     amd64        disk quota management tools
 ii  rake                               12.3.1-1ubuntu0.1                   all          ruby make-like utility
 ii  readline-common                    7.0-3                               all          GNU readline and history libraries, common files
