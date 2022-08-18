@@ -1,4 +1,4 @@
-Rootfs SHASUM: 50e262c075299b39ede7a027984f3c83bf5671ae9b2ffb656fa031e5f4872aed
+Rootfs SHASUM: 674f88f6eabc5143ffd6be2c2a412ebd1357fac2753cdc785a26e498cc2d32ba
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -659,5 +659,5 @@ ii  xtrans-dev                         1.3.5-1                             all  
 ii  xxd                                2:8.0.1453-1ubuntu1.8               amd64        tool to make (or reverse) a hex dump
 ii  xz-utils                           5.2.2-1.3ubuntu0.1                  amd64        XZ-format compression utilities
 ii  zip                                3.0-11build1                        amd64        Archiver for .zip files
-ii  zlib1g:amd64                       1:1.2.11.dfsg-0ubuntu2.1            amd64        compression library - runtime
-ii  zlib1g-dev:amd64                   1:1.2.11.dfsg-0ubuntu2.1            amd64        compression library - development
+ii  zlib1g:amd64                       1:1.2.11.dfsg-0ubuntu2.2            amd64        compression library - runtime
+ii  zlib1g-dev:amd64                   1:1.2.11.dfsg-0ubuntu2.2            amd64        compression library - development
