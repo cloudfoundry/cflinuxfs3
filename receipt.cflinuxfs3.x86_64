@@ -1,4 +1,4 @@
-Rootfs SHASUM: 1053df58e4eef44635ed69628f4e6c202fc31cbd261c5345903bc2f60f479d1d
+Rootfs SHASUM: e2d108c89c6353d1929cfb9950319bc9e2ed02011d1cb4f6f20ac1c1fbdde25e
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -95,7 +95,7 @@ ii  initramfs-tools-core               0.130ubuntu3.13                     all  
 ii  iproute2                           4.15.0-2ubuntu1.3                   amd64        networking and traffic control tools
 ii  iputils-arping                     3:20161105-1ubuntu3                 amd64        Tool to send ICMP echo requests to an ARP address
 ii  iputils-ping                       3:20161105-1ubuntu3                 amd64        Tools to test the reachability of network hosts
-ii  isc-dhcp-client                    4.3.5-3ubuntu7.3                    amd64        DHCP client for automatically obtaining an IP address
+ii  isc-dhcp-client                    4.3.5-3ubuntu7.4                    amd64        DHCP client for automatically obtaining an IP address
 ii  jq                                 1.5+dfsg-2                          amd64        lightweight and flexible command-line JSON processor
 ii  kbd                                2.0.4-2ubuntu1                      amd64        Linux console font and keytable utilities
 ii  keyboard-configuration             1.178ubuntu2.9                      all          system-wide keyboard preferences
@@ -635,7 +635,7 @@ ii  tcpdump                            4.9.3-0ubuntu0.18.04.2              amd64
 ii  traceroute                         1:2.1.0-2                           amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                              all          transitional dummy package
 ii  tzdata                             2022c-0ubuntu0.18.04.0              all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.10.1~18.04.1                     amd64        management tools for Ubuntu Advantage
+ii  ubuntu-advantage-tools             27.11.2~18.04.1                     amd64        management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2018.09.18.1~18.04.2                all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.5                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                              all          Update Configuration File(s): preserve user changes to config files
