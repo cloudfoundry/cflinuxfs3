@@ -1,4 +1,4 @@
-Rootfs SHASUM: fa3df79f2702058c15894f0fc69712dc69803071f70e28ac5b4d3f9b6423e95c
+Rootfs SHASUM: 55fb88dcfea35b0f27ed8fdfe288d40c7d900031847d6000f1a40d3cd24173eb
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -35,7 +35,7 @@ ii  cpio                               2.12+dfsg-6ubuntu0.18.04.4          amd64
 ii  cpp                                4:7.4.0-1ubuntu2.3                  amd64        GNU C preprocessor (cpp)
 ii  cpp-7                              7.5.0-3ubuntu1~18.04                amd64        GNU C preprocessor
 ii  cron                               3.0pl1-128.1ubuntu1.2               amd64        process scheduling daemon
-ii  curl                               7.58.0-2ubuntu3.20                  amd64        command line tool for transferring data with URL syntax
+ii  curl                               7.58.0-2ubuntu3.21                  amd64        command line tool for transferring data with URL syntax
 ii  dash                               0.5.8-2.10                          amd64        POSIX-compliant shell
 ii  debconf                            1.5.66ubuntu1                       all          Debian configuration management system
 ii  debconf-i18n                       1.5.66ubuntu1                       all          full internationalization support for debconf
@@ -162,9 +162,9 @@ ii  libcom-err2:amd64                  1.44.1-1ubuntu1.4                   amd64
 ii  libcroco3:amd64                    0.6.12-2                            amd64        Cascading Style Sheet (CSS) parsing and manipulation toolkit
 ii  libcryptsetup12:amd64              2:2.0.2-1ubuntu1.2                  amd64        disk encryption support - shared library
 ii  libcrystalhd3:amd64                1:0.0~git20110715.fdd2f19-12        amd64        Crystal HD Video Decoder (shared library)
-ii  libcurl3-gnutls:amd64              7.58.0-2ubuntu3.20                  amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii  libcurl4:amd64                     7.58.0-2ubuntu3.20                  amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
-ii  libcurl4-openssl-dev:amd64         7.58.0-2ubuntu3.20                  amd64        development files and documentation for libcurl (OpenSSL flavour)
+ii  libcurl3-gnutls:amd64              7.58.0-2ubuntu3.21                  amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii  libcurl4:amd64                     7.58.0-2ubuntu3.21                  amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii  libcurl4-openssl-dev:amd64         7.58.0-2ubuntu3.21                  amd64        development files and documentation for libcurl (OpenSSL flavour)
 ii  libcwidget3v5:amd64                0.5.17-7                            amd64        high-level terminal interface library for C++ (runtime files)
 ii  libdatrie1:amd64                   0.2.10-7                            amd64        Double-array trie library
 ii  libdb5.3:amd64                     5.3.28-13.1ubuntu1.1                amd64        Berkeley v5.3 Database Libraries [runtime]
@@ -634,7 +634,7 @@ ii  tasksel-data                       3.34ubuntu11                        all  
 ii  tcpdump                            4.9.3-0ubuntu0.18.04.2              amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                           amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                              all          transitional dummy package
-ii  tzdata                             2022c-0ubuntu0.18.04.0              all          time zone and daylight-saving time data
+ii  tzdata                             2022e-0ubuntu0.18.04.0              all          time zone and daylight-saving time data
 ii  ubuntu-advantage-tools             27.11.2~18.04.1                     amd64        management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2018.09.18.1~18.04.2                all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.5                             amd64        Minimal core of Ubuntu
