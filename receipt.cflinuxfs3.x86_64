@@ -1,4 +1,4 @@
-Rootfs SHASUM: c8d39b4665d389a77d07b9b9ca7c34464d8b5e61efa044db00b8863c901f0371
+Rootfs SHASUM: 132d34c1f0f032c88a461fa9d447d85229a7e78c9c9b4613f3817cd068fbcbeb
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -43,7 +43,7 @@ ii  debianutils                        4.8.4                               amd64
 ii  dh-python                          3.20180325ubuntu2                   all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                             amd64        File comparison utilities
 ii  distro-info                        0.18ubuntu0.18.04.1                 amd64        provides information about the distributions' releases
-ii  distro-info-data                   0.37ubuntu0.14                      all          information about the distributions' releases (data files)
+ii  distro-info-data                   0.37ubuntu0.15                      all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.18           amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.4                   amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.4                   all          Debian package development tools
@@ -447,8 +447,8 @@ ii  libsoxr0:amd64                     0.1.2-3                             amd64
 ii  libspeex1:amd64                    1.2~rc1.2-1ubuntu2.1                amd64        The Speex codec runtime library
 ii  libsqlite0                         2.8.17-14fakesync1                  amd64        SQLite 2 shared library
 ii  libsqlite0-dev                     2.8.17-14fakesync1                  amd64        SQLite 2 development files
-ii  libsqlite3-0:amd64                 3.22.0-1ubuntu0.6                   amd64        SQLite 3 shared library
-ii  libsqlite3-dev:amd64               3.22.0-1ubuntu0.6                   amd64        SQLite 3 development files
+ii  libsqlite3-0:amd64                 3.22.0-1ubuntu0.7                   amd64        SQLite 3 shared library
+ii  libsqlite3-dev:amd64               3.22.0-1ubuntu0.7                   amd64        SQLite 3 development files
 ii  libss2:amd64                       1.44.1-1ubuntu1.4                   amd64        command-line interface parsing library
 ii  libssl-dev:amd64                   1.1.1-1ubuntu2.1~18.04.20           amd64        Secure Sockets Layer toolkit - development files
 ii  libssl1.0.0:amd64                  1.0.2n-1ubuntu5.10                  amd64        Secure Sockets Layer toolkit - shared libraries
@@ -544,7 +544,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.2               amd64
 ii  libzvbi-common                     0.2.35-13                           all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                           amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1.7                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-194.205                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-196.207                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1.6                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                        amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2.3                    amd64        system login tools
@@ -634,8 +634,8 @@ ii  tasksel-data                       3.34ubuntu11                        all  
 ii  tcpdump                            4.9.3-0ubuntu0.18.04.2              amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                           amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                              all          transitional dummy package
-ii  tzdata                             2022e-0ubuntu0.18.04.0              all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.11.2~18.04.1                     amd64        management tools for Ubuntu Advantage
+ii  tzdata                             2022f-0ubuntu0.18.04.0              all          time zone and daylight-saving time data
+ii  ubuntu-advantage-tools             27.11.3~18.04.1                     amd64        management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2018.09.18.1~18.04.2                all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.5                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                              all          Update Configuration File(s): preserve user changes to config files
