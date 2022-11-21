@@ -1,4 +1,4 @@
-Rootfs SHASUM: b7a18ae91ef73337a060ab1aa30e33819bbd9f160382e2900c7ad07d82b8316e
+Rootfs SHASUM: 32e4e9ca4f8ebcb984311a222b0aed3be427bcd4ea0c045837198865a7820d70
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -198,7 +198,7 @@ ii  libffi6:amd64                      3.2.1-8                             amd64
 ii  libfftw3-double3:amd64             3.3.7-1                             amd64        Library for computing Fast Fourier Transforms - Double precision
 ii  libfl-dev:amd64                    2.6.4-6                             amd64        static library for flex (a fast lexical analyzer generator)
 ii  libfl2:amd64                       2.6.4-6                             amd64        SHARED library for flex (a fast lexical analyzer generator)
-ii  libflac8:amd64                     1.3.2-1                             amd64        Free Lossless Audio Codec - runtime C library
+ii  libflac8:amd64                     1.3.2-1ubuntu0.1                    amd64        Free Lossless Audio Codec - runtime C library
 ii  libfontconfig1:amd64               2.12.6-0ubuntu2                     amd64        generic font configuration library - runtime
 ii  libfontconfig1-dev:amd64           2.12.6-0ubuntu2                     amd64        generic font configuration library - development
 ii  libfreetype6:amd64                 2.8.1-2ubuntu2.2                    amd64        FreeType 2 font engine, shared library files
