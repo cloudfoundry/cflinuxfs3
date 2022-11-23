@@ -1,4 +1,4 @@
-Rootfs SHASUM: 32e4e9ca4f8ebcb984311a222b0aed3be427bcd4ea0c045837198865a7820d70
+Rootfs SHASUM: a3c55581fdaa223f9c8763f29f14f08b594b8c67f1d644be02e4b3f855573b47
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -188,8 +188,8 @@ ii  libestr0:amd64                     0.1.10-2.1                          amd64
 ii  libevent-2.1-6:amd64               2.1.8-stable-4build1                amd64        Asynchronous event notification library
 ii  libexif-dev:amd64                  0.6.21-4ubuntu0.6                   amd64        library to parse EXIF files (development files)
 ii  libexif12:amd64                    0.6.21-4ubuntu0.6                   amd64        library to parse EXIF files
-ii  libexpat1:amd64                    2.2.5-3ubuntu0.8                    amd64        XML parsing C library - runtime library
-ii  libexpat1-dev:amd64                2.2.5-3ubuntu0.8                    amd64        XML parsing C library - development kit
+ii  libexpat1:amd64                    2.2.5-3ubuntu0.9                    amd64        XML parsing C library - runtime library
+ii  libexpat1-dev:amd64                2.2.5-3ubuntu0.9                    amd64        XML parsing C library - development kit
 ii  libext2fs2:amd64                   1.44.1-1ubuntu1.4                   amd64        ext2/ext3/ext4 file system libraries
 ii  libfakeroot:amd64                  1.22-2ubuntu1                       amd64        tool for simulating superuser privileges - shared libraries
 ii  libfdisk1:amd64                    2.31.1-0.4ubuntu3.7                 amd64        fdisk partitioning library
