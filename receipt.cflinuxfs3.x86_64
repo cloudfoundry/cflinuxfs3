@@ -1,4 +1,4 @@
-Rootfs SHASUM: 6c34c8b66e9d7ebc8241f127099d023ea6954c3093826432f9f90eeb15bc0f8a
+Rootfs SHASUM: 80c2d0ab0f984d0ca1b62b403a3741e6925c0bb6d432cfdfb30726c89a565e9c
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -279,8 +279,8 @@ ii  libisccfg160:amd64                 1:9.11.3+dfsg-1ubuntu1.18           amd64
 ii  libisl15:amd64                     0.18-4                              amd64        manipulating sets and relations of integer points bounded by linear constraints
 ii  libisl19:amd64                     0.19-1                              amd64        manipulating sets and relations of integer points bounded by linear constraints
 ii  libitm1:amd64                      8.4.0-1ubuntu1~18.04                amd64        GNU Transactional Memory Library
-ii  libjbig-dev:amd64                  2.1-3.1build1                       amd64        JBIGkit development files
-ii  libjbig0:amd64                     2.1-3.1build1                       amd64        JBIGkit libraries
+ii  libjbig-dev:amd64                  2.1-3.1ubuntu0.18.04.1              amd64        JBIGkit development files
+ii  libjbig0:amd64                     2.1-3.1ubuntu0.18.04.1              amd64        JBIGkit libraries
 ii  libjpeg-dev:amd64                  8c-2ubuntu8                         amd64        Independent JPEG Group's JPEG runtime library (dependency package)
 ii  libjpeg-turbo8:amd64               1.5.2-0ubuntu5.18.04.6              amd64        IJG JPEG compliant runtime library.
 ii  libjpeg-turbo8-dev:amd64           1.5.2-0ubuntu5.18.04.6              amd64        Development files for the IJG JPEG library
