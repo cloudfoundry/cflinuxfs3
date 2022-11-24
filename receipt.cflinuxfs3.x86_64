@@ -1,4 +1,4 @@
-Rootfs SHASUM: a3c55581fdaa223f9c8763f29f14f08b594b8c67f1d644be02e4b3f855573b47
+Rootfs SHASUM: 6c34c8b66e9d7ebc8241f127099d023ea6954c3093826432f9f90eeb15bc0f8a
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -84,9 +84,9 @@ ii  hicolor-icon-theme                 0.17-2                              all  
 ii  hostname                           3.20                                amd64        utility to set/show the host name or domain name
 ii  icu-devtools                       60.2-3ubuntu3.2                     amd64        Development utilities for International Components for Unicode
 ii  ifupdown                           0.8.17ubuntu1.1                     amd64        high level tools to configure network interfaces
-ii  imagemagick                        8:6.9.7.4+dfsg-16ubuntu6.13         amd64        image manipulation programs -- binaries
-ii  imagemagick-6-common               8:6.9.7.4+dfsg-16ubuntu6.13         all          image manipulation programs -- infrastructure
-ii  imagemagick-6.q16                  8:6.9.7.4+dfsg-16ubuntu6.13         amd64        image manipulation programs -- quantum depth Q16
+ii  imagemagick                        8:6.9.7.4+dfsg-16ubuntu6.14         amd64        image manipulation programs -- binaries
+ii  imagemagick-6-common               8:6.9.7.4+dfsg-16ubuntu6.14         all          image manipulation programs -- infrastructure
+ii  imagemagick-6.q16                  8:6.9.7.4+dfsg-16ubuntu6.14         amd64        image manipulation programs -- quantum depth Q16
 ii  init                               1.51                                amd64        metapackage ensuring an init system is installed
 ii  init-system-helpers                1.51                                all          helper tools for all init systems
 ii  initramfs-tools                    0.130ubuntu3.13                     all          generic modular initramfs generator (automation)
@@ -328,15 +328,15 @@ ii  liblzma5:amd64                     5.2.2-1.3ubuntu0.1                  amd64
 ii  liblzo2-2:amd64                    2.08-1.2                            amd64        data compression library
 ii  libmagic-mgc                       1:5.32-2ubuntu0.4                   amd64        File type determination library using "magic" numbers (compiled magic file)
 ii  libmagic1:amd64                    1:5.32-2ubuntu0.4                   amd64        Recognize the type of data in a file using "magic" numbers - library
-ii  libmagickcore-6-arch-config:amd64  8:6.9.7.4+dfsg-16ubuntu6.13         amd64        low-level image manipulation library - architecture header files
-ii  libmagickcore-6-headers            8:6.9.7.4+dfsg-16ubuntu6.13         all          low-level image manipulation library - header files
-ii  libmagickcore-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.13         amd64        low-level image manipulation library -- quantum depth Q16
-ii  libmagickcore-6.q16-3-extra:amd64  8:6.9.7.4+dfsg-16ubuntu6.13         amd64        low-level image manipulation library - extra codecs (Q16)
-ii  libmagickcore-6.q16-dev:amd64      8:6.9.7.4+dfsg-16ubuntu6.13         amd64        low-level image manipulation library - development files (Q16)
-ii  libmagickwand-6-headers            8:6.9.7.4+dfsg-16ubuntu6.13         all          image manipulation library - headers files
-ii  libmagickwand-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.13         amd64        image manipulation library -- quantum depth Q16
-ii  libmagickwand-6.q16-dev:amd64      8:6.9.7.4+dfsg-16ubuntu6.13         amd64        image manipulation library - development files (Q16)
-ii  libmagickwand-dev                  8:6.9.7.4+dfsg-16ubuntu6.13         all          image manipulation library -- dummy package
+ii  libmagickcore-6-arch-config:amd64  8:6.9.7.4+dfsg-16ubuntu6.14         amd64        low-level image manipulation library - architecture header files
+ii  libmagickcore-6-headers            8:6.9.7.4+dfsg-16ubuntu6.14         all          low-level image manipulation library - header files
+ii  libmagickcore-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.14         amd64        low-level image manipulation library -- quantum depth Q16
+ii  libmagickcore-6.q16-3-extra:amd64  8:6.9.7.4+dfsg-16ubuntu6.14         amd64        low-level image manipulation library - extra codecs (Q16)
+ii  libmagickcore-6.q16-dev:amd64      8:6.9.7.4+dfsg-16ubuntu6.14         amd64        low-level image manipulation library - development files (Q16)
+ii  libmagickwand-6-headers            8:6.9.7.4+dfsg-16ubuntu6.14         all          image manipulation library - headers files
+ii  libmagickwand-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.14         amd64        image manipulation library -- quantum depth Q16
+ii  libmagickwand-6.q16-dev:amd64      8:6.9.7.4+dfsg-16ubuntu6.14         amd64        image manipulation library - development files (Q16)
+ii  libmagickwand-dev                  8:6.9.7.4+dfsg-16ubuntu6.14         all          image manipulation library -- dummy package
 ii  libmariadb-dev                     3.0.3-1build1                       amd64        MariaDB Connector/C, development files
 ii  libmariadb-dev-compat:amd64        3.0.3-1build1                       amd64        MariaDB Connector/C, compatibility symlinks
 ii  libmariadb3:amd64                  3.0.3-1build1                       amd64        MariaDB Connector/C
