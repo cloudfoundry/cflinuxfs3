@@ -1,4 +1,4 @@
-Rootfs SHASUM: f99be931ea4108b21d54795f0c7e481c721a73d8c651ad46d4081dcafdb3ca6d
+Rootfs SHASUM: fae78f1bafeed2c4ae13345387516db0b132db68346f27130795df55d0a14b9c
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -547,7 +547,7 @@ ii  linux-base                         4.5ubuntu1.7                        all  
 ii  linux-libc-dev:amd64               4.15.0-197.208                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1.6                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                        amd64        Programs for locking and unlocking files and mailboxes
-ii  login                              1:4.5-1ubuntu2.4                    amd64        system login tools
+ii  login                              1:4.5-1ubuntu2.5                    amd64        system login tools
 ii  logrotate                          3.11.0-0.1ubuntu1                   amd64        Log rotation utility
 ii  lsb-base                           9.20170808ubuntu1                   all          Linux Standard Base init script functionality
 ii  lsb-release                        9.20170808ubuntu1                   all          Linux Standard Base version reporting utility
@@ -579,7 +579,7 @@ ii  openssh-server                     1:7.6p1-4ubuntu0.7                  amd64
 ii  openssh-sftp-server                1:7.6p1-4ubuntu0.7                  amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii  openssl                            1.1.1-1ubuntu2.1~18.04.20           amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  openssl1.0                         1.0.2n-1ubuntu5.10                  amd64        Secure Sockets Layer toolkit 1.0 - cryptographic utility
-ii  passwd                             1:4.5-1ubuntu2.4                    amd64        change and administer password and group data
+ii  passwd                             1:4.5-1ubuntu2.5                    amd64        change and administer password and group data
 ii  patch                              2.7.6-2ubuntu1.1                    amd64        Apply a diff file to an original
 ii  perl                               5.26.1-6ubuntu0.6                   amd64        Larry Wall's Practical Extraction and Report Language
 ii  perl-base                          5.26.1-6ubuntu0.6                   amd64        minimal Perl system
@@ -624,7 +624,7 @@ ii  sshfs                              2.8-1                               amd64
 ii  strace                             4.21-1ubuntu1                       amd64        System call tracer
 ii  subversion                         1.9.7-4ubuntu1.1                    amd64        Advanced version control system
 ii  sudo                               1.8.21p2-3ubuntu1.4                 amd64        Provide limited super user privileges to specific users
-ii  sysstat                            11.6.1-1ubuntu0.1                   amd64        system performance tools for Linux
+ii  sysstat                            11.6.1-1ubuntu0.2                   amd64        system performance tools for Linux
 ii  systemd                            237-3ubuntu10.56                    amd64        system and service manager
 ii  systemd-sysv                       237-3ubuntu10.56                    amd64        system and service manager - SysV links
 ii  sysvinit-utils                     2.88dsf-59.10ubuntu1                amd64        System-V-like utilities
