@@ -1,4 +1,4 @@
-Rootfs SHASUM: 4e2161a41365a7a67ac92ae7dd1dafb7f128cc6653385d6183ec5778a2acd140
+Rootfs SHASUM: 8cf5807c1bc36f1f36479eb17b317284be7df9a291c6a333ed633314e1403a22
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -15,16 +15,16 @@ ii  base-files                         10.1ubuntu2.11                      amd64
 ii  base-passwd                        3.5.44                              amd64        Debian base system master password and group files
 ii  bash                               4.4.18-2ubuntu1.3                   amd64        GNU Bourne Again SHell
 ii  bind9-host                         1:9.11.3+dfsg-1ubuntu1.18           amd64        DNS lookup utility (deprecated)
-ii  binutils                           2.30-21ubuntu1~18.04.7              amd64        GNU assembler, linker and binary utilities
-ii  binutils-common:amd64              2.30-21ubuntu1~18.04.7              amd64        Common files for the GNU assembler, linker and binary utilities
-ii  binutils-x86-64-linux-gnu          2.30-21ubuntu1~18.04.7              amd64        GNU binary utilities, for x86-64-linux-gnu target
+ii  binutils                           2.30-21ubuntu1~18.04.8              amd64        GNU assembler, linker and binary utilities
+ii  binutils-common:amd64              2.30-21ubuntu1~18.04.8              amd64        Common files for the GNU assembler, linker and binary utilities
+ii  binutils-x86-64-linux-gnu          2.30-21ubuntu1~18.04.8              amd64        GNU binary utilities, for x86-64-linux-gnu target
 ii  bison                              2:3.0.4.dfsg-1build1                amd64        YACC-compatible parser generator
 ii  bsdutils                           1:2.31.1-0.4ubuntu3.7               amd64        basic utilities from 4.4BSD-Lite
 ii  build-essential                    12.4ubuntu1                         amd64        Informational list of build-essential packages
 ii  busybox-initramfs                  1:1.27.2-2ubuntu3.4                 amd64        Standalone shell setup for initramfs
 ii  bzip2                              1.0.6-8.1ubuntu0.2                  amd64        high-quality block-sorting file compressor - utilities
 ii  bzr                                2.7.0+bzr6622-10                    all          easy to use distributed version control system
-ii  ca-certificates                    20211016~18.04.1                    all          Common CA certificates
+ii  ca-certificates                    20211016ubuntu0.18.04.1             all          Common CA certificates
 ii  cmake                              3.10.2-1ubuntu2.18.04.2             amd64        cross-platform, open-source make system
 ii  cmake-data                         3.10.2-1ubuntu2.18.04.2             all          CMake data files (modules, templates and documentation)
 ii  comerr-dev:amd64                   2.1-1.44.1-1ubuntu1.4               amd64        common error description library - headers and static libraries
@@ -129,7 +129,7 @@ ii  libavcodec57:amd64                 7:3.4.11-0ubuntu0.1                 amd64
 ii  libavutil55:amd64                  7:3.4.11-0ubuntu0.1                 amd64        FFmpeg library with functions for simplifying programming - runtime files
 ii  libbabeltrace1:amd64               1.5.5-1                             amd64        Babeltrace conversion libraries
 ii  libbind9-160:amd64                 1:9.11.3+dfsg-1ubuntu1.18           amd64        BIND9 Shared Library used by BIND
-ii  libbinutils:amd64                  2.30-21ubuntu1~18.04.7              amd64        GNU binary utilities (private shared library)
+ii  libbinutils:amd64                  2.30-21ubuntu1~18.04.8              amd64        GNU binary utilities (private shared library)
 ii  libbison-dev:amd64                 2:3.0.4.dfsg-1build1                amd64        YACC-compatible parser generator - development library
 ii  libblas-dev:amd64                  3.7.1-4ubuntu1                      amd64        Basic Linear Algebra Subroutines 3, static library
 ii  libblas3:amd64                     3.7.1-4ubuntu1                      amd64        Basic Linear Algebra Reference implementations, shared library
@@ -526,8 +526,8 @@ ii  libxext-dev:amd64                  2:1.3.3-1                           amd64
 ii  libxext6:amd64                     2:1.3.3-1                           amd64        X11 miscellaneous extension library
 ii  libxfixes3:amd64                   1:5.0.3-1                           amd64        X11 miscellaneous 'fixes' extension library
 ii  libxft2:amd64                      2.3.2-1                             amd64        FreeType-based font drawing library for X
-ii  libxml2:amd64                      2.9.4+dfsg1-6.1ubuntu1.7            amd64        GNOME XML library
-ii  libxml2-dev:amd64                  2.9.4+dfsg1-6.1ubuntu1.7            amd64        Development files for the GNOME XML library
+ii  libxml2:amd64                      2.9.4+dfsg1-6.1ubuntu1.8            amd64        GNOME XML library
+ii  libxml2-dev:amd64                  2.9.4+dfsg1-6.1ubuntu1.8            amd64        Development files for the GNOME XML library
 ii  libxmu6:amd64                      2:1.1.2-2                           amd64        X11 miscellaneous utility library
 ii  libxpm-dev:amd64                   1:3.5.12-1                          amd64        X11 pixmap library (development headers)
 ii  libxpm4:amd64                      1:3.5.12-1                          amd64        X11 pixmap library
