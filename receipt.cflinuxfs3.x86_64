@@ -1,4 +1,4 @@
-Rootfs SHASUM: 93504f850a9e60403a87377f8f47de413c09ea1998108babab25fdfa67dbf029
+Rootfs SHASUM: dd9680a9e3031b2eb6122b9fd9b3ab317c27f3faa25ee34cd25f389b3b37e152
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -70,8 +70,8 @@ ii  gir1.2-gdkpixbuf-2.0:amd64         2.36.11-2                           amd64
 ii  gir1.2-glib-2.0:amd64              1.56.1-1                            amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-harfbuzz-0.0:amd64          1.7.2-1ubuntu1                      amd64        OpenType text shaping engine (GObject introspection data)
 ii  gir1.2-rsvg-2.0:amd64              2.40.20-2ubuntu0.2                  amd64        gir files for renderer library for SVG files
-ii  git                                1:2.17.1-1ubuntu0.15                amd64        fast, scalable, distributed revision control system
-ii  git-man                            1:2.17.1-1ubuntu0.15                all          fast, scalable, distributed revision control system (manual pages)
+ii  git                                1:2.17.1-1ubuntu0.16                amd64        fast, scalable, distributed revision control system
+ii  git-man                            1:2.17.1-1ubuntu0.16                all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                             1.4.22-3ubuntu2                     amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                               2.2.4-1ubuntu1.6                    amd64        GNU privacy guard - signature verification tool
 ii  graphviz                           2.40.1-2                            amd64        rich set of graph drawing tools
@@ -84,9 +84,9 @@ ii  hicolor-icon-theme                 0.17-2                              all  
 ii  hostname                           3.20                                amd64        utility to set/show the host name or domain name
 ii  icu-devtools                       60.2-3ubuntu3.2                     amd64        Development utilities for International Components for Unicode
 ii  ifupdown                           0.8.17ubuntu1.1                     amd64        high level tools to configure network interfaces
-ii  imagemagick                        8:6.9.7.4+dfsg-16ubuntu6.14         amd64        image manipulation programs -- binaries
-ii  imagemagick-6-common               8:6.9.7.4+dfsg-16ubuntu6.14         all          image manipulation programs -- infrastructure
-ii  imagemagick-6.q16                  8:6.9.7.4+dfsg-16ubuntu6.14         amd64        image manipulation programs -- quantum depth Q16
+ii  imagemagick                        8:6.9.7.4+dfsg-16ubuntu6.15         amd64        image manipulation programs -- binaries
+ii  imagemagick-6-common               8:6.9.7.4+dfsg-16ubuntu6.15         all          image manipulation programs -- infrastructure
+ii  imagemagick-6.q16                  8:6.9.7.4+dfsg-16ubuntu6.15         amd64        image manipulation programs -- quantum depth Q16
 ii  init                               1.51                                amd64        metapackage ensuring an init system is installed
 ii  init-system-helpers                1.51                                all          helper tools for all init systems
 ii  initramfs-tools                    0.130ubuntu3.13                     all          generic modular initramfs generator (automation)
@@ -110,7 +110,7 @@ ii  libaio1:amd64                      0.3.110-5ubuntu0.1                  amd64
 ii  libann0                            1.1.2+doc-6                         amd64        Approximate Nearest Neighbor Searching library
 ii  libapparmor1:amd64                 2.12-4ubuntu5.1                     amd64        changehat AppArmor library
 ii  libapr1:amd64                      1.6.3-2                             amd64        Apache Portable Runtime Library
-ii  libaprutil1:amd64                  1.6.1-2                             amd64        Apache Portable Runtime Utility Library
+ii  libaprutil1:amd64                  1.6.1-2ubuntu0.1                    amd64        Apache Portable Runtime Utility Library
 ii  libapt-inst2.0:amd64               1.6.14                              amd64        deb package format runtime library
 ii  libapt-pkg5.0:amd64                1.6.14                              amd64        package management runtime library
 ii  libarchive-extract-perl            0.80-1                              all          generic archive extracting module
@@ -328,15 +328,15 @@ ii  liblzma5:amd64                     5.2.2-1.3ubuntu0.1                  amd64
 ii  liblzo2-2:amd64                    2.08-1.2                            amd64        data compression library
 ii  libmagic-mgc                       1:5.32-2ubuntu0.4                   amd64        File type determination library using "magic" numbers (compiled magic file)
 ii  libmagic1:amd64                    1:5.32-2ubuntu0.4                   amd64        Recognize the type of data in a file using "magic" numbers - library
-ii  libmagickcore-6-arch-config:amd64  8:6.9.7.4+dfsg-16ubuntu6.14         amd64        low-level image manipulation library - architecture header files
-ii  libmagickcore-6-headers            8:6.9.7.4+dfsg-16ubuntu6.14         all          low-level image manipulation library - header files
-ii  libmagickcore-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.14         amd64        low-level image manipulation library -- quantum depth Q16
-ii  libmagickcore-6.q16-3-extra:amd64  8:6.9.7.4+dfsg-16ubuntu6.14         amd64        low-level image manipulation library - extra codecs (Q16)
-ii  libmagickcore-6.q16-dev:amd64      8:6.9.7.4+dfsg-16ubuntu6.14         amd64        low-level image manipulation library - development files (Q16)
-ii  libmagickwand-6-headers            8:6.9.7.4+dfsg-16ubuntu6.14         all          image manipulation library - headers files
-ii  libmagickwand-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.14         amd64        image manipulation library -- quantum depth Q16
-ii  libmagickwand-6.q16-dev:amd64      8:6.9.7.4+dfsg-16ubuntu6.14         amd64        image manipulation library - development files (Q16)
-ii  libmagickwand-dev                  8:6.9.7.4+dfsg-16ubuntu6.14         all          image manipulation library -- dummy package
+ii  libmagickcore-6-arch-config:amd64  8:6.9.7.4+dfsg-16ubuntu6.15         amd64        low-level image manipulation library - architecture header files
+ii  libmagickcore-6-headers            8:6.9.7.4+dfsg-16ubuntu6.15         all          low-level image manipulation library - header files
+ii  libmagickcore-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.15         amd64        low-level image manipulation library -- quantum depth Q16
+ii  libmagickcore-6.q16-3-extra:amd64  8:6.9.7.4+dfsg-16ubuntu6.15         amd64        low-level image manipulation library - extra codecs (Q16)
+ii  libmagickcore-6.q16-dev:amd64      8:6.9.7.4+dfsg-16ubuntu6.15         amd64        low-level image manipulation library - development files (Q16)
+ii  libmagickwand-6-headers            8:6.9.7.4+dfsg-16ubuntu6.15         all          image manipulation library - headers files
+ii  libmagickwand-6.q16-3:amd64        8:6.9.7.4+dfsg-16ubuntu6.15         amd64        image manipulation library -- quantum depth Q16
+ii  libmagickwand-6.q16-dev:amd64      8:6.9.7.4+dfsg-16ubuntu6.15         amd64        image manipulation library - development files (Q16)
+ii  libmagickwand-dev                  8:6.9.7.4+dfsg-16ubuntu6.15         all          image manipulation library -- dummy package
 ii  libmariadb-dev                     3.0.3-1build1                       amd64        MariaDB Connector/C, development files
 ii  libmariadb-dev-compat:amd64        3.0.3-1build1                       amd64        MariaDB Connector/C, compatibility symlinks
 ii  libmariadb3:amd64                  3.0.3-1build1                       amd64        MariaDB Connector/C
@@ -635,7 +635,7 @@ ii  tcpdump                            4.9.3-0ubuntu0.18.04.2              amd64
 ii  traceroute                         1:2.1.0-2                           amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                              all          transitional dummy package
 ii  tzdata                             2022g-0ubuntu0.18.04                all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.13.3~18.04.1                     amd64        management tools for Ubuntu Pro
+ii  ubuntu-advantage-tools             27.13.5~18.04.1                     amd64        management tools for Ubuntu Pro
 ii  ubuntu-keyring                     2018.09.18.1~18.04.2                all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.5                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                              all          Update Configuration File(s): preserve user changes to config files
