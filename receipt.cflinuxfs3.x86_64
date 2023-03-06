@@ -1,4 +1,4 @@
-Rootfs SHASUM: 5ccb0d1dfe347030d8ff430b462139ffb32fa8f256c97e41bcdfc774a45e2e83
+Rootfs SHASUM: d88018f7a6aa09e27607b7b18345857dc8139cd58438e70f5f2df93874b9c42f
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -407,9 +407,9 @@ ii  libpython-stdlib:amd64             2.7.15~rc1-1                        amd64
 ii  libpython2.7-minimal:amd64         2.7.17-1~18.04ubuntu1.10            amd64        Minimal subset of the Python language (version 2.7)
 ii  libpython2.7-stdlib:amd64          2.7.17-1~18.04ubuntu1.10            amd64        Interactive high-level object-oriented language (standard library, version 2.7)
 ii  libpython3-stdlib:amd64            3.6.7-1~18.04                       amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1.9              amd64        Shared Python runtime library (version 3.6)
-ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1.9              amd64        Minimal subset of the Python language (version 3.6)
-ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1.9              amd64        Interactive high-level object-oriented language (standard library, version 3.6)
+ii  libpython3.6:amd64                 3.6.9-1~18.04ubuntu1.10             amd64        Shared Python runtime library (version 3.6)
+ii  libpython3.6-minimal:amd64         3.6.9-1~18.04ubuntu1.10             amd64        Minimal subset of the Python language (version 3.6)
+ii  libpython3.6-stdlib:amd64          3.6.9-1~18.04ubuntu1.10             amd64        Interactive high-level object-oriented language (standard library, version 3.6)
 ii  libquadmath0:amd64                 8.4.0-1ubuntu1~18.04                amd64        GCC Quad-Precision Math Library
 ii  libreadline-dev:amd64              7.0-3                               amd64        GNU readline and history libraries, development files
 ii  libreadline7:amd64                 7.0-3                               amd64        GNU readline and history libraries, run-time libraries
@@ -603,12 +603,12 @@ ii  python3-minimal                    3.6.7-1~18.04                       amd64
 ii  python3-netifaces                  0.10.4-0.1build4                    amd64        portable network interface information - Python 3.x
 ii  python3-pkg-resources              39.0.1-2ubuntu0.1                   all          Package Discovery and Resource Access using pkg_resources
 ii  python3-yaml                       3.12-1build2                        amd64        YAML parser and emitter for Python3
-ii  python3.6                          3.6.9-1~18.04ubuntu1.9              amd64        Interactive high-level object-oriented language (version 3.6)
-ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1.9              amd64        Minimal subset of the Python language (version 3.6)
+ii  python3.6                          3.6.9-1~18.04ubuntu1.10             amd64        Interactive high-level object-oriented language (version 3.6)
+ii  python3.6-minimal                  3.6.9-1~18.04ubuntu1.10             amd64        Minimal subset of the Python language (version 3.6)
 ii  quota                              4.04-2ubuntu0.1                     amd64        disk quota management tools
 ii  rake                               12.3.1-1ubuntu0.1                   all          ruby make-like utility
 ii  readline-common                    7.0-3                               all          GNU readline and history libraries, common files
-ii  rsync                              3.1.2-2.1ubuntu1.5                  amd64        fast, versatile, remote (and local) file-copying tool
+ii  rsync                              3.1.2-2.1ubuntu1.6                  amd64        fast, versatile, remote (and local) file-copying tool
 ii  ruby                               1:2.5.1                             amd64        Interpreter of object-oriented scripting language Ruby (default version)
 ii  ruby-did-you-mean                  1.2.0-2                             all          smart error messages for Ruby > 2.3
 ii  ruby-minitest                      5.10.3-1                            all          Ruby test tools supporting TDD, BDD, mocking, and benchmarking
@@ -631,11 +631,11 @@ ii  sysvinit-utils                     2.88dsf-59.10ubuntu1                amd64
 ii  tar                                1.29b-2ubuntu0.4                    amd64        GNU version of the tar archiving utility
 ii  tasksel                            3.34ubuntu11                        all          tool for selecting tasks for installation on Debian systems
 ii  tasksel-data                       3.34ubuntu11                        all          official tasks used for installation of Debian systems
-ii  tcpdump                            4.9.3-0ubuntu0.18.04.2              amd64        command-line network traffic analyzer
+ii  tcpdump                            4.9.3-0ubuntu0.18.04.3              amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                           amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  ttf-dejavu-core                    2.37-1                              all          transitional dummy package
 ii  tzdata                             2022g-0ubuntu0.18.04                all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.13.5~18.04.1                     amd64        management tools for Ubuntu Pro
+ii  ubuntu-advantage-tools             27.13.6~18.04.1                     amd64        management tools for Ubuntu Pro
 ii  ubuntu-keyring                     2018.09.18.1~18.04.2                all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.417.5                             amd64        Minimal core of Ubuntu
 ii  ucf                                3.0038                              all          Update Configuration File(s): preserve user changes to config files
