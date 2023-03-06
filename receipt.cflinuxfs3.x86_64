@@ -1,4 +1,4 @@
-Rootfs SHASUM: d88018f7a6aa09e27607b7b18345857dc8139cd58438e70f5f2df93874b9c42f
+Rootfs SHASUM: 503cff673bee7a3ea0f01f06096efaf7bae19e3ff4e6dadce906f256b3d2b0b4
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -469,10 +469,10 @@ ii  libtext-wrapi18n-perl              0.06-7.1                            all  
 ii  libthai-data                       0.1.27-2                            all          Data files for Thai language support library
 ii  libthai0:amd64                     0.1.27-2                            amd64        Thai language support library
 ii  libtheora0:amd64                   1.1.1+dfsg.1-14                     amd64        Theora Video Compression Codec
-ii  libtiff-dev                        4.0.9-5ubuntu0.9                    amd64        Tag Image File Format library (TIFF), development files, current version
-ii  libtiff5:amd64                     4.0.9-5ubuntu0.9                    amd64        Tag Image File Format (TIFF) library
-ii  libtiff5-dev:amd64                 4.0.9-5ubuntu0.9                    amd64        Tag Image File Format library (TIFF), development files
-ii  libtiffxx5:amd64                   4.0.9-5ubuntu0.9                    amd64        Tag Image File Format (TIFF) library -- C++ interface
+ii  libtiff-dev                        4.0.9-5ubuntu0.10                   amd64        Tag Image File Format library (TIFF), development files, current version
+ii  libtiff5:amd64                     4.0.9-5ubuntu0.10                   amd64        Tag Image File Format (TIFF) library
+ii  libtiff5-dev:amd64                 4.0.9-5ubuntu0.10                   amd64        Tag Image File Format library (TIFF), development files
+ii  libtiffxx5:amd64                   4.0.9-5ubuntu0.10                   amd64        Tag Image File Format (TIFF) library -- C++ interface
 ii  libtimedate-perl                   2.3000-2                            all          collection of modules to manipulate date/time information
 ii  libtinfo-dev:amd64                 6.1-1ubuntu1.18.04                  amd64        developer's library for the low-level terminfo library
 ii  libtinfo5:amd64                    6.1-1ubuntu1.18.04                  amd64        shared low-level terminfo library for terminal handling
