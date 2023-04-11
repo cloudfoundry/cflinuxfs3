@@ -1,4 +1,4 @@
-Rootfs SHASUM: 0795e09eebb4e49617bb2a060654f3b9ea98c8e690b25fc8d4976b7a02278da9
+Rootfs SHASUM: a16a05a4111e3b500e1fba1129b48cab8b54cae21f55ef547d345da9a55d2c47
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -43,7 +43,7 @@ ii  debianutils                        4.8.4                               amd64
 ii  dh-python                          3.20180325ubuntu2                   all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                             amd64        File comparison utilities
 ii  distro-info                        0.18ubuntu0.18.04.1                 amd64        provides information about the distributions' releases
-ii  distro-info-data                   0.37ubuntu0.15                      all          information about the distributions' releases (data files)
+ii  distro-info-data                   0.37ubuntu0.16                      all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.18           amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.4                   amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.4                   all          Debian package development tools
@@ -623,7 +623,7 @@ ii  shared-mime-info                   1.9-2                               amd64
 ii  sshfs                              2.8-1                               amd64        filesystem client based on SSH File Transfer Protocol
 ii  strace                             4.21-1ubuntu1                       amd64        System call tracer
 ii  subversion                         1.9.7-4ubuntu1.1                    amd64        Advanced version control system
-ii  sudo                               1.8.21p2-3ubuntu1.5                 amd64        Provide limited super user privileges to specific users
+ii  sudo                               1.8.21p2-3ubuntu1.6                 amd64        Provide limited super user privileges to specific users
 ii  sysstat                            11.6.1-1ubuntu0.2                   amd64        system performance tools for Linux
 ii  systemd                            237-3ubuntu10.57                    amd64        system and service manager
 ii  systemd-sysv                       237-3ubuntu10.57                    amd64        system and service manager - SysV links
