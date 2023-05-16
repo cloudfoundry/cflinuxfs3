@@ -1,4 +1,4 @@
-Rootfs SHASUM: 74552e2e3999c07acc029bbc4787dd5f2dcda002a64c42bc972b894db293cb7d
+Rootfs SHASUM: b834136231823c60a9b763677bc005876a78d4c7cde9aec5236729493cc2701c
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -43,7 +43,7 @@ ii  debianutils                        4.8.4                               amd64
 ii  dh-python                          3.20180325ubuntu2                   all          Debian helper tools for packaging Python libraries and applications
 ii  diffutils                          1:3.6-1                             amd64        File comparison utilities
 ii  distro-info                        0.18ubuntu0.18.04.1                 amd64        provides information about the distributions' releases
-ii  distro-info-data                   0.37ubuntu0.16                      all          information about the distributions' releases (data files)
+ii  distro-info-data                   0.37ubuntu0.17                      all          information about the distributions' releases (data files)
 ii  dnsutils                           1:9.11.3+dfsg-1ubuntu1.18           amd64        Clients provided with BIND
 ii  dpkg                               1.19.0.5ubuntu2.4                   amd64        Debian package management system
 ii  dpkg-dev                           1.19.0.5ubuntu2.4                   all          Debian package development tools
@@ -70,8 +70,8 @@ ii  gir1.2-gdkpixbuf-2.0:amd64         2.36.11-2                           amd64
 ii  gir1.2-glib-2.0:amd64              1.56.1-1                            amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-harfbuzz-0.0:amd64          1.7.2-1ubuntu1                      amd64        OpenType text shaping engine (GObject introspection data)
 ii  gir1.2-rsvg-2.0:amd64              2.40.20-2ubuntu0.2                  amd64        gir files for renderer library for SVG files
-ii  git                                1:2.17.1-1ubuntu0.17                amd64        fast, scalable, distributed revision control system
-ii  git-man                            1:2.17.1-1ubuntu0.17                all          fast, scalable, distributed revision control system (manual pages)
+ii  git                                1:2.17.1-1ubuntu0.18                amd64        fast, scalable, distributed revision control system
+ii  git-man                            1:2.17.1-1ubuntu0.18                all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                             1.4.22-3ubuntu2                     amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                               2.2.4-1ubuntu1.6                    amd64        GNU privacy guard - signature verification tool
 ii  graphviz                           2.40.1-2                            amd64        rich set of graph drawing tools
@@ -420,7 +420,7 @@ ii  librsvg2-common:amd64              2.40.20-2ubuntu0.2                  amd64
 ii  librsvg2-dev:amd64                 2.40.20-2ubuntu0.2                  amd64        SAX-based renderer library for SVG files (development)
 ii  librtmp-dev:amd64                  2.4+20151223.gitfa8646d.1-1         amd64        toolkit for RTMP streams (development files)
 ii  librtmp1:amd64                     2.4+20151223.gitfa8646d.1-1         amd64        toolkit for RTMP streams (shared library)
-ii  libruby2.5:amd64                   2.5.1-1ubuntu1.13                   amd64        Libraries necessary to run Ruby 2.5
+ii  libruby2.5:amd64                   2.5.1-1ubuntu1.15                   amd64        Libraries necessary to run Ruby 2.5
 ii  libsasl2-2:amd64                   2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64        Cyrus SASL - authentication abstraction library
 ii  libsasl2-dev                       2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64        Cyrus SASL - development files for authentication abstraction library
 ii  libsasl2-modules:amd64             2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64        Cyrus SASL - pluggable authentication modules
@@ -498,8 +498,8 @@ ii  libvpx-dev:amd64                   1.7.0-3ubuntu0.18.04.1              amd64
 ii  libvpx5:amd64                      1.7.0-3ubuntu0.18.04.1              amd64        VP8 and VP9 video codec (shared library)
 ii  libwavpack1:amd64                  5.1.0-2ubuntu1.5                    amd64        audio codec (lossy and lossless) - library
 ii  libwbclient0:amd64                 2:4.7.6+dfsg~ubuntu-0ubuntu2.29     amd64        Samba winbind client library
-ii  libwebp6:amd64                     0.6.1-2ubuntu0.18.04.1              amd64        Lossy compression of digital photographic images.
-ii  libwebpmux3:amd64                  0.6.1-2ubuntu0.18.04.1              amd64        Lossy compression of digital photographic images.
+ii  libwebp6:amd64                     0.6.1-2ubuntu0.18.04.2              amd64        Lossy compression of digital photographic images.
+ii  libwebpmux3:amd64                  0.6.1-2ubuntu0.18.04.2              amd64        Lossy compression of digital photographic images.
 ii  libwind0-heimdal:amd64             7.5.0+dfsg-1ubuntu0.4               amd64        Heimdal Kerberos - stringprep implementation
 ii  libwmf-dev                         0.2.8.4-12                          amd64        Windows metafile conversion development
 ii  libwmf0.2-7:amd64                  0.2.8.4-12                          amd64        Windows metafile conversion library
@@ -544,7 +544,7 @@ ii  libzstd1:amd64                     1.3.3+dfsg-2ubuntu1.2               amd64
 ii  libzvbi-common                     0.2.35-13                           all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-13                           amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-base                         4.5ubuntu1.7                        all          Linux image base package
-ii  linux-libc-dev:amd64               4.15.0-209.220                      amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               4.15.0-211.222                      amd64        Linux Kernel Headers for development
 ii  locales                            2.27-3ubuntu1.6                     all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.17build1                        amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.5-1ubuntu2.5                    amd64        system login tools
@@ -615,7 +615,7 @@ ii  ruby-minitest                      5.10.3-1                            all  
 ii  ruby-net-telnet                    0.1.1-2                             all          telnet client library
 ii  ruby-power-assert                  0.3.0-1                             all          library showing values of variables and method calls in an expression
 ii  ruby-test-unit                     3.2.5-1                             all          unit testing framework for Ruby
-ii  ruby2.5                            2.5.1-1ubuntu1.13                   amd64        Interpreter of object-oriented scripting language Ruby
+ii  ruby2.5                            2.5.1-1ubuntu1.15                   amd64        Interpreter of object-oriented scripting language Ruby
 ii  rubygems-integration               1.11                                all          integration of Debian Ruby packages with Rubygems
 ii  sed                                4.4-2                               amd64        GNU stream editor for filtering/transforming text
 ii  sensible-utils                     0.0.12                              all          Utilities for sensible alternative selection
