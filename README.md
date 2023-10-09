@@ -1,3 +1,10 @@
+# Deprecation Notice
+As of May 2023 support for Ubuntu Bionic has ended, and as a result, no
+further releases of the `cflinuxfs3` stack will be published. Instead, please
+use the Ubuntu Jammy-based stack available at
+[cloudfoundry/cflinuxfs4](https://github.com/cloudfoundry/cflinuxfs4), which
+will be kept up-to-date and released in the same fashion as `cflinuxfs3`.
+
 Cloud Foundry stack: cflinuxfs3
 ====================
 
